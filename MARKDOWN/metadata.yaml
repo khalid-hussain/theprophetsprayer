@@ -2,5 +2,12 @@
 author: Shaykh Muhammad Nasiruddin Al-Albani
 title: The Prophet's Prayer
 toc: true
-header-includes: \usepackage{libertine}
+lang: en
+otherlangs: ar
+fontsize: 10pt
+documentclass: memoir
+header-includes:
+  - \usepackage{libertine}
+  - \usepackage[paperheight=9in, paperwidth=6in]{geometry}
+  - \chapterstyle{thatcher}
 ---
