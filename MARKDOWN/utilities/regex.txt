@@ -1,0 +1,4 @@
+(\[\^)([0-9]*)(\^\])(\((.*?)\))
+Replace with: $1$2
+To edit the lines: [^x^](link)
+To become: [^x]
