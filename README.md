@@ -6,6 +6,10 @@ This repository is about converting Shaykh Al-Albani's book, "Sifat Salat an-Nab
 # Aim
 The aim is to convert the source mentioned below into markdown format which will then be used to create the respective PDF and HTML formats.
 
+# To Do
+
+I've highlight things which I would like to get back to as TODO comments in the text files. If you know the answer or verifications required, please do contact me or open an issue or send in a pull request.
+
 # Questions
 1. But the book is already available on the website mentioned under 'Sources'?
 
