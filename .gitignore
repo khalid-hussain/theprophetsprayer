@@ -20,6 +20,6 @@ README-moaaz.txt
 
 _pdf/*.aux
 _pdf/*.log
-_pdf/*.synxtex.gz
+_pdf/*.synctex.gz
 _pdf/*.toc
 _pdf/*.pdf
