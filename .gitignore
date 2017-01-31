@@ -17,3 +17,9 @@ notes.moaaz/*.*
 samples
 Pandoc_README.pdf
 README-moaaz.txt
+
+_pdf/*.aux
+_pdf/*.log
+_pdf/*.synxtex.gz
+_pdf/*.toc
+_pdf/*.pdf
