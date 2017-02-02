@@ -1,4 +1,19 @@
-\documentclass[ebook]{memoir}
+\documentclass[parskip=full, ebook]{memoir}
+
+\nouppercaseheads
+\makepagestyle{mystyle}
+\makeevenhead{mystyle}{}{\textsc{the prophet's prayer}}{\thepage}
+\makeoddhead{mystyle}{}{\textsc{al--albānī}}{\thepage}
+\makeevenfoot{mystyle}{}{}{}
+\makeoddfoot{mystyle}{}{}{}
+\makepsmarks{mystyle}{%
+  \createmark{chapter}{left}{nonumber}{}{}
+}
+\pagestyle{mystyle}
+
+\frenchspacing
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{1em}
 
 \usepackage{ebgaramond}
 \usepackage[svgnames, dvipsnames]{xcolor}
