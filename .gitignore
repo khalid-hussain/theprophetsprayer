@@ -23,3 +23,4 @@ _pdf/*.log
 _pdf/*.synctex.gz
 _pdf/*.toc
 _pdf/*.pdf
+_pdf/chapter1.tex
