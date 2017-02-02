@@ -1,10 +1,20 @@
 \documentclass[ebook]{memoir}
 
 \usepackage{ebgaramond}
+\usepackage[svgnames, dvipsnames]{xcolor}
+\usepackage{xspace}
 \usepackage[%
 %
 ]{hyperref}
 \usepackage{bookmark}
+
+\newfontfamily\sakkalfont[
+Script=Arabic,%
+Numbers=Proportional,%
+Scale=1.2,%
+]{Sakkal Majalla}
+
+\newcommand{\pbuh}{{\color{Goldenrod}\sakkalfont{\symbol{"FDFA}}}\xspace}
 
 \begin{document}
 
@@ -17,6 +27,7 @@
 % ******************************
 \mainmatter
 % ********************
+\input{chapter1}
 
 % ******************************
 \backmatter
