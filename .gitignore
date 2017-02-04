@@ -23,7 +23,13 @@ _pdf/*.log
 _pdf/*.synctex.gz
 _pdf/*.toc
 _pdf/*.pdf
+_pdf/*.ent
 _pdf/fm1.tex
 _pdf/fm2.tex
 _pdf/chapter1.tex
 _pdf/chapter2.tex
+_pdf/chapter3.tex
+_pdf/chapter4.tex
+_pdf/chapter5.tex
+_pdf/chapter6.tex
+_pdf/chapter7.tex
