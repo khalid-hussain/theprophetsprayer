@@ -14,10 +14,11 @@ I've highlight things which I would like to get back to as TODO comments in the 
 
 - Qurʾān ayah markers that are valid in both HTML and LaTeX.
 - Add proper dua symbols for Prophets, Scholars and Companions.
-    - Prophets (ʿalayh al-Salām)
-    - Male
-    - Female
-    - Two people
+  - Prophets (ʿalayh al-Salām)
+  - Male
+  - Female
+  - Two people
+  - Them
 
 # Questions
 
