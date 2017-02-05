@@ -12,6 +12,13 @@ The aim is to convert the source mentioned below into markdown format which will
 
 I've highlight things which I would like to get back to as TODO comments in the text files. If you know the answer or verifications required, please do contact me or open an issue or send in a pull request.
 
+- Qurʾān ayah markers that are valid in both HTML and LaTeX.
+- Add proper dua symbols for Prophets, Scholars and Companions.
+    - Prophets (ʿalayh al-Salām)
+    - Male
+    - Female
+    - Two people
+
 # Questions
 
 1. But the book is already available on the website mentioned under 'Sources'?
