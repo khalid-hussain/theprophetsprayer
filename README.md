@@ -19,6 +19,7 @@ I've highlight things which I would like to get back to as TODO comments in the 
   - Female
   - Two people
   - Them
+- Come up with a consistent title case
 
 # Questions
 
