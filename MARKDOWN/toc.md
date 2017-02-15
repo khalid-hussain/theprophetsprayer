@@ -27,9 +27,7 @@
 ### What Breaks The Prayer
 ### Prohibition Of Prayer Facing The Grave
 
-## Intention
-
-## Takbeer
+## Intention and Takbeer
 ### Raising The Hands
 ### To Place The Right Arm On The Left Arm, And The Command For It
 ### To Place The Hands On The Chest
