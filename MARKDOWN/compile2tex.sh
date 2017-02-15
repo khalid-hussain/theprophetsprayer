@@ -14,3 +14,5 @@ pandoc -t latex -o ../_pdf/chapter8.tex 10.md 10_fn.md --top-level-division=chap
 pandoc -t latex -o ../_pdf/chapter9.tex 11.md 11_fn.md --top-level-division=chapter
 pandoc -t latex -o ../_pdf/chapter10.tex 12.md 12_fn.md --top-level-division=chapter
 pandoc -t latex -o ../_pdf/chapter11.tex 13.md 13_fn.md --top-level-division=chapter
+pandoc -t latex -o ../_pdf/chapter12.tex 14.md 14_fn.md --top-level-division=chapter
+
