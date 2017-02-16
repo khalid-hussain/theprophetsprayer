@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Cardo');
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville');
+
+body {
+  padding-top: 60px;
+  text-rendering: optimizeLegibility;
+
+  font-family: 'Libre Baskerville', serif;
+  font-size: 1.5em;
+  font-variant-ligatures: common-ligatures; 
+  -webkit-font-variant-ligatures: common-ligatures;
+
+  /* Kerning */
+  font-feature-settings: "kern";
+  -webkit-font-feature-settings: "kern";
+  font-kerning: normal;
+}
