@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Cardo');
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville');
 @import url('https://fonts.googleapis.com/css?family=Noto+Sans');
-/*@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville');*/
 
 body {
   padding-top: 60px;
@@ -23,9 +23,11 @@ h1,h2,h3,h4,h5,h6 {
   font-family: 'Cardo', serif;
 }
 
-*[lang="ar"] {
-  font-family: "Traditional Arabic", serif;
-  font-size: 3em;
-  text-align: right;
-  direction: rtl;
+h1 {
+  /*font-size: 0.5em;*/
+}
+
+a:link {
+  text-decoration: none;
+  /*font-size: 0.5em;*/
 }
