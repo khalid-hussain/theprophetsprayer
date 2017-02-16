@@ -21,6 +21,7 @@ I've highlight things which I would like to get back to as TODO comments in the 
   - Them
 - Come up with a consistent title case
 - Arabic font for HTML. Windows will use "Traditional Arabic" but this is not present on all systems.
+- Fix the Arabic of `13.md`
 
 # Questions
 
