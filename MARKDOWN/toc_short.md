@@ -17,7 +17,7 @@
 # [The Sujūd (Prostration)]
 # [The Second Rakʿah]
 # [The First Tashaddud]
-# [The Final Tashaddud]
+# [The Last Tashaddud]
 # [The Taslīm]
 
 ---
@@ -42,7 +42,7 @@
 [The Sujūd (Prostration)]: sections/sujud_prostration.html
 [The Second Rakʿah]: sections/second_rakah.html
 [The First Tashaddud]: sections/first_tashaddud.html
-[The Final Tashaddud]: sections/second_tashaddud.html
+[The Last Tashaddud]: sections/last_tashaddud.html
 [The Taslīm]: sections/taslim.html
 
 [Addendum]: sections/addendum.html

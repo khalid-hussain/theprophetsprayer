@@ -51,3 +51,68 @@ pandoc -t html5 -o ../_html/sections/opening_supplications.html 08.md 08_fn.md \
 -c ../css/bigfoot-default.css \
 -B ../_html/header.html \
 -A ../_html/footer.html
+
+pandoc -t html5 -o ../_html/sections/recitation.html 09.md 09_fn.md \
+-N --toc \
+-c ../css/normalize.css \
+-c ../css/skeleton.css \
+-c ../css/index.css \
+-c ../css/bigfoot-default.css \
+-B ../_html/header.html \
+-A ../_html/footer.html
+
+pandoc -t html5 -o ../_html/sections/ruku_bowing.html 10.md 10_fn.md \
+-N --toc \
+-c ../css/normalize.css \
+-c ../css/skeleton.css \
+-c ../css/index.css \
+-c ../css/bigfoot-default.css \
+-B ../_html/header.html \
+-A ../_html/footer.html
+
+pandoc -t html5 -o ../_html/sections/sujud_prostration.html 11.md 11_fn.md \
+-N --toc \
+-c ../css/normalize.css \
+-c ../css/skeleton.css \
+-c ../css/index.css \
+-c ../css/bigfoot-default.css \
+-B ../_html/header.html \
+-A ../_html/footer.html
+
+pandoc -t html5 -o ../_html/sections/second_rakah.html 12.md 12_fn.md \
+-N --toc \
+-c ../css/normalize.css \
+-c ../css/skeleton.css \
+-c ../css/index.css \
+-c ../css/bigfoot-default.css \
+-B ../_html/header.html \
+-A ../_html/footer.html
+
+pandoc -t html5 -o ../_html/sections/first_tashaddud.html 13.md 13_fn.md \
+-N --toc \
+-c ../css/normalize.css \
+-c ../css/skeleton.css \
+-c ../css/index.css \
+-c ../css/bigfoot-default.css \
+-B ../_html/header.html \
+-A ../_html/footer.html
+
+pandoc -t html5 -o ../_html/sections/last_tashaddud.html 14.md 14_fn.md \
+-N --toc \
+-c ../css/normalize.css \
+-c ../css/skeleton.css \
+-c ../css/index.css \
+-c ../css/bigfoot-default.css \
+-B ../_html/header.html \
+-A ../_html/footer.html
+
+pandoc -t html5 -o ../_html/sections/taslim.html 15.md 15_fn.md \
+-N --toc \
+-c ../css/normalize.css \
+-c ../css/skeleton.css \
+-c ../css/index.css \
+-c ../css/bigfoot-default.css \
+-B ../_html/header.html \
+-A ../_html/footer.html
+
+
