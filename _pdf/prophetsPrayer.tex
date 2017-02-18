@@ -1,9 +1,11 @@
-\documentclass[parskip=full, ebook]{memoir}
+\documentclass[parskip=full, ebook, oneside]{memoir}
+
+\chapterstyle{dowding}
 
 \nouppercaseheads
 \makepagestyle{mystyle}
 \makeevenhead{mystyle}{}{\textsc{the prophet's prayer}}{\thepage}
-\makeoddhead{mystyle}{}{\textsc{al--albānī}}{\thepage}
+\makeoddhead{mystyle}{}{\itshape\leftmark}{\thepage}
 \makeevenfoot{mystyle}{}{}{}
 \makeoddfoot{mystyle}{}{}{}
 \makepsmarks{mystyle}{%
@@ -15,14 +17,29 @@
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{1em}
 
-\usepackage{ebgaramond}
+%\usepackage{ebgaramond}
+\usepackage{libertine}
+\usepackage[supstfm=libertinesups,%
+supscaled=1.2,%
+raised=-.13em]% match XHeight of libertine
+{superiors}
 \usepackage[svgnames, dvipsnames]{xcolor}
 \usepackage{xspace}
-%\usepackage{endnotes}
+
 \usepackage[reset=true]{enotez}
-\let\footnote=\endnote
+%%% Enotez customization --http://tex.stackexchange.com/questions/272142/change-color-of-endnotes-markers
+\let\footnote\endnote
+\NewDocumentCommand{\colorendnotemark}{m}{%
+	\textsuperscript{\textcolor{Maroon}{#1}}%
+}
+
+\setenotez{
+	mark-cs = \colorendnotemark
+}
+%%%%
+
 \usepackage[%
-%	hidelinks,
+	hidelinks,
 	pdftitle={The Prophet's Prayer},
 	pdfauthor={Imām Muḥammad Nāṣir al--Dīn},
 	pdfsubject={Religion},
@@ -35,6 +52,7 @@
 \usepackage{polyglossia}
 \setmainlanguage{english}
 \setotherlanguage[numerals=maghrib]{arabic}
+%\setmainfont{Gentium Plus}
 
 \newfontfamily\sakkalfont[
 Script=Arabic,%
