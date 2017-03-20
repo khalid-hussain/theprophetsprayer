@@ -1,4 +1,7 @@
-\documentclass[parskip=full, ebook, oneside]{memoir}
+\documentclass[ebook, oneside]{memoir}
+
+
+\overfullrule=2mm
 
 \chapterstyle{dowding}
 
@@ -17,16 +20,11 @@
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{1em}
 
-%\usepackage{ebgaramond}
-\usepackage{libertine}
-\usepackage[supstfm=libertinesups,%
-supscaled=1.2,%
-raised=-.13em]% match XHeight of libertine
-{superiors}
 \usepackage[svgnames, dvipsnames]{xcolor}
 \usepackage{xspace}
 
-\usepackage[reset=true]{enotez}
+\usepackage[reset=true, backref=true]{enotez}
+
 %%% Enotez customization --http://tex.stackexchange.com/questions/272142/change-color-of-endnotes-markers
 \let\footnote\endnote
 \NewDocumentCommand{\colorendnotemark}{m}{%
@@ -35,6 +33,12 @@ raised=-.13em]% match XHeight of libertine
 
 \setenotez{
 	mark-cs = \colorendnotemark
+}
+
+\DeclareInstance{enotez-list}{normalFont}{list}{
+	% parameter : type = default
+	format = \normalfont,
+	list-type = itemize,
 }
 %%%%
 
@@ -49,26 +53,76 @@ raised=-.13em]% match XHeight of libertine
 	pdfstartview=FitH
 ]{hyperref}
 \usepackage{bookmark}
+\usepackage[no-math]{fontspec}
 \usepackage{polyglossia}
 \setmainlanguage{english}
 \setotherlanguage[numerals=maghrib]{arabic}
-%\setmainfont{Gentium Plus}
 
 \newfontfamily\sakkalfont[
 Script=Arabic,%
-Numbers=Proportional,%
 Scale=1.2,%
 ]{Sakkal Majalla}
 
 \newfontfamily\arabicfont[
 Script=Arabic,%
-Numbers=Proportional,%
 Scale=1.5%
 ]{Traditional Arabic}
 
 \newcommand{\pbuh}{{\color{Goldenrod}\sakkalfont{\symbol{"FDFA}}}\xspace}
 
-\hyphenation{whe-ther}
+%\usepackage{libertine}
+%\setmainfont[Numbers=OldStyle]{TeX Gyre Pagella}
+
+%\setmainfont[Numbers=OldStyle]{Junicode}
+
+\setmainfont[
+Numbers=OldStyle,
+BoldFont={AGaramondPro-Bold.otf}, 
+ItalicFont={AGaramondPro-Italic.otf},
+BoldItalicFont={AGaramondPro-BoldItalic.otf}
+]{AGaramondPro-Regular.otf}
+\catcode`\ʾ=\active
+\defʾ{’}
+\catcode`\ʿ=\active
+\defʿ{‘}
+
+%\usepackage[supstfm=libertinesups,%
+%supscaled=1.2,%
+%raised=-.13em]% match XHeight of libertine
+%{superiors}
+
+% Table of Contents
+\makeatletter
+\renewcommand{\cftchapterleader}{}
+\renewcommand{\cftchapterafterpnum}{\cftparfillskip}
+%\renewcommand{\cftchapterfont}{\scshape\MakeTextLowercase}
+%\renewcommand{\cftchapterpagefont}{\color{Maroon}\bfseries}
+% 1em space between folio and title
+\renewcommand*{\cftchapterformatpnum}[1]{%
+	\cftchapterformatpnumhook{#1}%
+	\nolinebreak[4]\hspace*{0.5em}\hbox to \@pnumwidth{{\cftchapterpagefont #1}\hfill}%
+}
+
+\renewcommand{\cftsectionleader}{}
+\renewcommand{\cftsectionafterpnum}{\cftparfillskip}
+\renewcommand{\cftsectionpagefont}{\color{Maroon}}
+% 1em space between folio and title
+\renewcommand*{\cftsectionformatpnum}[1]{%
+	\cftsectionformatpnumhook{#1}%
+	\nolinebreak[4]\hspace*{0.5em}\hbox to \@pnumwidth{{\cftsectionpagefont #1}\hfill}%
+}
+\makeatother
+
+\hyphenation{whe-ther
+a-ḥā-dīth
+ma-dhā-hib
+mu-qalli-dīn
+maj-mū
+al-Mu-waqqi
+ta-zi-lite
+al-Mukh-tā-rah
+Ṭā-riq
+}
 
 \begin{document}
 
@@ -78,39 +132,37 @@ Scale=1.5%
 \tableofcontents*
 \input{fm1}
 \input{fm2}
+\printendnotes[normalFont]
 
 % ******************************
 \mainmatter
 % ********************
 \input{chapter1} % Facing the Ka'bah
-\printendnotes
+\printendnotes[normalFont]
 \input{chapter2} % Standing in Prayer
-\printendnotes
-%\input{chapter3} % 
-%\printendnotes
+\printendnotes[normalFont]
 \input{chapter4} %
-\printendnotes
+\printendnotes[normalFont]
 \input{chapter5} %
-\printendnotes
+\printendnotes[normalFont]
 \input{chapter6} %
-\printendnotes
+\printendnotes[normalFont]
 \input{chapter7} %
-\printendnotes
+\printendnotes[normalFont]
 \input{chapter8} %
-\printendnotes
+\printendnotes[normalFont]
 \input{chapter9} %
-\printendnotes
+\printendnotes[normalFont]
 \input{chapter10} %
-\printendnotes
+\printendnotes[normalFont]
 \input{chapter11} %
-\printendnotes
+\printendnotes[normalFont]
 \input{chapter12} %
-\printendnotes
+\printendnotes[normalFont]
 \input{chapter13} %
-\printendnotes
+\printendnotes[normalFont]
 % ******************************
 \backmatter
 % ********************
-%\theendnotes
 
 \end{document}
