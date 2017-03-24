@@ -1,6 +1,5 @@
 \documentclass[ebook, oneside]{memoir}
 
-
 \overfullrule=2mm
 
 \chapterstyle{dowding}
@@ -41,6 +40,35 @@
 	list-type = itemize,
 }
 %%%%
+
+% Table of Contents
+\makeatletter
+\renewcommand{\cftchapterleader}{}
+\renewcommand{\cftchapterafterpnum}{\cftparfillskip}
+\renewcommand{\cftchapterpagefont}{}
+
+% http://tex.stackexchange.com/questions/25694/error-when-trying-to-use-maketextuppercase-to-customize-the-table-of-contents
+\renewcommand*{\l@chapter}[2]{%
+	\l@chapapp{\lowercase{#1}}{#2}{\cftchaptername}}
+\renewcommand{\cftchapterfont}{\scshape}
+
+%\renewcommand{\cftchapterpagefont}{\color{Maroon}\bfseries}
+% 1em space between folio and title
+\renewcommand*{\cftchapterformatpnum}[1]{%
+	\cftchapterformatpnumhook{#1}%
+	\nolinebreak[4]\hspace*{0.5em}\hbox to \@pnumwidth{{\cftchapterpagefont #1}\hfill}%
+}
+
+\renewcommand{\cftsectionleader}{}
+\renewcommand{\cftsectionafterpnum}{\cftparfillskip}
+\renewcommand{\cftsectionpagefont}{\color{Maroon}}
+% 1em space between folio and title
+\renewcommand*{\cftsectionformatpnum}[1]{%
+	\cftsectionformatpnumhook{#1}%
+	\nolinebreak[4]\hspace*{0.5em}\hbox to \@pnumwidth{{\cftsectionpagefont #1}\hfill}%
+}
+\makeatother
+%%%%%%
 
 \usepackage[%
 	hidelinks,
@@ -91,28 +119,6 @@ BoldItalicFont={AGaramondPro-BoldItalic.otf}
 %raised=-.13em]% match XHeight of libertine
 %{superiors}
 
-% Table of Contents
-\makeatletter
-\renewcommand{\cftchapterleader}{}
-\renewcommand{\cftchapterafterpnum}{\cftparfillskip}
-%\renewcommand{\cftchapterfont}{\scshape\MakeTextLowercase}
-%\renewcommand{\cftchapterpagefont}{\color{Maroon}\bfseries}
-% 1em space between folio and title
-\renewcommand*{\cftchapterformatpnum}[1]{%
-	\cftchapterformatpnumhook{#1}%
-	\nolinebreak[4]\hspace*{0.5em}\hbox to \@pnumwidth{{\cftchapterpagefont #1}\hfill}%
-}
-
-\renewcommand{\cftsectionleader}{}
-\renewcommand{\cftsectionafterpnum}{\cftparfillskip}
-\renewcommand{\cftsectionpagefont}{\color{Maroon}}
-% 1em space between folio and title
-\renewcommand*{\cftsectionformatpnum}[1]{%
-	\cftsectionformatpnumhook{#1}%
-	\nolinebreak[4]\hspace*{0.5em}\hbox to \@pnumwidth{{\cftsectionpagefont #1}\hfill}%
-}
-\makeatother
-
 \hyphenation{whe-ther
 a-ḥā-dīth
 ma-dhā-hib
@@ -146,7 +152,6 @@ al-Mukh-tā-rah
 \input{chapter5} %
 \printendnotes[normalFont]
 \input{chapter6} %
-\printendnotes[normalFont]
 \input{chapter7} %
 \printendnotes[normalFont]
 \input{chapter8} %
