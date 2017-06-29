@@ -3,39 +3,39 @@
 
 From: Silsilah al-Aḥādīth al-Ḍaʿīfah wa al-Mawdooʿah (58--62) by Shaykh al-Albānī
 
-1) “The disagreement among my _Ummah_ is a mercy.”
+## “The disagreement among my _Ummah_ is a mercy.”
 
-a) **Laa Asla Lahu (Baseless)**. The muhadditheen have tried to find an isnaad for it but have not found one, to the extent that Suyooti said in his al-Jaamiʿ as-Sagheer, "Perhaps it was collected in one of the books of the huffaadh which did not reach us"!
+A. **Lā Aṣla Lahu (Baseless)**. The _Muḥaddithīn_ have tried to find an _isnād_ for it but have not found one, to the extent that al-Suyūṭī said in his _al-Jāmiʿ al-Ṣaghīr_, “Perhaps it was collected in one of the books of the _ḥuffāẓ_ which did not reach us”!
 
-This suggestion is very far-fetched, since it would mean that some of the sayings of the Prophet \pbuh have been lost to the Ummah forever, something which is not permissible for a Muslim to believe.
+This suggestion is very far-fetched, since it would mean that some of the sayings of the Prophet \pbuh have been lost to the _Ummah_ forever, something which is not permissible for a Muslim to believe.
 
-Manaawi quoted Subki as saying, "It (i.e. the saying) is not known to the muhadditheen and I cannot find any isnaad for it, whether saheeh, daʿeef or mawdooʿ", and this was endorsed by Shaykh Zakareeyyah al-Ansaari in his notes on Tafseer al-Baidaawi (92/2).
+Al-Manāwī quoted al-Subkī as saying, “It (i.e. the saying) is not known to the _Muḥaddithīn_ and I cannot find any _isnād_ for it, whether _ṣaḥīḥ_, _daʿīf_ or _mawḍūʿ_,” and this was endorsed by Shaykh Zakariyyah al-Anṣārī in his notes on _Tafsīr al-Bayḍāwī_ (92/2).
 
-Further, the meaning of this hadeeth is also incorrect as shown by the verifying scholars, hence Ibn Hazm says in al-Ihkaam fi Usool al-Ahkaam (5/64) after indicating that it is not a hadeeth,
+Further, the meaning of this _ḥadīth_ is also incorrect as shown by the verifying scholars, hence Ibn Ḥazm says in _al-Iḥkām fī Uṣūl al-Aḥkām_ (5/64) after indicating that it is not a _ḥadīth_, “This is one of the most incorrect sayings possible, since if _ikhtilāf_ were a mercy, then agreement would be a punishment, something which no Muslim would say, because there can only be agreement or disagreement, and there can only be mercy or punishment.”
 
-"This is one of the most incorrect sayings possible, since if ikhtilaaf were a mercy, then agreement would be a punishment, something which no Muslim would say, because there can only be agreement or disagreement, and there can only be mercy or punishment."
+More of Ibn Ḥazm's words are quoted below.
 
-More of Ibn Hazm's words are quoted below.
+B. **It [contradicts]{style="font-variant:small-caps;"} the Qurʾān**, which has condemned _ikhtilāf_ in many places.
 
-b) **It contradicts the Qurʾān**, which has condemned ikhtilaaf in many places.
+## “My Companions are like the stars: whichever of them you follow, you will be rightly-guided.”
 
-2) "My Companions are like the stars: whichever of them you follow, you will be rightly-guided."
+**Mawḍūʿ (Fabricated)**. Related by Ibn ʿAbd al-Barr in _Jāmiʿ Bayān al-ʿIlm_ (2/91) and Ibn Ḥazm in _al-Iḥkām_ (6/82) via the route:
 
-**Mawdooʿ (Fabricated).** Related by Ibn ʿAbdul-Barr in Jaamiʿ Bayaan al-ʿIlm (2/91) and Ibn Hazm in al-Ihkaam (6/82) via the route:
+Sallām ibn Sulaym, who said: “Al-Ḥārith ibn Ghiṣṣīn narrated to us from al-Aʿmash from Abū Sufyān from Jābir from the Prophet \pbuh.”
 
-Sallaam ibn Sulaim, who said: al-Haarith ibn Ghisseen narrated to us from al-Aʿmash from Abu Sufyaan from Jaabir from the Prophet \pbuh.
+Ibn ʿAbd al-Barr said, “Proof cannot be established with this _isnād_ because Al-Ḥārith ibn Ghiṣṣīn is _majhūl_ (unknown)”; Ibn Ḥazm said, “This is a fallen narration. Abū Sufyān is weak; Al-Ḥārith ibn Ghiṣṣīn is Abū Wahb al-Thaqafī; Sallām ibn Sulaymān narrated fabricated aḥādīth - this is one of them without a doubt.”
 
-Ibn ʿAbdul-Barr said, "Proof cannot be established with this isnaad because al-Haarith ibn Ghisseen is majhool (unknown)"; Ibn Hazm said, "This is a fallen narration. Abu Sufyaan is weak; al-Haarith ibn Ghisseen is Abu Wahb ath-Thaqafee; Sallaam ibn Sulaimaan narrated fabricated ahaadeeth - this is one of them without a doubt."
+To judge this ḥadīth on Sallām ibn Sulaym---also known as Sallām ibn Sulaymān---is better, for he is agreed to be _ḍaʿīf_; in fact, Ibn Khirāsh said about him, “An utter liar” and Ibn Ḥibbān said, “He narrated fabricated aḥādīth.”
 
-To judge this hadeeth on Sallaam ibn Sulaim - also known as Sallaam ibn Sulaimaan - is better, for he is agreed to be daʿeef; in fact, Ibn Khiraash said about him, "An utter liar" and Ibn Hibbaan said, "He narrated fabricated ahaadeeth."
+As for Abū Sufyān, he is not weak as Ibn Ḥazm said, but rather he is reliable as Ibn Ḥajar has said in _al-Taqrīb_, and Muslim narrates from him in his _Ṣaḥīḥ_.
 
-As for Abu Sufyaan, he is not weak as Ibn Hazm said, but rather he is reliable as Ibn Hajar has said in at-Taqreeb, and Muslim narrates from him in his Saheeh.
+Al-Ḥārith ibn Ghiṣṣīn is unknown as Ibn Ḥazm said, as did Ibn ʿAbd al-Barr, even though Ibn Ḥibbān does mention him in _al-Thiqāt (The Reliable Narrators)_
 
-Al-Haarith ibn Ghisseen is unknown as Ibn Hazm said, as did Ibn ʿAbdul Barr, even though Ibn Hibbaan does mention him in ath-Thiqaat (The Reliable Narrators)
+Hence, Aḥmad said, “This ḥadīth is not authentic,” as quoted in _al-Muntakhab_ (10/199/2) of Ibn Qudāmah.
 
-Hence, Ahmad said, "This hadeeth is not authentic", as quoted in al-Muntakhab (10/199/2) of Ibn Qudaamah.
+As for the saying of Shaʿrānī in _al-Mīzān_ (1/28), “This _ḥadīth_, although debatable in the eyes of the _Muḥaddithīn_, is nevertheless authentic in the eyes of the people of _Kashf_,” it is completely false and whimsical, and is not to be given any significance! This is because authenticating _aḥādīth_ by way of _Kashf_ (“unveiling,” while in a state of trance) is a wicked innovation of the Ṣūfīs, and depending upon it leads to the authentication of false, baseless _aḥādīth_ such as this one. This is because, even at the best of times, _Kashf_ is like opinion, which is sometimes correct and sometimes wrong -- and that is if no personal desires enter into it! We ask Allāh to save us from it and from everything He is not pleased with.
 
-As for the saying of Shaʿraani in al-Meezaan (1/28), "This hadeeth, although debatable in the eyes of the muhadditheen, is nevertheless authentic in the eyes of the people of Kashf", it is completely false and whimsical, and is not to be given any significance! This is because authenticating ahaadeeth by way of Kashf ("unveiling", while in a state of trance) is a wicked innovation of the Sufis, and depending upon it leads to the authentication of false, baseless ahaadeeth such as this one. This is because, even at the best of times, Kashf is like opinion, which is sometimes correct and sometimes wrong - and that is if no personal desires enter into it! We ask Allaah to save us from it and from everything He is not pleased with.
+<!-- TODO consider rephrasing the following paragraph-->
 
 Similar narrations to the above are as follows:
 
