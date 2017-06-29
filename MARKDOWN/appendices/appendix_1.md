@@ -39,14 +39,13 @@ As for the saying of Shaʿrānī in _al-Mīzān_ (1/28), “This _ḥadīth_, al
 
 Similar narrations to the above are as follows:
 
-2.1) "The example of my Companions is that of the stars: he who follows any of them will be rightly-guided."
+## “The example of my Companions is that of the stars: he who follows any of them will be rightly-guided.”
 
-**Mawdooʿ (Fabricated).** Related by Qudaaʿi (109/2) via:
+**Mawḍūʿ (Fabricated)**. Related by Qudāʿī (109/2) via:
 
-Jaʿfar ibn ʿAbdul Waahid, who said: Wahb ibn Jareer ibn Haazim informed us from his father from al-Aʿmash from Abu Salih from Abu Hurairah from The Prophet \pbuh.
+Jaʿfar ibn ʿAbd al-Wāḥid, who said: “Wahb ibn Jarīr ibn Hāzim informed us from his father from al-Aʿmash from Abū Ṣāliḥ from Abū Hurayrah from The Prophet \pbuh.”
 
-One of the muhadditheen, either Ibn al-Muhibb or Dhahabi, wrote in the margin, "This hadeeth is not at all authentic", i.e. it is fabricated: the flaw in it is Jaʿfar here, about whom Daaraqutni said, "He used to fabricate ahaadeeth"; Abu Zurʿah said, "He narrated baseless ahaadeeth"; Dhahabi gave some hadeeth because of which he disparaged him, among them being this one, and then said, "This is one of his
-calamities!"
+One of the _Muḥaddithīn_, either Ibn al-Muḥibb or al-Dhahabī, wrote in the margin, “This _ḥadīth_ is not at all authentic,” i.e. it is fabricated: the flaw in it is Jaʿfar here, about whom al-Dāraquṭnī said, “He used to fabricate aḥādīth;” Abū Zurʿah said, “He narrated baseless aḥādīth”; al-Dhahabī gave some _ḥadīth_ because of which he disparaged him, among them being this one, and then said, “This is one of his calamities!”
 
 2.2) "Whatever you are given from the Book of Allaah is to be acted upon; there is no excuse for anyone to leave it. If it is not in the Book of Allaah, then (act upon) a previous example (sunnah) of mine. If there is no previous example (sunnah) of mine, then (act upon) what my Companions say: verily, my Companions are of the station of the stars in the sky, so whichever of them you take, you will be guided, and the disagreement of my Companions is a mercy for you."
 
