@@ -1,7 +1,7 @@
 
 # The authentic _ḥadīth_: “"You are right in some of it and wrong in some of it.”
 
-From: _Ṣaḥīḥ al-Bukhārī_, Book of Dreams, English translation of the meanings by Dr. Muḥammad Muḥsin Khan
+From: _Ṣaḥīḥ al-Bukhārī_, Book of Dreams, English translation of the meanings by Dr. Muḥammad Muḥsin Khān.
 
 Narrated Ibn ʿAbbās (Allāh be pleased with him):
 
