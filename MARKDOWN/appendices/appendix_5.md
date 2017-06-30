@@ -2,55 +2,58 @@
 
 # The Weakness of the _Ḥadīth_ condemning Recitation behind the Imam
 
-from: Silsilah al-Ahaadeeth ad-Da\`eefah wal-Mawdoo\`ah (568-570) by
-Shaykh al-Albaani
+From: _Silsilah al-Aḥādīth al-Ḍaʿīfah wa al-Mawḍūʿah_ (568--570) by Shaykh al-Albānī.
 
-[1-\"He who recites behind the imaam, his mouth is filled with fire.\"]{#RTFToC3}
+## “He who recites behind the Imam, his mouth is filled with fire.”
 
-**Mawdoo\` (Fabricated).** Ibn Taahir quoted it in Tadhkirah al-Mawdoo\`aat (p.93), and said, \"The isnaad contains Ma\'moon ibn Ahmad al-Harawi, an utter liar who used to narrate fabrications.\" More of his description is given in hadeeth 2 below. Ibn Hibbaan mentioned this hadeeth under his name in ad-Du\`afaa (The Weak Narrators) and Dhahabi regarded it as one of his calamities!
+**Mawḍūʿ (Fabricated)**. Ibn Ṭāhir quoted it in _Tadhkirah al-Mawḍūʿāt_ (p.\ 93), and said, “The _isnād_ contains Maʾmūn ibn Aḥmad al-Harawī, an utter liar who used to narrate fabrications.” More of his description is given in _ḥadīth_ in the following sub section. Ibn Ḥibbān mentioned this _ḥadīth_ under his name in _al-Ḍuʿafā_ (The Weak Narrators) and al-Dhahabī regarded it as one of his calamities!
 
-Some Hanafis have been deceived by this hadeeth, arguing on its basis that any recitation behind the imaam is totally haraam! Abul Hasanaat al-Luknawi said in at-Ta\`leeq al-Mumajjid \`alaa Muwatta\` Muhammad (p. 99), \"It was mentioned by the author of Nihaayah and by others as marfoo\` with the wording, \`\_there is a burning coal in his mouth\', and it is totally baseless.\"
+Some Ḥanafīs have been deceived by this _ḥadīth_, arguing on its basis that any recitation behind the Imam is totally _ḥarām_! Abū al-Ḥasanāt al-Luknowī said in _al-Taʿlīq al-Mumajjid ʿalā Muwaṭṭā Muḥammad_ (p.\ 99), “It was mentioned by the author of _Nihāyah_ and by others as _marfūʿ_ with the wording, ‘there is a burning coal in his mouth,’ and it is totally baseless.”
 
-He had said before that, \"In no saheeh marfoo\` hadeeth is there a forbiddance of reciting al-Faatihah behind the imaam; all that they quote as marfoo\` regarding this is either baseless or not authentic\", and had then mentioned this hadeeth with both wordings as an example.
+He had said before that, “In no _ṣaḥīḥ marfūʿ ḥadīth_ is there a forbiddance of reciting al-Fātiḥah behind the Imam; all that they quote as _marfūʿ_ regarding this is either baseless or not authentic,” and had then mentioned this _ḥadīth_ with both wordings as an example.
 
-The people of knowledge, both past and present, have differed regarding recitation behind the imaam, taking one of three views:
+The people of knowledge, both past and present, have differed regarding recitation behind the Imam, taking one of three views:
 
 1. That recitation in loud and quiet prayers is obligatory.
 2. That silence in loud and quiet prayers is obligatory.
 3. That there be recitation in quiet, but not in loud, prayers.
 
-This last view is the most balanced and closest to the truth, for in it, all the evidences can be accommodated such that none of them is rejected totally. It is the view of Maalik and Ahmad, and has also been preferred after analysis by some Hanafis, including Abul Hasanaat al-Luknawi in his aforementioned book.
+This last view is the most balanced and closest to the truth, for in it, all the evidences can be accommodated such that none of them is rejected totally. It is the view of Mālik and Aḥmad, and has also been preferred after analysis by some Ḥanafīs, including Abū al-Ḥasanāt al-Luknowī in his aforementioned book.
 
-Another example of Ma'moon al-Harawi's inventions is the following:
+Another example of Maʾmūn al-Harawī's inventions as follows.
 
-[2- \"He who raises his hands during the prayer, there is no prayer for him.\"
+## “He who raises his hands during the prayer, there is no prayer for him.”
 
-**Mawdoo\` (Fabricated).** Ibn Taahir quoted it in Tadhkirah al-Mawdoo\`aat (p. 87), and said, \"The isnaad contains Ma\'moon ibn Ahmad al-Harawi, an utter liar who used to fabricate ahadeeth.\"
+**Mawḍūʿ (Fabricated)**. Ibn Ṭāhir quoted it in _Tadhkirah al-Mawḍūʿāt_ (p.\ 87), and said, “The _isnād_ contains Maʾmūn ibn Aḥmad al-Harawī, an utter liar who used to fabricate _aḥādīth_.”
 
-Dhahabi said about him, "He brought calamities and disgraceful reports. He invented ahaadeeth, this being one of them, and related them apparently on the authority of reliable narrators."
+Al-Dhahabī said about him, “He brought calamities and disgraceful reports. He invented _aḥādīth_, this being one of them, and related them apparently on the authority of reliable narrators.”
 
-It is clear to me from the ahaadeeth which Ma\'moon al-Harawi has invented that he is a bigoted zealot of the Hanafi Madhhab, for all the ahaadeeth mentioned under his descriptions (in books of narrators) revolve around supporting Imaam Abu Haneefah and insulting Imaam Shaafi\`i; amongst them is this one: a clear insult to the Shaafi\`i view, which approves the raising of the hands on going down into rukoo\` and rising from it (which is the truth without doubt), while obviously backing the Hanafi view which says that this is makrooh. This disgusting man was not even satisfied with the position of his Madhhab that raising the hands was makrooh: he even went to the extent of inventing this hadeeth, in order to propagate amongst the people that raising the hands actually invalidates the prayer!
+It is clear to me from the _aḥādīth_ which Maʾmun al-Harawī has invented that he is a bigoted zealot of the Ḥanafī _Madhhab_, for all the _aḥādīth_ mentioned under his descriptions (in books of narrators) revolve around supporting Imām Abū Ḥanīfah and insulting Imām al-Shāfiʿī; amongst them is this one: a clear insult to the Shāfiʿī view, which approves the raising of the hands on going down into _rukūʿ_ and rising from it (which is the truth without doubt), while obviously backing the Ḥanafī view which says that this is _makrūh_. This disgusting man was not even satisfied with the position of his _Madhhab_ that raising the hands was _makrūh_: he even went to the extent of inventing this _ḥadīth_, in order to propagate amongst the people that raising the hands actually invalidates the prayer!
 
-Perhaps he also intended to support Makhool\'s narration from Abu Haneefah that he said, \"He who raises his hands during prayer, his prayer is ruined\", a narration which deceived Ameer Kaatib al-Itqaani, who compiled a treatise on the basis of it to argue the invalidation of the prayer by the raising of the hands! Similarly deceived was the one who trod his path and ruled that it was not permissible for Hanafis to pray behind Shaafi\`is because the latter raise their hands! While all along, this narration from Abu Haneefah is utterly false, as \`Allaamah Abul Hasanaat al-Luknawi has verified in al-Fawa\`id al-Bahiyyah fi Taraajum al-Hanafeeyyah (pp. 116, 216-7).
+Perhaps he also intended to support Makhūl's narration from Abū Ḥanīfah that he said, “He who raises his hands during prayer, his prayer is ruined,” a narration which deceived Amīr Kātib al-Itqāni, who compiled a treatise on the basis of it to argue the invalidation of the prayer by the raising of the hands! Similarly deceived was the one who trod his path and ruled that it was not permissible for Ḥanafīs to pray behind Shāfiʿīs because the latter raise their hands! While all along, this narration from Abū Ḥanīfah is utterly false, as ʿAllāmah Abū al-Ḥasanāt al-Luknowī has verified in _al-Fawāʾid al-Bahiyyah fī Tarājum al-Ḥanafīyyah_ (pp.\ 116, 216--7).
 
-Shaikh \`Ali al-Qaari quoted this hadeeth in al-Mawdoo\`at and then said (p. 81), \"This hadeeth was fabricated by Muhammad b. \`Ukaashah al-Kirmaani, may Allaah disgrace him.\" Later (p. 129), he quoted Ibn al-Qayyim as saying, \"It is fabricated.\"
+Shaykh ʿAli al-Qārī quoted this _ḥadīth_ in _al-Mawḍūʿāt_ and then said (p.\ 81), “This _ḥadīth_ was fabricated by Muḥammad bin ʿUkāshah al-Kirmānī, may Allāh disgrace him.” Later (p.\ 129), he quoted Ibn al-Qayyim as saying, “It is fabricated.”
 
-This is contrary to what has been established (above) that the fabricator was al-Harawi; if it is proved, than perhaps one of them stole it from the other!
+This is contrary to what has been established (above) that the fabricator was al-Harawī; if it is proved, than perhaps one of them stole it from the other!
 
-We can see from all this what lack of heed to the Sunnah, and abandonment of verification of narrations from the Prophet (sallallaahu \`alaihi wa sallam) and the Imaams, can do!
+<!-- TODO consider revising this -->
 
-**NOTE:** About raising the hands on going into rukoo\` and rising from it, many many ahadeeth have been narrated from the Prophet (sallallaahu \`alaihi wa sallam): they are actually mutawaatir in the eyes of the scholars; in fact, raising the hands with every takbeer is proven on his authority in many ahadeeth; whereas not raising the hands is not authentically-related from him except once via \`Abdullaah ibn Mas\`ood (radi Allaahu \`anhu), but this is not suitable for putting into practice, for it is naaf (negatory). It is firmly established, in the eyes of the Hanafis and others, that the muthbit (affirmatory) takes precedence over the naaf (negatory); this is even when the affirmatory is on its own, let alone the case when it is a multitude of narrations, as in this issue! On the basis of this principle, and in the abscence of anything contrary, this renders it binding on them to adopt the raising of the hands, and not to stick zealously to the Madhhab after the establishment of proof. However, it is a pity that only a handful of the earlier or later ones have adopted it, so much so that not raising the hands has become a landmark for them!
+We can see from all this what lack of heed to the Sunnah, and abandonment of verification of narrations from the Prophet \pbuh and the Imāms, can do!
 
-Yet another of the inventions of this vile liar, this time a personal insult to Imaam Shaafi\`i (Muhammad bin Idrees), is the following:
+<!-- TODO small-caps the following so it follows the format of the end notes in the chapters -->
 
-[3- "There will be a man among my ummah known as Muhammad bin Idrees, who will be more harmful to my ummah than Iblees, and there will be a man among my ummah known as Abu Haneefah, who will be the lamp of my ummah."]
+**NOTE:** About raising the hands on going into _rukūʿ_ and rising from it, many many _aḥādīth_ have been narrated from the Prophet \pbuh: they are actually _mutawātir_ in the eyes of the scholars; in fact, raising the hands with every _takbīr_ is proven on his authority in many _aḥādīth_; whereas not raising the hands is not authentically-related from him except once via ʿAbd Allāh ibn Masʿūd (May Allāh be pleased with him), but this is not suitable for putting into practice, for it is _nafī_ (negatory). It is firmly established, in the eyes of the Ḥanafīs and others, that the _muthbit_ (affirmatory) takes precedence over the _nafī_ (negatory); this is even when the affirmatory is on its own, let alone the case when it is a multitude of narrations, as in this issue! On the basis of this principle, and in the absence of anything contrary, this renders it binding on them to adopt the raising of the hands, and not to stick zealously to the _Madhhab_ after the establishment of proof. However, it is a pity that only a handful of the earlier or later ones have adopted it, so much so that not raising the hands has become a landmark for them!
 
-**Mawdoo\` (Fabricated).** Ibn al-Jawzi quoted it in al-Mawdoo\`aat(1/457) via:
+Yet another of the inventions of this vile liar, this time a personal insult to Imām al-Shāfiʿī (Muḥammad bin Idrīs), is as follows.
 
-Ma\'moon ibn Ahmad as-Salmi, who said: Ahmad ibn \`Abdullaah al-Juwaibaari narrated to us: \`Abdullaah ibn Mi\`daan al-Azadi informed us from Anas, as marfoo\`; and then said, \"Fabricated; invented by Ma\'moon or by Juwaibaari. Haakim mentioned in Madhkal that it was said to Ma\'moon, \`Do you not look to Shaafi\`i and his followers?\' So he said, \`Ahmad ibn \`Abdullaah al-Juwaibaari narrated to us...' etc., so it becomes evident from this that he is the fabricator of it.\"
+## “There will be a man among my _Ummah_ known as Muḥammad bin Idrīs, who will be more harmful to my _Ummah_ than Iblīs, and there will be a man among my _Ummah_ known as Abū Ḥanīfah, who will be the lamp of my _Ummah_.”
 
-The following addition appears in Lisaan: \"Haakim then said, \`Anyone whom Allaah has granted the least amount of intelligence would testify that a hadeeth such as this is a fabrication attributed to the Messenger of Allaah (sallallaahu \`alaihi wa sallam)\'.\"
+**Mawdūʿ (Fabricated)**. Ibn al-Jawzī quoted it in _al-Mawḍūʿāt_ (1/457) via:
 
-The hadeeth does have other routes of narration, but these depend on liars and unknown reporters. Therefore, it is extremely bizarre that \`Allaamah \`Ayni should incline towards strengthening the hadeeth with those other routes, and that Shaykh Kawthari should support him! However, it is no surprise from the latter, for he was notorious for being submerged in zealousy for Imaam Abu Haneefah (rahimahullaah), even if it entailed insulting other Imaams; but it is very surprising from \`Ayni, for he was generally known not to go to such extremes. The opinion of these two has been refuted, with analysis of the other routes of narration referred to, in a unique way in \`Allaamah Yamaanee\'s valuable book, at-Tankeel bi maa fi Ta\'neeb al-Kawthari min al-Abaateel (1/20, 446--9).
+Maʾmūn ibn Aḥmad as-Salmī, who said: Aḥmad ibn ʿAbd Allāh al-Juwaybārī narrated to us: ʿAbd Allāh ibn Miʾdān al-Azadī informed us from Anas, as _marfūʿ_; and then said, “Fabricated; invented by Maʾmūn or by al-Juwaybārī.” Al-Ḥākim mentioned in _Madhkal_ that it was said to Maʾmūn, “Do you not look to al-Shāfiʿī and his followers?” So he said, “Ahmad ibn ʿAbd Allāh al-Juwaybārī narrated to us... etc., so it becomes evident from this that he is the fabricator of it.”
+
+The following addition appears in _Lisān_: “Ḥākim then said, ‘Anyone whom Allāh has granted the least amount of intelligence would testify that a _ḥadīth_ such as this is a fabrication attributed to the Messenger of Allāh \pbuh.’”
+
+The _ḥadīth_ does have other routes of narration, but these depend on liars and unknown reporters. Therefore, it is extremely bizarre that ʿAllāmah al-ʿAyni should incline towards strengthening the _ḥadīth_ with those other routes, and that Shaykh al-Kawtharī should support him! However, it is no surprise from the latter, for he was notorious for being submerged in zeal for Imām Abū Ḥanīfah (May Allāh be pleased with him), even if it entailed insulting other Imāms; but it is very surprising from al-ʿAyni, for he was generally known not to go to such extremes. The opinion of these two has been refuted, with analysis of the other routes of narration referred to, in a unique way in ʿAllāmah Yamānī's valuable book, _at-Tankīl bimā fī Taʾnīb al-Kawtharī min al-Abāṭīl_ (1/20, 446--9).
 
 
