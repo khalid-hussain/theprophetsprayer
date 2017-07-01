@@ -1,35 +1,14 @@
-[Appendix 6]{#RTFToC1}
-======================
 
-------------------------------------------------------------------------
 
-\
+# Analysis of the _aḥādīth_ regarding the saying of _āmīn_ by the Imam and the Congregation
 
-[Analysis of the Ahaadeeth regarding the saying of \`aameen\' by the Imaam and the Congregation]{#RTFToC2}
-----------------------------------------------------------------------------------------------------------
+From: _Silsilah al-Aḥādīth al-Ḍaʿīfah_ (951--2) by Shaykh al-Albānī
 
-**from: Silsilah al-Ahaadeeth ad-Da\`eefah (951-2) by Shaykh
-al-Albaani**
+## “When he said _āmīn_, those behind him would say _āmīn_, such that there was a lot of noise in the mosque.”
 
-------------------------------------------------------------------------
+There is [no basis]{style="font-variant:small-caps;"} for the _ḥadīth_ with this wording as far as we know. Ibn Ḥajr said in _Talkhīs al-Habīr_ (p.\ 90), “I do not find it with this wording, but its meaning is related by Ibn Mājah in the _ḥadīth_ of Bishr ibn Rāfi”:
 
-\
-
-[1- \"When he said aameen, those behind him would say aameen, such that there was a lot of noise in the mosque.\"]{#RTFToC3}
-----------------------------------------------------------------------------------------------------------------------------
-
-**There is no basis for the hadeeth with this wording as far as we
-know.** Ibn Hajr said in Talkhees al-Habeer (p. 90), \"I do not find it
-with this wording, but its meaning is related by Ibn Maajah in the
-hadeeth of Bishr ibn Raafi\`\":\
-\
-
-------------------------------------------------------------------------
-
-\
-
-[2- \"When he recited \`Not of those who received Your anger, nor of those who go astray\', he said \`aameen\', such that those close to him in the first row could hear \[and the mosque trembled with it\].\"]{#RTFToC4}
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## “When he recited ‘Not of those who received Your anger, nor of those who go astray,’ he said _āmīn_, such that those close to him in the first row could hear and the mosque trembled with it.”
 
 **Da\`eef (Weak).** Related by Ibn Maajah (1/281) & Abu Dawood without
 the addition (1/148), both via:
