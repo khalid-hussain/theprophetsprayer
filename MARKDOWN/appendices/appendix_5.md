@@ -4,7 +4,7 @@
 
 From: _Silsilah al-Aḥādīth al-Ḍaʿīfah wa al-Mawḍūʿah_ (568--570) by Shaykh al-Albānī.
 
-## “He who recites behind the Imam, his mouth is filled with fire.”
+## “He who recites behind the Imam, his mouth is filled with fire.” {.unnumbered}
 
 **Mawḍūʿ (Fabricated)**. Ibn Ṭāhir quoted it in _Tadhkirah al-Mawḍūʿāt_ (p.\ 93), and said, “The _isnād_ contains Maʾmūn ibn Aḥmad al-Harawī, an utter liar who used to narrate fabrications.” More of his description is given in _ḥadīth_ in the following sub section. Ibn Ḥibbān mentioned this _ḥadīth_ under his name in _al-Ḍuʿafā_ (The Weak Narrators) and al-Dhahabī regarded it as one of his calamities!
 
@@ -22,7 +22,7 @@ This last view is the most balanced and closest to the truth, for in it, all the
 
 Another example of Maʾmūn al-Harawī's inventions as follows.
 
-## “He who raises his hands during the prayer, there is no prayer for him.”
+## “He who raises his hands during the prayer, there is no prayer for him.” {.unnumbered}
 
 **Mawḍūʿ (Fabricated)**. Ibn Ṭāhir quoted it in _Tadhkirah al-Mawḍūʿāt_ (p.\ 87), and said, “The _isnād_ contains Maʾmūn ibn Aḥmad al-Harawī, an utter liar who used to fabricate _aḥādīth_.”
 
@@ -46,7 +46,7 @@ We can see from all this what lack of heed to the Sunnah, and abandonment of ver
 
 Yet another of the inventions of this vile liar, this time a personal insult to Imām al-Shāfiʿī (Muḥammad bin Idrīs), is as follows.
 
-## “There will be a man among my _Ummah_ known as Muḥammad bin Idrīs, who will be more harmful to my _Ummah_ than Iblīs, and there will be a man among my _Ummah_ known as Abū Ḥanīfah, who will be the lamp of my _Ummah_.”
+## “There will be a man among my _Ummah_ known as Muḥammad bin Idrīs, who will be more harmful to my _Ummah_ than Iblīs, and there will be a man among my _Ummah_ known as Abū Ḥanīfah, who will be the lamp of my _Ummah_.” {.unnumbered}
 
 **Mawdūʿ (Fabricated)**. Ibn al-Jawzī quoted it in _al-Mawḍūʿāt_ (1/457) via:
 

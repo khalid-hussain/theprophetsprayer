@@ -3,7 +3,7 @@
 
 From: Silsilah al-Aḥādīth al-Ḍaʿīfah wa al-Mawdooʿah (58--62) by Shaykh al-Albānī
 
-## “The disagreement among my _Ummah_ is a mercy.”
+## “The disagreement among my _Ummah_ is a mercy.” {.unnumbered}
 
 A. **Lā Aṣla Lahu (Baseless)**. The _Muḥaddithīn_ have tried to find an _isnād_ for it but have not found one, to the extent that al-Suyūṭī said in his _al-Jāmiʿ al-Ṣaghīr_, “Perhaps it was collected in one of the books of the _ḥuffāẓ_ which did not reach us”!
 
@@ -17,7 +17,7 @@ More of Ibn Ḥazm's words are quoted below.
 
 B. **It [contradicts]{style="font-variant:small-caps;"} the Qurʾān**, which has condemned _ikhtilāf_ in many places.
 
-## “My Companions are like the stars: whichever of them you follow, you will be rightly-guided.”
+## “My Companions are like the stars: whichever of them you follow, you will be rightly-guided.” {.unnumbered}
 
 **Mawḍūʿ (Fabricated)**. Related by Ibn ʿAbd al-Barr in _Jāmiʿ Bayān al-ʿIlm_ (2/91) and Ibn Ḥazm in _al-Iḥkām_ (6/82) via the route:
 
@@ -39,7 +39,7 @@ As for the saying of Shaʿrānī in _al-Mīzān_ (1/28), “This _ḥadīth_, al
 
 Similar narrations to the above are as follows:
 
-## “The example of my Companions is that of the stars: he who follows any of them will be rightly-guided.”
+## “The example of my Companions is that of the stars: he who follows any of them will be rightly-guided.” {.unnumbered}
 
 **Mawḍūʿ (Fabricated)**. Related by Qudāʿī (109/2) via:
 
@@ -47,7 +47,7 @@ Jaʿfar ibn ʿAbd al-Wāḥid, who said: “Wahb ibn Jarīr ibn Hāzim informed 
 
 One of the _Muḥaddithīn_, either Ibn al-Muḥibb or al-Dhahabī, wrote in the margin, “This _ḥadīth_ is not at all authentic,” i.e. it is fabricated: the flaw in it is Jaʿfar here, about whom al-Dāraquṭnī said, “He used to fabricate aḥādīth;” Abū Zurʿah said, “He narrated baseless aḥādīth”; al-Dhahabī gave some _ḥadīth_ because of which he disparaged him, among them being this one, and then said, “This is one of his calamities!”
 
-## “Whatever you are given from the Book of Allāh is to be acted upon; there is no excuse for anyone to leave it. If it is not in the Book of Allāh, then (act upon) a previous example (_sunnah_) of mine. If there is no previous example (_sunnah_) of mine, then (act upon) what my Companions say; Verily, my Companions are of the station of the stars in the sky, so whichever of them you take, you will be guided, and the disagreement of my Companions is a mercy for you.”
+## “Whatever you are given from the Book of Allāh is to be acted upon; there is no excuse for anyone to leave it. If it is not in the Book of Allāh, then (act upon) a previous example (_sunnah_) of mine. If there is no previous example (_sunnah_) of mine, then (act upon) what my Companions say; Verily, my Companions are of the station of the stars in the sky, so whichever of them you take, you will be guided, and the disagreement of my Companions is a mercy for you.” {.unnumbered}
 
 **Mawḍūʿ (Fabricated)**. Collected by al-Khaṭīb in _al-Kifāyah fī ʿIlm al-Riwāyah_ (p.\ 48) and also by Abū al-ʿAbbās al-Asamm in the his _Ḥadīth_ (#142), and Ibn ʿAsākir (7/315/2) by way of:
 
@@ -72,7 +72,7 @@ Al-Suyūṭī quoted the _ḥadīth_ in its entirety at the beginning of his tre
 
 It could be said to him: first establish the throne, and then sit. What he has mentioned about the choice is false: it is not possible for the Muslim to cling to it and act upon its generality, since it leads to breaking away from the restrictions of the Sharīʿah, as is not hard to see. See also the discussion under 2.4 below.
 
-##  “I asked my Lord about that which my Companions would disagree about after me, so Allāh inspired me: ‘O Muhammad! Your Companions are to Me of the station of the stars in the sky -- some are brighter than others; so whoever takes from any of them in those matters where they have differed, then to Me, he is upon guidance.’”
+##  “I asked my Lord about that which my Companions would disagree about after me, so Allāh inspired me: ‘O Muhammad! Your Companions are to Me of the station of the stars in the sky -- some are brighter than others; so whoever takes from any of them in those matters where they have differed, then to Me, he is upon guidance.’” {.unnumbered}
 
 **Mawḍūʿ (Fabricated)**. Reported by Ibn Baṭṭah in _al-Ibānah_ (4/11/2), al-Khaṭīb, Nizam al-Malik in _al-Amāli_ (13/2), al-Ḍiyā in _al-Muntaqā ʿan Masmūʿātihi bimā Rawa_ (116/2) and Ibn ʿAsākir (6/303/1) by way of:
 Nuʿaym ibn Ḥammād, who said: ʿAbd al-Raḥīm ibn Zayd narrated to us from his father from Saʿīd ibn al-Musayyib from ʿUmar ibn al-Khaṭṭāb from the Prophet \pbuh.
@@ -89,7 +89,7 @@ Al-Suyūṭī recorded this _hadeeth_ in _al-Jāmiʿ al-Ṣaghīr_ through the n
 
 Ibn al-Jawzī said in his _al-ʿIlal_, “This is not authentic. Nuʿaym has been disparaged; Ibn Maʿīn has described ʿAbd al-Raḥīm as an utter liar; it says in _al-Mīzān_: This _ḥadīth_ is false.”
 
-## “Verily, my Companions are like the stars: so if you accept any of their sayings, you will be guided.”
+## “Verily, my Companions are like the stars: so if you accept any of their sayings, you will be guided.” {.unnumbered}
 
 **Mawḍūʿ (Fabricated)**. Ibn ʿAbd al-Barr reports it in _muʿallaq_ (suspended, i.e. an incomplete chain of narrators at the collector's end) form and Ibn Ḥazm reports it from him; the complete chain was provided by ʿAbd ibn Ḥumayd in _al-Muntakhab min al-Musnad_ (86/1):
 

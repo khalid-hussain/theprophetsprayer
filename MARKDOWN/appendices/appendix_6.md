@@ -5,11 +5,11 @@
 
 From: _Silsilah al-Aḥādīth al-Ḍaʿīfah_ (951--2) by Shaykh al-Albānī
 
-## “When he said _āmīn_, those behind him would say _āmīn_, such that there was a lot of noise in the mosque.”
+## “When he said _āmīn_, those behind him would say _āmīn_, such that there was a lot of noise in the mosque.” {.unnumbered}
 
 There is [no basis]{style="font-variant:small-caps;"} for the _ḥadīth_ with this wording as far as we know. Ibn Ḥajr said in _Talkhīs al-Habīr_ (p.\ 90), “I do not find it with this wording, but its meaning is related by Ibn Mājah in the _ḥadīth_ of Bishr ibn Rāfi”:
 
-## “When he recited ‘Not of those who received Your anger, nor of those who go astray,’ he said _āmīn_, such that those close to him in the first row could hear and the mosque trembled with it.”
+## “When he recited ‘Not of those who received Your anger, nor of those who go astray,’ he said _āmīn_, such that those close to him in the first row could hear and the mosque trembled with it.” {.unnumbered}
 
 **Ḍaʿīf (Weak)**. Related by Ibn Mājah (1/281) and Abū Dāwūd without the addition (1/148), both via:
 
@@ -22,7 +22,7 @@ and Ibn Ḥibbān said, ‘He narrated fabrications.’”
 
 This _ḥadīth_ only gives a part of the meaning of the one before it, i.e. the saying of _āmīn_ by the Imam alone. As for the _āmīn_ of those behind, this could be the reason for the phrase “the mosque trembled with it (the sound),” but the _ḥadīth_ literally implies that the _āmīn_ of the Prophet \pbuh was the reason for this.
 
-## “When he finished reciting the Mother of the Qurʾān, he raised his voice and said _āmīn_.”
+## “When he finished reciting the Mother of the Qurʾān, he raised his voice and said _āmīn_.” {.unnumbered}
 
 **Ḍaʿīf (Weak)**. Related by al-Dāraquṭnī, al-Ḥākim and al-Bayhaqī.
 
@@ -32,14 +32,16 @@ All the above sources contain Isḥāq ibn Ibrāhīm ibn al-ʿAlā al-Zubaydī, 
 
 The only support for no. 1 is what al-Shāfiʿī related in his _Musnad_ (1/76) via Muslim ibn Khālid from Ibn Jurayj from ʿAtā, who said:
 
-## “I used to hear the Imāms: Ibn al-Zubayr and others after him would say _āmīn_, and those behind would say _āmīn_, until the mosque echoed.” This has two defects:
+## “I used to hear the Imāms: Ibn al-Zubayr and others after him would say _āmīn_, and those behind would say _āmīn_, until the mosque echoed.” {.unnumbered}
+
+This has two defects:
 
 (i) The weakness of Muslim ibn Khālid al-Zanjī; Ibn Ḥajar said, “He was truthful, but made many errors.”
 
 (ii) The ʿanʿanah of Ibn Jurayj, who was a _mudallis_; perhaps he actually took it from Khālid ibn Abī Anūf, who narrated it from
 ʿAtā as follows:
 
-### “I came across two hundred Companions of the Messenger of Allāh \pbuh in this mosque (i.e. Masjid al-Ḥarām, Makkah): when the Imam had said ‘Nor of those who go astray,’ they raised their voices in _āmīn_ (in one narration: I heard the thundering sound of their _āmīn_).”
+### “I came across two hundred Companions of the Messenger of Allāh \pbuh in this mosque (i.e. Masjid al-Ḥarām, Makkah): when the Imam had said ‘Nor of those who go astray,’ they raised their voices in _āmīn_ (in one narration: I heard the thundering sound of their _āmīn_).” {.unnumbered}
 
 Related by al-Bayhaqī (2/59) and Ibn Ḥibbān in _al-Thiqāt_ (2/74); the alternative narration is from the former.
 
@@ -51,7 +53,7 @@ But then, I saw that al-Bukhārī mentioned the text (only) of the narration abo
 
 In this narration, Ibn Jurayj has clarified that he took the narration from ʿAtā face-to-face, so we are assured of the absence of _tadlīs_, and the narration of Ibn al-Zubayr is established firmly. Similarly is proven from Abū Hurayrah; Abū Rāfī said:
 
-## “Abū Hurayrah used to call to prayer for Marwān ibn al-Ḥakam, stipulating that the latter would not get to ‘Nor of those who go astray’ unless he knew that Abū Hurayrah had entered the row. So when Marwān said ‘Nor of those who go astray,’ Abū Hurayrah would say _āmīn_, prolonging it. He also said, ‘When the _āmīn_ of those on the earth coincides with the _āmīn_ of those in the heaven, they are forgiven.’"
+## “Abū Hurayrah used to call to prayer for Marwān ibn al-Ḥakam, stipulating that the latter would not get to ‘Nor of those who go astray’ unless he knew that Abū Hurayrah had entered the row. So when Marwān said ‘Nor of those who go astray,’ Abū Hurayrah would say _āmīn_, prolonging it. He also said, ‘When the _āmīn_ of those on the earth coincides with the _āmīn_ of those in the heaven, they are forgiven.’" {.unnumbered}
 
 Related by al-Bayhaqī (2/59); its _isnād_ is _ṣaḥīḥ_.
 
