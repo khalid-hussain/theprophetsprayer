@@ -18,11 +18,11 @@ pandoc -t latex -o ../_pdf/chapter12.tex 14.md 14_fn.md --top-level-division=cha
 pandoc -t latex -o ../_pdf/chapter13.tex 15.md 15_fn.md --top-level-division=chapter
 
 # Back matter
-pandoc -t latex -o ../_pdf/appendix1.tex appendix_1.md --top-level-division=chapter
-pandoc -t latex -o ../_pdf/appendix2.tex appendix_2.md --top-level-division=chapter
-pandoc -t latex -o ../_pdf/appendix3.tex appendix_3.md --top-level-division=chapter
-pandoc -t latex -o ../_pdf/appendix4.tex appendix_4.md --top-level-division=chapter
-pandoc -t latex -o ../_pdf/appendix5.tex appendix_5.md --top-level-division=chapter
-pandoc -t latex -o ../_pdf/appendix6.tex appendix_6.md --top-level-division=chapter
-pandoc -t latex -o ../_pdf/appendix7.tex appendix_7.md --top-level-division=chapter
-pandoc -t latex -o ../_pdf/appendix8.tex appendix_8.md --top-level-division=chapter
+pandoc -t latex -o ../_pdf/appendix1.tex appendices/appendix_1.md --top-level-division=chapter
+pandoc -t latex -o ../_pdf/appendix2.tex appendices/appendix_2.md --top-level-division=chapter
+pandoc -t latex -o ../_pdf/appendix3.tex appendices/appendix_3.md --top-level-division=chapter
+pandoc -t latex -o ../_pdf/appendix4.tex appendices/appendix_4.md --top-level-division=chapter
+pandoc -t latex -o ../_pdf/appendix5.tex appendices/appendix_5.md --top-level-division=chapter
+pandoc -t latex -o ../_pdf/appendix6.tex appendices/appendix_6.md --top-level-division=chapter
+pandoc -t latex -o ../_pdf/appendix7.tex appendices/appendix_7.md --top-level-division=chapter
+pandoc -t latex -o ../_pdf/appendix8.tex appendices/appendix_8.md --top-level-division=chapter
