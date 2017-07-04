@@ -1,7 +1,7 @@
 
 
 
-# The Weakness of the _aḥādīth_ Mentioning Wiping the Face with the Hands After Duʿā (Supplication)
+# The weakness of the aḥādīth mentioning wiping the face with the hands after duʿā
 
 From Irwā al-Ghalīl (2/178--182) by Shaykh al-Albānī
 

@@ -1,7 +1,7 @@
 
 
 
-# Analysis of the _aḥādīth_ regarding the saying of _āmīn_ by the Imam and the Congregation
+# Analysis of the aḥādīth regarding the saying of āmīn by the Imam and the Congregation
 
 From: _Silsilah al-Aḥādīth al-Ḍaʿīfah_ (951--2) by Shaykh al-Albānī
 

@@ -1,5 +1,5 @@
 
-# The Weakness of the _Aḥādīth_ endorsing _ikhtilāf_ (disagreement, differing)
+# The weakness of the aḥādīth endorsing ikhtilāf
 
 From: Silsilah al-Aḥādīth al-Ḍaʿīfah wa al-Mawdooʿah (58--62) by Shaykh al-Albānī
 

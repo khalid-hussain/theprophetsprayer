@@ -1,6 +1,6 @@
 
 
-# The Weakness of the _Ḥadīth_ condemning Recitation behind the Imam
+# The weakness of the ḥadīth condemning recitation behind the Imam
 
 From: _Silsilah al-Aḥādīth al-Ḍaʿīfah wa al-Mawḍūʿah_ (568--570) by Shaykh al-Albānī.
 

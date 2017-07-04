@@ -1,5 +1,5 @@
 
-# The authentic _ḥadīth_: “"You are right in some of it and wrong in some of it.”
+# The authentic ḥadīth: “You are right in some of it and wrong in some of it.”
 
 From: _Ṣaḥīḥ al-Bukhārī_, Book of Dreams, English translation of the meanings by Dr. Muḥammad Muḥsin Khān.
 
