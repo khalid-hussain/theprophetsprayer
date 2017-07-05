@@ -30,6 +30,11 @@ I've highlight things which I would like to get back to as TODO comments in the 
 
   **Ans:** Yes that is correct. However, the site design is quite old, still using HTML tables for layout and all the Arabic sections are poor quality images; we hope to rectify these problems insha'Allah.
 
+# Dependencies
+
+- Python 3 -- Used to solve [Pandoc Issue #1762](https://github.com/jgm/pandoc/issues/1762).
+- Adobe Garamond Pro (modified with diacritics) -- However, this can be changed to a different font.
+
 # Source Used
 
 [Qur'an and Sunnah Society of North America](http://www.qss.org/articles/salah/toc.html)
