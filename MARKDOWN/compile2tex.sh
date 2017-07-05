@@ -25,3 +25,13 @@ pandoc -t latex -o ../_pdf/appendix5.tex appendices/appendix_5.md --top-level-di
 pandoc -t latex -o ../_pdf/appendix6.tex appendices/appendix_6.md --top-level-division=chapter
 pandoc -t latex -o ../_pdf/appendix7.tex appendices/appendix_7.md --top-level-division=chapter
 pandoc -t latex -o ../_pdf/appendix8.tex appendices/appendix_8.md --top-level-division=chapter
+
+# https://github.com/jgm/pandoc/issues/1762
+python utilities/script.py ../_pdf/appendix1.tex
+python utilities/script.py ../_pdf/appendix2.tex
+python utilities/script.py ../_pdf/appendix3.tex
+python utilities/script.py ../_pdf/appendix4.tex
+python utilities/script.py ../_pdf/appendix5.tex
+python utilities/script.py ../_pdf/appendix6.tex
+python utilities/script.py ../_pdf/appendix7.tex
+python utilities/script.py ../_pdf/appendix8.tex
