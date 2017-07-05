@@ -21,6 +21,7 @@ Here is even more text just to make sure.
 
 # Regex substitution
 s = re.sub('\\addcontentsline\{toc\}\{section\}\{[\S\s]*\}', '', s)
+s = re.sub('\\addcontentsline{toc}{section}{((?:[^{}]*|[{][^{}]*[}])*)}', '', s) # New
 
 # Print to console
 sys.stdout.buffer.write(s.encode('utf8'))

@@ -17,7 +17,8 @@ if __name__ == '__main__':
     with open(args.filename, 'r') as myfile:
         data = myfile.read()
         # Regex reference: https://stackoverflow.com/a/32082345/2002369
-        data = re.sub(r'\\addcontentsline\{toc\}\{section\}\{[^\}]+\}', '', data)
+        # data = re.sub(r'\\addcontentsline\{toc\}\{section\}\{[^\}]+\}', '', data)
+        data = re.sub(r'\\addcontentsline{toc}{section}{((?:[^{}]*|[{][^{}]*[}])*)}', '', data) # New
         # print(data)
         with open(output_filename, 'w') as f:
             f.write(data)
