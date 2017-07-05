@@ -1,5 +1,5 @@
 
-# The weakness of the ḥadīth about placing the hands below the navel
+# The weakness of the narration about placing the hands below the navel
 
 From _Irwāʾ al-Ghalīl_ (#353) and _Aḥkām al-Janāʾiz_ (p.\ 118), by Shaykh al-Albānī.
 
