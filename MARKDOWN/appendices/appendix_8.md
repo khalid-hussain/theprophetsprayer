@@ -1,7 +1,7 @@
 
 
 
-# The weakness of the narrations mentioning wiping the face with the hands after duʿā
+# H: The weakness of the narrations mentioning wiping the face with the hands after duʿā
 
 From Irwā al-Ghalīl (2/178--182) by Shaykh al-Albānī
 

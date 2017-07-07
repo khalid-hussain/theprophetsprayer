@@ -1,6 +1,6 @@
 
 
-# The weakness of the narration condemning recitation behind the Imam
+# E: The weakness of the narration condemning recitation behind the Imam
 
 From: _Silsilah al-Aḥādīth al-Ḍaʿīfah wa al-Mawḍūʿah_ (568--570) by Shaykh al-Albānī.
 
