@@ -112,37 +112,41 @@ Scale=1.5%
 
 \newcommand{\pbuh}{{\color{Goldenrod}\sakkalfont{\symbol{"FDFA}}}\xspace}
 
-%\usepackage{libertine}
-%\setmainfont[Numbers=OldStyle]{TeX Gyre Pagella}
-
-%\setmainfont[Numbers=OldStyle]{Junicode}
-
 \setmainfont[
 Numbers=OldStyle,
 BoldFont={AGaramondPro-Bold.otf}, 
 ItalicFont={AGaramondPro-Italic.otf},
 BoldItalicFont={AGaramondPro-BoldItalic.otf}
 ]{AGaramondPro-Regular.otf}
-\catcode`\ʾ=\active
-\defʾ{’}
-\catcode`\ʿ=\active
-\defʿ{‘}
 
-%\usepackage[supstfm=libertinesups,%
-%supscaled=1.2,%
-%raised=-.13em]% match XHeight of libertine
-%{superiors}
+
+\newfontfamily\ebgaramondQuote[
+%ItalicFont={AGaramondPro-Italic.otf}
+]
+{EBGaramond12-Regular.otf}
+\usepackage{newunicodechar}
+\newunicodechar{ʿ}{{\ebgaramondQuote ʿ}}
+\newunicodechar{ʾ}{{\ebgaramondQuote ʾ}}
+
+%\catcode`\ʾ=\active
+%\defʾ{’}
+%\catcode`\ʿ=\active
+%\defʿ{‘}
 
 \hyphenation{whe-ther
 a-ḥā-dīth
+al-Ḥā-kim
+Ḥā-kim
 ma-dhā-hib
 mu-qalli-dīn
-maj-mū
 al-Mu-waqqi
 ta-zi-lite
 al-Mukh-tā-rah
+Mukh-tā-rah
 Ṭā-riq
 al-Ri-wā-yah
+al-Ḥa-rām
+Ḥa-rām
 }
 
 \begin{document}
