@@ -1,5 +1,8 @@
 \documentclass[ebook, oneside]{memoir}
 
+% Used for testing hyphenation
+\usepackage{testhyphens}
+
 \overfullrule=2mm
 
 \chapterstyle{dowding}
@@ -119,14 +122,13 @@ ItalicFont={AGaramondPro-Italic.otf},
 BoldItalicFont={AGaramondPro-BoldItalic.otf}
 ]{AGaramondPro-Regular.otf}
 
-
-\newfontfamily\ebgaramondQuote[
-%ItalicFont={AGaramondPro-Italic.otf}
-]
-{EBGaramond12-Regular.otf}
-\usepackage{newunicodechar}
-\newunicodechar{ʿ}{{\ebgaramondQuote ʿ}}
-\newunicodechar{ʾ}{{\ebgaramondQuote ʾ}}
+%\newfontfamily\ebgaramondQuote[
+%%ItalicFont={AGaramondPro-Italic.otf}
+%]
+%{EBGaramond12-Regular.otf}
+%\usepackage{newunicodechar}
+%\newunicodechar{ʿ}{{\ebgaramondQuote ʿ}}
+%\newunicodechar{ʾ}{{\ebgaramondQuote ʾ}}
 
 %\catcode`\ʾ=\active
 %\defʾ{’}
@@ -147,6 +149,7 @@ Mukh-tā-rah
 al-Ri-wā-yah
 al-Ḥa-rām
 Ḥa-rām
+al-In-shi-qāq
 }
 
 \begin{document}
@@ -155,6 +158,25 @@ al-Ḥa-rām
 \frontmatter
 % ********************
 \tableofcontents*
+
+%\begin{checkhyphens}{}
+%whe-ther
+%a-ḥā-dīth
+%al-Ḥā-kim
+%Ḥā-kim
+%ma-dhā-hib
+%mu-qalli-dīn
+%al-Mu-waqqi
+%ta-zi-lite
+%al-Mukh-tā-rah
+%Mukh-tā-rah
+%Ṭā-riq
+%al-Ri-wā-yah
+%al-Ḥa-rām
+%Ḥa-rām
+%al-In-shi-qāq
+%\end{checkhyphens}
+
 \input{fm1}
 \input{fm2}
 \printendnotes[normalFont]
