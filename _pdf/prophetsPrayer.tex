@@ -1,10 +1,16 @@
 \documentclass[ebook, oneside]{memoir}
 
-% Used for testing hyphenation
-\usepackage{testhyphens}
-
 \overfullrule=2mm
 
+% ******************************
+%       UTILITIES
+% ********************
+\input{utilities/arabicwords.tex}
+\input{utilities/quranchapters.tex}
+
+% ******************************
+%       MEMOIR SETTINGS
+% ********************
 \chapterstyle{dowding}
 
 \nouppercaseheads
@@ -22,80 +28,84 @@
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{1em}
 
+    % ******************************
+    %       TABLE OF CONTENTS
+    % ********************
+    \makeatletter
+    \renewcommand{\cftchapterleader}{}
+    \renewcommand{\cftchapterafterpnum}{\cftparfillskip}
+    \renewcommand{\cftchapterpagefont}{}
+
+    % http://tex.stackexchange.com/questions/25694/error-when-trying-to-use-maketextuppercase-to-customize-the-table-of-contents
+    \renewcommand*{\l@chapter}[2]{%
+      \l@chapapp{\lowercase{#1}}{#2}{\cftchaptername}}
+    \renewcommand{\cftchapterfont}{\scshape}
+
+    % 1em space between folio and title
+    \renewcommand*{\cftchapterformatpnum}[1]{%
+      \cftchapterformatpnumhook{#1}%
+      \nolinebreak[4]\hspace*{0.5em}\hbox to \@pnumwidth{{\cftchapterpagefont #1}\hfill}%
+    }
+
+    \renewcommand{\cftsectionleader}{}
+    \renewcommand{\cftsectionafterpnum}{\cftparfillskip}
+    \renewcommand{\cftsectionpagefont}{\color{Maroon}}
+
+    % 1em space between folio and title
+    \renewcommand*{\cftsectionformatpnum}[1]{%
+      \cftsectionformatpnumhook{#1}%
+      \nolinebreak[4]\hspace*{0.5em}\hbox to \@pnumwidth{{\cftsectionpagefont #1}\hfill}%
+    }
+    \makeatother
+
+% ******************************
+%       QURAN AYAH ENV
+% ********************
+\newcommand{\ayahSize}{0.05}
+\def\signed #1{{\leavevmode\unskip\nobreak\hfil\penalty50\hskip2em
+    \hbox{}\nobreak\hfil(#1)%
+    \parfillskip=0pt \finalhyphendemerits=0 \endgraf}}
+
+\newsavebox\mybox
+\newenvironment{aquote}[1]
+{\savebox\mybox{#1}\begin{quote}}
+  {\signed{\usebox\mybox}\end{quote}}
+
+% ******************************
+%       PACKAGES
+% ********************
 \usepackage[svgnames, dvipsnames]{xcolor}
 \usepackage{xspace}
 
 \usepackage[reset=true, backref=true]{enotez}
 
-%%% Enotez customization --http://tex.stackexchange.com/questions/272142/change-color-of-endnotes-markers
-\let\footnote\endnote
-\NewDocumentCommand{\colorendnotemark}{m}{%
-	\textsuperscript{\textcolor{Maroon}{#1}}%
-}
+    % ******************************
+    %       ENOTEZ SETTINGS
+    %       http://tex.stackexchange.com/questions/272142/change-color-of-endnotes-markers
+    % ********************
+    \let\footnote\endnote
+    \NewDocumentCommand{\colorendnotemark}{m}{%
+      \textsuperscript{\textcolor{Maroon}{#1}}%
+    }
 
-\setenotez{
-	mark-cs = \colorendnotemark
-}
+    \setenotez{
+      mark-cs = \colorendnotemark
+    }
 
-\DeclareInstance{enotez-list}{normalFont}{list}{
-	% parameter : type = default
-	format = \normalfont,
-	list-type = itemize,
-}
-%%%%
-
-% Quran ayah
-\input{utilities/arabicwords.tex}
-\input{utilities/quranchapters.tex}
-\newcommand{\ayahSize}{0.05}
-\def\signed #1{{\leavevmode\unskip\nobreak\hfil\penalty50\hskip2em
-		\hbox{}\nobreak\hfil(#1)%
-		\parfillskip=0pt \finalhyphendemerits=0 \endgraf}}
-
-\newsavebox\mybox
-\newenvironment{aquote}[1]
-{\savebox\mybox{#1}\begin{quote}}
-	{\signed{\usebox\mybox}\end{quote}}
-% End of Quran ayah
-
-% Table of Contents
-\makeatletter
-\renewcommand{\cftchapterleader}{}
-\renewcommand{\cftchapterafterpnum}{\cftparfillskip}
-\renewcommand{\cftchapterpagefont}{}
-
-% http://tex.stackexchange.com/questions/25694/error-when-trying-to-use-maketextuppercase-to-customize-the-table-of-contents
-\renewcommand*{\l@chapter}[2]{%
-	\l@chapapp{\lowercase{#1}}{#2}{\cftchaptername}}
-\renewcommand{\cftchapterfont}{\scshape}
-
-%\renewcommand{\cftchapterpagefont}{\color{Maroon}\bfseries}
-% 1em space between folio and title
-\renewcommand*{\cftchapterformatpnum}[1]{%
-	\cftchapterformatpnumhook{#1}%
-	\nolinebreak[4]\hspace*{0.5em}\hbox to \@pnumwidth{{\cftchapterpagefont #1}\hfill}%
-}
-
-\renewcommand{\cftsectionleader}{}
-\renewcommand{\cftsectionafterpnum}{\cftparfillskip}
-\renewcommand{\cftsectionpagefont}{\color{Maroon}}
-% 1em space between folio and title
-\renewcommand*{\cftsectionformatpnum}[1]{%
-	\cftsectionformatpnumhook{#1}%
-	\nolinebreak[4]\hspace*{0.5em}\hbox to \@pnumwidth{{\cftsectionpagefont #1}\hfill}%
-}
-\makeatother
-%%%%%%
+    \DeclareInstance{enotez-list}{normalFont}{list}{
+      format = \normalfont,
+      list-type = itemize,
+    }
 
 \usepackage[%
-	hidelinks,
-	pdftitle={The Prophet's Prayer},
-	pdfauthor={Imām Muḥammad Nāṣir al--Dīn},
-	pdfsubject={Religion},
-	pdfkeywords={Islam, Religion, Worship, Fiqh, Jurisprudence},
-	bookmarksnumbered=false,
-	bookmarksopen=false,
-	pdfstartview=FitH
+  hidelinks,
+  pdftitle={The Prophet's Prayer},
+  pdfauthor={Imām Muḥammad Nāṣir al--Dīn},
+  pdfsubject={Religion},
+  pdfkeywords={Islam, Religion, Worship, Fiqh, Jurisprudence},
+  bookmarksnumbered=false,
+  bookmarksopen=false,
+  pdfstartview=FitH
 ]{hyperref}
 \usepackage{bookmark}
 \usepackage[no-math]{fontspec}
@@ -103,6 +113,10 @@
 \setmainlanguage{english}
 \setotherlanguage[numerals=maghrib]{arabic}
 
+
+% ******************************
+%       FONTS
+% ********************
 \newfontfamily\sakkalfont[
 Script=Arabic,%
 Scale=1.2,%
@@ -113,8 +127,6 @@ Script=Arabic,%
 Scale=1.5%
 ]{Traditional Arabic}
 
-\newcommand{\pbuh}{{\color{Goldenrod}\sakkalfont{\symbol{"FDFA}}}\xspace}
-
 \setmainfont[
 Numbers=OldStyle,
 BoldFont={AGaramondPro-Bold.otf}, 
@@ -122,34 +134,20 @@ ItalicFont={AGaramondPro-Italic.otf},
 BoldItalicFont={AGaramondPro-BoldItalic.otf}
 ]{AGaramondPro-Regular.otf}
 
-%\newfontfamily\ebgaramondQuote[
-%%ItalicFont={AGaramondPro-Italic.otf}
-%]
-%{EBGaramond12-Regular.otf}
-%\usepackage{newunicodechar}
-%\newunicodechar{ʿ}{{\ebgaramondQuote ʿ}}
-%\newunicodechar{ʾ}{{\ebgaramondQuote ʾ}}
+\newcommand{\pbuh}{{\color{Goldenrod}\sakkalfont{\symbol{"FDFA}}}\xspace}
 
-%\catcode`\ʾ=\active
-%\defʾ{’}
-%\catcode`\ʿ=\active
-%\defʿ{‘}
-
+% ******************************
+%       HYPHENATION
+% ********************
 \hyphenation{whe-ther
+breth-ren
 a-ḥā-dīth
-al-Ḥā-kim
-Ḥā-kim
+ḥa-dīth
 ma-dhā-hib
 mu-qalli-dīn
-al-Mu-waqqi
-ta-zi-lite
-al-Mukh-tā-rah
-Mukh-tā-rah
-Ṭā-riq
-al-Ri-wā-yah
-al-Ḥa-rām
-Ḥa-rām
-al-In-shi-qāq
+ṭā-riq
+ḥa-rām
+Taḥ-dhī-ru-hum
 }
 
 \begin{document}
@@ -158,24 +156,6 @@ al-In-shi-qāq
 \frontmatter
 % ********************
 \tableofcontents*
-
-%\begin{checkhyphens}{}
-%whe-ther
-%a-ḥā-dīth
-%al-Ḥā-kim
-%Ḥā-kim
-%ma-dhā-hib
-%mu-qalli-dīn
-%al-Mu-waqqi
-%ta-zi-lite
-%al-Mukh-tā-rah
-%Mukh-tā-rah
-%Ṭā-riq
-%al-Ri-wā-yah
-%al-Ḥa-rām
-%Ḥa-rām
-%al-In-shi-qāq
-%\end{checkhyphens}
 
 \input{fm1}
 \input{fm2}
@@ -189,8 +169,6 @@ al-In-shi-qāq
 \input{chapter2} % Standing in Prayer
 \printendnotes[normalFont]
 \input{chapter4} %
-\printendnotes[normalFont]
-\input{chapter5} %
 \printendnotes[normalFont]
 \input{chapter6} %
 \input{chapter7} %
