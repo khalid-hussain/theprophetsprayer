@@ -18,6 +18,7 @@ samples
 Pandoc_README.pdf
 README-moaaz.txt
 
+_pdf/workspace/
 _pdf/workspace/*.*
 _pdf/*.aux
 _pdf/*.log
