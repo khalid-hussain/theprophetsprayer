@@ -1,7 +1,7 @@
 
 
 
-# F: Analysis of the narrations regarding the saying of āmīn by the Imam and the Congregation
+# Analysis of the narrations regarding the saying of āmīn by the Imam and the Congregation
 
 From: _Silsilah al-Aḥādīth al-Ḍaʿīfah_ (951--2) by Shaykh al-Albānī
 

@@ -1,5 +1,5 @@
 
-# A: The weakness of the narrations endorsing ikhtilāf
+# The weakness of the narrations endorsing ikhtilāf
 
 From: Silsilah al-Aḥādīth al-Ḍaʿīfah wa al-Mawdooʿah (58--62) by Shaykh al-Albānī
 

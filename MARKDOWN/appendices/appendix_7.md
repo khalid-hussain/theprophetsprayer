@@ -1,7 +1,7 @@
 
 
 
-# G: The Two Rakʿahs After Witr
+# The Two Rakʿahs After Witr
 
 From: _Silsilah al-Aḥādīth al-Ṣaḥīḥah_ (1993) by Shaykh al-Albānī
 

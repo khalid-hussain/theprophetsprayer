@@ -1,5 +1,5 @@
 
-# C: The one who prayed badly
+# The one who prayed badly
 
 In _ḥadīth_ and _fiqh_ literature, this term refers to the Companion mentioned in the following _ḥadīth_ of _Ṣaḥīḥ al-Bukhārī_ (Book of Prayer, English translation by Dr. Muḥammad Muḥsin Khān); many other narrations of this incident are found in the various collections of _ḥadīth_, and provide an important source of instructions from the Prophet \pbuh regarding the correct way to pray:
 
