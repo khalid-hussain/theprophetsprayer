@@ -6,9 +6,7 @@
 
 <!-- [^b3]: Sūrah Hūd, 11:118--9. -->
 
-<!-- Check the following titles -->
-
-[^b4]: cf. _al-Iḥkām fī Uṣūl al-Aḥkām_ by Ibn Ḥazm, _Hujjatullāh al-Bālighah_ by al-Dehlawi, and the latter's essay dealing specifically with this issue, _ʿIqd al-Jīd fī Aḥkām al-Ijtihād wa al-Taqlīd_.
+[^b4]: cf. _al-Iḥkām fī Uṣūl al-Aḥkām_ by Ibn Ḥazm, _Hujjat Allāh al-Bālighah_ by al-Dehlawi, and the latter's essay dealing specifically with this issue, _ʿIqd al-Jīd fī Aḥkām al-Ijtihād wa al-Taqlīd_.
 
 [^b5]: See _Fayḍ al-Qadīr_ by al-Manāwī (1/209) or _Silsilah al-Aḥādīth al-Ḍaʿīfah_ (1/76, 77).
 
@@ -20,9 +18,7 @@
 
 [^b9]: Ibid (2/89).
 
-<!-- TODO I'm unsure about the exact reference -->
-
-[^b10]: cf. _al-Intiqāʾ_ by Ibn ʿAbd al-Barr (41), _Kashf al-Mughatta fī Faḍl al-Muwaṭṭāʾ_ (pp.\ 6--7) by Ibn ʿAsākir, and _Tadhkirah al-Ḥuffāẓ_ by al-Dhahabī (1/195).
+[^b10]: cf. _al-Intiqā_ by Ibn ʿAbd al-Barr (41), _Kashf al-Mughaṭṭa fī Faḍl al-Muwaṭṭā_ (pp.\ 6--7) by Ibn ʿAsākir, and _Tadhkirah al-Ḥuffāẓ_ by al-Dhahabī (1/195).
 
 [^b11]: _Jāmiʿ Bayān al-ʿIlm_ (2/88).
 
