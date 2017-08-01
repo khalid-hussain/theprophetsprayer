@@ -8,6 +8,13 @@
 ehthumbs.db
 Thumbs.db
 
+*.aux
+*.log
+*.synctex.gz
+*.toc
+*.pdf
+*.ent
+
 .dropbox
 desktop.ini
 notes.khalid
