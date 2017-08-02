@@ -1,0 +1,96 @@
+\documentclass[ebook]{memoir}
+\chapterstyle{thatcher}
+
+%\usepackage{ebgaramond}
+\usepackage{polyglossia}
+\usepackage{tabularx}
+\usepackage{enumitem}
+
+\setmainlanguage{english}
+\setotherlanguage{arabic}
+
+\newfontfamily\arabicfont[
+Script=Arabic,
+Numbers=Proportional,
+Scale=1.4%,
+]{Scheherazade}
+
+\setmainfont[
+Numbers=OldStyle,
+BoldFont={AGaramondPro-Bold.otf}, 
+ItalicFont={AGaramondPro-Italic.otf},
+BoldItalicFont={AGaramondPro-BoldItalic.otf}
+]{AGaramondPro-Regular.otf}
+
+\begin{document}
+%\setlength{\parindent}{0in}
+\chapter*{Transliteration Key}
+\vspace{-2.3em}
+\thispagestyle{empty}
+
+\begin{table}[!h]
+{\def\arraystretch{1.2}\tabcolsep=5pt
+\begin{tabular}{@{}cl@{}}
+\textarabic{ء} & {\large ʾ}\textsuperscript{(1)}\\
+\textarabic{ا} & {\large ā, a}\\
+\textarabic{ب} & {\large b}\\
+\textarabic{ت} & {\large t}\\
+\textarabic{ث} & {\large th}\textsuperscript{(2)}\\
+\textarabic{ج} & {\large j}\\
+\textarabic{ح} & {\large ḥ}\textsuperscript{(3)}\\
+\textarabic{خ} & {\large kh}\textsuperscript{(4)}\\
+\textarabic{د} & {\large d}\\
+\textarabic{ذ} & {\large dh}\textsuperscript{(5)}\\
+\end{tabular}}
+\hfill
+{\def\arraystretch{1.2}\tabcolsep=5pt
+	\begin{tabular}{@{}cl@{}}
+%\begin{tabular}{cl}
+\textarabic{ر} & {\large r}\textsuperscript{(6)}\\
+\textarabic{ز} & {\large z}\\
+\textarabic{س} & {\large s}\\
+\textarabic{ش} & {\large sh}\\
+\textarabic{ص} & {\large ṣ}\textsuperscript{(7)}\\
+\textarabic{ض} & {\large ḍ}\textsuperscript{(8)}\\
+\textarabic{ط} & {\large ṭ}\textsuperscript{(9)}\\
+\textarabic{ظ} & {\large ẓ}\textsuperscript{(10)}\\
+\textarabic{ع} & {\large ʿ}\textsuperscript{(11)}\\
+\textarabic{غ} & {\large gh}\textsuperscript{(12)}\\
+\end{tabular}}
+\hfill
+{\def\arraystretch{1.2}\tabcolsep=5pt
+\begin{tabular}{@{}cl@{}}
+%\begin{tabular}{cl}
+\textarabic{ف} & {\large f}\\
+\textarabic{ق} & {\large q}\textsuperscript{(13)}\\
+\textarabic{ك} & {\large k}\\
+\textarabic{ل} & {\large l}\\
+\textarabic{م} & {\large m}\\
+\textarabic{ن} & {\large n}\\
+\textarabic{ه} & {\large h}\textsuperscript{(14)}\\
+\textarabic{و} & {\large ū, u, w}\\
+\textarabic{ي} & {\large ī, i, y}\\
+\textarabic{} & {\large }\\
+\end{tabular}}
+\end{table}
+\vspace{-0.95em}
+\begin{small}
+\begin{enumerate}[leftmargin=*]
+\setlength\itemsep{-0.2em}
+\item A distinctive glottal stop made at the bottom of the throat.
+\item Pronounced like the \textit{th} in \textit{think}.
+\item Hard \textit{h} sound made at the Adam’s apple in the middle of the throat.
+\item Pronounced like \textit{ch} in Scottish \textit{loch}.
+\item Pronounced like \textit{th} in \textit{this}.
+\item A slightly trilled \textit{r} made behind the upper front teeth.
+\item An emphatic \textit{s} pronounced behind the upper front teeth.
+\item An emphatic \textit{d}-like sound made by pressing the entire tongue against the upper palate.
+\item An emphatic \textit{t} sound produced behind the front teeth.
+\item An emphatic \textit{th} sound, like the \textit{th} in this, made behind the front teeth.
+\item A distinctive Semitic sound made in the middle of the throat and sounding to a Western ear more like a vowel than a consonant.
+\item A guttural sound made at the top of the throat resembling the untrilled German and French \textit{r}.
+\item A hard \textit{k} sound produced at the back of the palate.
+\item This sound is like the English \textit{h} but has more body. It is made at the very bottom of the throat and pronounced at the beginning, middle, and ends of words.
+\end{enumerate}
+\end{small}
+\end{document}
