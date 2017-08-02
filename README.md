@@ -13,6 +13,7 @@ The aim is to convert the source mentioned below into markdown format which will
 I've highlight things which I would like to get back to as TODO comments in the text files. If you know the answer or verifications required, please do contact me or open an issue or send in a pull request.
 
 - Qurʾān ayah markers that are valid in both HTML and LaTeX.
+- Ayahs quoted as block use a different reference compared to inline quotations. Is this a problem?
 - Add proper dua symbols for Prophets, Scholars and Companions.
   - Prophets (ʿalayh al-Salām)
   - Male
@@ -24,6 +25,15 @@ I've highlight things which I would like to get back to as TODO comments in the 
 - Fix the Arabic of `13.md`
 - Remove hamza transliteration if it comes at the end of a word. Example: _Irwāʾ al-Ghalīl_ --> _Irwā al-Ghalīl_.
 - Unify all references to Quranic chapters and verses. Consider cleaning up the reference style with regard to mentioning the total number of verses.
+
+## Cover
+
+- Use golden ratio
+
+## Final
+
+- Ensure footnotes are correct.
+- Link internal sections.
 
 # Questions
 
