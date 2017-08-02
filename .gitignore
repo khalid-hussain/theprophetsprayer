@@ -12,6 +12,7 @@ Thumbs.db
 *.aux
 *.log
 *.synctex.gz
+*.synctex.gz(busy)
 *.toc
 *.pdf
 *.ent
