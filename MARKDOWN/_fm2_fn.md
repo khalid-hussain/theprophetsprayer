@@ -38,5 +38,5 @@
 
 [^b17]: Al-Bukhārī and Muslim; see _Appendix B_ for the full _ḥadīth_.
 
-[^b18]: Sūrah al-Anfāl, 8:24.
+<!-- [^b18]: Sūrah al-Anfāl, 8:24. -->
 

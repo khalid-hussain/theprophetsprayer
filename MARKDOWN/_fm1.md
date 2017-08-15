@@ -3,7 +3,7 @@
 
 In the Name of Allāh, the Merciful, the Bestower of Mercy.
 
-Praise be to Allāh, who made Prayer compulsory on his slaves and ordered them to establish it and perform it well; who linked success and felicity to humility in Prayer; who made it the criterion to distinguish between Īmān and Kufr; and who made it a restrainer from shameful and unjust deeds.
+Praise be to Allāh, who made prayer compulsory on his slaves and ordered them to establish it and perform it well; who linked success and felicity to humility in prayer; who made it the criterion to distinguish between _Īmān_ and _Kufr_; and who made it a restrainer from shameful and unjust deeds.
 
 Prayers and peace be upon our Prophet Muḥammad, who was addressed in the Words of the Exalted:
 
@@ -47,7 +47,7 @@ As for the subsidiary text, it is a commentary on the main text. In it I have tr
 
 Next, I have mentioned in the subsidiary text the _madhāhib_ of the scholars regarding the _ḥadīth_ traced, as well as the evidence and counter-evidence for each view, along with the strengths and weaknesses of each argument. We have then selected out of that the correct view which we have given in the main text. Also in the subsidiary text, we have given some issues for which there is no text in the Sunnah, but which require _ijtihād_, and do not come under the title of this book.
 
-Since the publication of this book with both main and subsidiary texts is not feasible right now due to various reasons, we have decided to publish only the main text of the book (along with brief footnotes) by Allāh's Will, and named it _Ṣifah Ṣalāh al-Nabī \pbuh, min al-takbīr ilā at-Taslīm Kaʾannaka Tarāhā_ (_The Prophet's Prayer Described, from beginning to end, as though you were watching it_).
+Since the publication of this book with both main and subsidiary texts is not feasible right now due to various reasons, we have decided to publish only the main text of the book (along with brief footnotes) by Allāh's Will, and named it _Ṣifah Ṣalāh al-Nabī \pbuh, min al-takbīr ilā al-Taslīm Kaʾannaka Tarāhā_ (_The Prophet's Prayer Described, from beginning to end, as though you were watching it_).
 
 I ask Allāh to make this work sincerely for His Face, and to help my brothers in faith to benefit from it, for He is the Hearer, the Answerer.
 
@@ -68,9 +68,9 @@ When I adopted these principles for myself, i.e. to adhere to the authentic Sunn
 
 It is enough for me that I believe that this is the most upright way, which Allāh has commanded the believers to take; which our Prophet Muḥammad \pbuh, Chief of the Messengers, has explained. This is the path which was trodden by the Pious Predecessors: the Companions, their Successors and those after them, including the four Imāms to whose _madhāhib_ the majority of Muslims today attribute themselves. All of them were agreed on the obligation to stick to the Sunnah and to refer to it; to ignore every view contradictory to it, no matter how great the holder or propounder of that view, for the status of the Messenger of Allāh \pbuh is far greater, and his example is far truer. Because of this, I have acted on their guidance, followed in their footsteps and carried out their commands to stick to the authentic _ḥadīth_, even if this opposes their view. These commands of theirs have influenced me greatly in my perusal of this path, and my rejection of blind _taqlīd_ (following of opinion). I ask Allāh the Exalted to reward them greatly.
 
-## Sayings of the Imāms regarding following the Sunnah and ignoring their views contradictory to it
+## Sayings of the _Imāms_ regarding following the Sunnah and ignoring their views contradictory to it
 
-It would be beneficial if we gave some of these here, for perhaps this will admonish or remind those who follow the opinion of the Imāms---nay, of those far below the Imāms in rank---blindly,[^a18] sticking to their _madhahībs_ or views as if these had descended from the heavens! But Allāh, Mighty and Sublime, says:
+It would be beneficial if we gave some of these here, for perhaps this will admonish or remind those who follow the opinion of the _Imāms_---nay, of those far below the _Imāms_ in rank---blindly,[^a18] sticking to their _madhahībs_ or views as if these had descended from the heavens! But Allāh, Mighty and Sublime, says:
 
 \begin{aquote}{\quran: \araaf{} 3}
 \begin{center}
@@ -82,7 +82,7 @@ It would be beneficial if we gave some of these here, for perhaps this will admo
 
 ### Abū Ḥanīfah
 
-The first of them is Abū Ḥanīfah Nuʿmān ibn Thābit, whose companions have narrated from him various sayings and diverse warnings, all of them leading to one thing: the obligation to accept the _ḥadīth_, and to give up following the opinions of the Imāms which contradict it:
+The first of them is Abū Ḥanīfah Nuʿmān ibn Thābit, whose companions have narrated from him various sayings and diverse warnings, all of them leading to one thing: the obligation to accept the _ḥadīth_, and to give up following the opinions of the _Imāms_ which contradict it:
 
 1. “When a _ḥadīth_ is found to be _ṣaḥīḥ_, then that is my _madhhab_.”[^a20]
 
@@ -110,7 +110,7 @@ As for Imām Mālik ibn Anas, he said:
 
 As for Imām al-Shāfiʿī, the quotations from him are most numerous and beautiful,[^a31] and his followers were the best in sticking to them:
 
-1. “The _sunnahs_ of the Messenger of Allāh \pbuh reach, as well as escape from, every one of us. So whenever I voice my opinion, or formulate a principle, where something contrary to my view exists on the authority of the Messenger of Allāh \pbuh, then the correct view is what the Messenger of Allāh \pbuh has said, and it is my view.”[^a32]
+1. “The _sunnahs_ of the Messenger of Allāh \pbuh reach, as well as escape from, everyone of us. So whenever I voice my opinion, or formulate a principle, where something contrary to my view exists on the authority of the Messenger of Allāh \pbuh, then the correct view is what the Messenger of Allāh \pbuh has said, and it is my view.”[^a32]
 
 2. “The Muslims are unanimously agreed that if a _sunnah_ of the Messenger of Allāh \pbuh is made clear to someone, it is not permitted[^a33] for him to leave it for the saying of anyone else.”[^a34]
 
@@ -132,23 +132,23 @@ As for Imām al-Shāfiʿī, the quotations from him are most numerous and beauti
 
 ### Imām Aḥmad ibn Ḥanbal
 
-Imām Aḥmad was the foremost among the Imāms in collecting the Sunnah and sticking to it, so much so that he even “disliked that a book consisting of deductions and opinions be written.”[^a43] Because of this he said:
+Imām Aḥmad was the foremost among the _Imāms_ in collecting the Sunnah and sticking to it, so much so that he even “disliked that a book consisting of deductions and opinions be written.”[^a43] Because of this he said:
 
-1. “Do not follow my opinion; neither follow the opinion of Mālik, nor al-Shāfiʿī, nor Awzāʾī, nor Thawrī, but take from where they took.”[^a44]
+1. “Do not follow my opinion; neither follow the opinion of Mālik, nor al-Shāfiʿī, nor al-Awzāʿī, nor al-Thawrī, but take from where they took.”[^a44]
 
     In one narration: “Do not copy your _Dīn_ from anyone of these, but whatever comes from the Prophet \pbuh and his Companions, take it; next are their Successors, where a man has a choice.”
 
     Once he said: “Following[^a45] means that a man follows what comes from the Prophet \pbuh and his Companions; after the Successors, he has a choice.”[^a46]
 
-2. “The opinion of Awzāʾī, the opinion of Mālik, the opinion of Abū Ḥanīfah: all of it is opinion, and it is all equal in my eyes. However, the proof is in the narrations (from the Prophet \pbuh and his Companions).”[^a47]
+2. “The opinion of al-Awzāʿī, the opinion of Mālik, the opinion of Abū Ḥanīfah: all of it is opinion, and it is all equal in my eyes. However, the proof is in the narrations (from the Prophet \pbuh and his Companions).”[^a47]
 
 3. “Whoever rejects a statement of the Messenger of Allāh \pbuh is on the brink of destruction.”[^a48]
 
 ---
 
-These are the clear, lucid sayings of the Imāms about sticking to the _aḥādīth_ and forbidding the following of their opinion without clear-cut evidence, such that mere opinion and interpretation is not acceptable.
+These are the clear, lucid sayings of the _Imāms_ about sticking to the _aḥādīth_ and forbidding the following of their opinion without clear-cut evidence, such that mere opinion and interpretation is not acceptable.
 
-Hence, whoever adhered to whatever of the Sunnah that was proved authentic, even if it opposed some of the Imāms' sayings, he would not be conflicting with their _madhhab_, nor straying from their path; rather, such a person would be following all of them and would be grasping the most trustworthy hand-hold, which never breaks. However, this would not be the case with the one who abandoned any of the authentic Sunnah simply because it contradicted their views; nay, such a person would be being disobedient to them and opposing their above mentioned sayings, while Allāh says:
+Hence, whoever adhered to whatever of the Sunnah that was proved authentic, even if it opposed some of the _Imāms'_ sayings, he would not be conflicting with their _madhhab_, nor straying from their path; rather, such a person would be following all of them and would be grasping the most trustworthy handhold, which never breaks. However, this would not be the case with the one who abandoned any of the authentic Sunnah simply because it contradicted their views; nay, such a person would be being disobedient to them and opposing their above mentioned sayings, while Allāh says:
 
 \begin{aquote}{\quran: \nisaa{} 65}
 \begin{center}
@@ -172,13 +172,13 @@ He also says:
 
 > Therefore it is obligatory on anyone who hears of a command of the Messenger of Allāh \pbuh or knows it, to explain it to the _Ummah_, advise them sincerely, and order them to follow his command, even if it contradicts the opinion of someone great. This is because the authority of the Messenger of Allāh \pbuh has the most right to be respected and followed, over and above the opinion of anyone great who has unknowingly contradicted the Messenger's command in any matter. This is why the Companions and those after would refute anyone who contradicted the authentic Sunnah, sometimes being very stern in their refutation,[^a51] not out of hatred for that person, for they loved and respected him, but because the Messenger of Allāh was more beloved to them, and his command was superior to the command of any other created being. Hence, when the order of the Messenger and that of someone else conflicted, the order of the Messenger would be more fitting to be enforced and followed. None of this would stop them respecting the person they had opposed because they knew that he would be forgiven;[^a52] in fact, the latter would not mind his instruction being opposed when the command of the Messenger of Allāh \pbuh was clearly shown to be opposite.[^a53]
 
-Indeed, how could they mind that, when they had ordered their followers to do so, as we have seen, and had enjoined on them to abandon any of their views which contradicted the Sunnah. In fact, Imām al-Shāfiʿī told his companions to attribute the authentic Sunnah to him also, even if he had not adopted it or had adopted something contradictory to it. Hence, when the analyst Ibn Daqīq al-ʿEid collected together, in a bulky volume, the issues in which one or more of the four Imāms' _madhāhib_ had contradicted the authentic _ḥadīth_, he wrote at the beginning of it, “It is prohibited to attribute these answers to the _Mujtahid Imāms_, and obligatory on the jurists who follow their opinions to know of these so that they do not quote them regarding these and thus lie against them.”[^a54]
+Indeed, how could they mind that, when they had ordered their followers to do so, as we have seen, and had enjoined on them to abandon any of their views which contradicted the Sunnah. In fact, Imām al-Shāfiʿī told his companions to attribute the authentic Sunnah to him also, even if he had not adopted it or had adopted something contradictory to it. Hence, when the analyst Ibn Daqīq al-ʿEid collected together, in a bulky volume, the issues in which one or more of the four _Imāms' madhāhib_ had contradicted the authentic _ḥadīth_, he wrote at the beginning of it, “It is prohibited to attribute these answers to the _Mujtahid Imāms_, and obligatory on the jurists who follow their opinions to know of these so that they do not quote them regarding these and thus lie against them.”[^a54]
 
-### The Imāms' followers leaving their views if these contradicted the Sunnah
+### The _Imāms'_ followers leaving their views if these contradicted the Sunnah
 
-Due to all that we have mentioned, the disciples of the Imāms, a number of people from those of old, and a few from those of later time,[^a55] would not accept all of their Imām's views; they actually ignored many when they found them to be clearly against the Sunnah. Even the two Imāms, Muḥammad ibn al-Ḥasan and Abū Yūsuf differed from their Shaykh, Abū Ḥanīfah “in about a third of the _Madhhab_,”[^a56] as the books of _masāʾil_ prove. Similarly is said about Imām al-Muzanī[^a57] and other followers of al-Shāfiʿī and other _Imāms_; were we to start giving examples, the discussion would become exceedingly, long, and we would digress from what we set out to do in this _Introduction_, so we shall limit ourselves to two instances:
+Due to all that we have mentioned, the disciples of the _Imāms_, a number of people from those of old, and a few from those of later time,[^a55] would not accept all of their _Imām's_ views; they actually ignored many when they found them to be clearly against the Sunnah. Even the two _Imāms_, Muḥammad ibn al-Ḥasan and Abū Yūsuf differed from their Shaykh, Abū Ḥanīfah “in about a third of the _Madhhab_,”[^a56] as the books of _masāʾil_ prove. Similarly is said about Imām al-Muzanī[^a57] and other followers of al-Shāfiʿī and other _Imāms_; were we to start giving examples, the discussion would become exceedingly, long, and we would digress from what we set out to do in this _Introduction_, so we shall limit ourselves to two instances:
 
-1. Imām Muḥammad says in his _Muwaṭṭā_[^a58](p. 158), “As for Abū Ḥanīfah, he did not regard there being a prayer to ask for rain, but we hold that the Imam prays two _rakʿahs_ and then supplicates and holds out his wrapping garment...”
+1. Imām Muḥammad says in his _Muwaṭṭā_[^a58](p.\ 158), “As for Abū Ḥanīfah, he did not regard there being a prayer to ask for rain, but we hold that the Imam prays two _rakʿahs_ and then supplicates and holds out his wrapping garment...”
 
 2. We have ʾIsām ibn Yūsuf al-Balkhī, one of the companions of Imām Muḥammad[^a59] and a servant of Imām Abū Yūsuf,[^a60] who “would give verdicts contrary to Imām Abū Ḥanīfah because he did not know the latter's evidence, and other evidence would present itself to him, so he would give verdicts using that.”[^a61] Hence, “he would raise his hands on bowing (in prayer) and on rising from it,”[^a62] as is the _mutawātir sunnah_ of the Prophet \pbuh; the fact that his three _Imāms_ (i.e. Abū Ḥanīfah, Abū Yūsuf and Muḥammad) said otherwise did not prevent him from practicing this _sunnah_. This is the approach which every Muslim is obliged to have, as we have already seen from the testimony of the Four _Imāms_, and others.
 
@@ -191,7 +191,7 @@ I ask Allāh to make us among those about whom He says,
   \includegraphics[scale = \ayahSize]{images/24_51-52}
 \end{center}
 
-“The answer of the believers, when summoned to Allāh and His Messenger, in order that he may judge between them, is no other than this: they say, “We hear and we obey” – it is such as these that will attain Success. It is those who obey Allāh and His Messenger, and fear Allāh, and keep their duty to Him, who will triumph.”
+“The answer of the believers, when summoned to Allāh and His Messenger, in order that he may judge between them, is no other than this: they say, “We hear and we obey”---it is such as these that will attain Success. It is those who obey Allāh and His Messenger, and fear Allāh, and keep their duty to Him, who will triumph.”
 \end{aquote}
 
 
