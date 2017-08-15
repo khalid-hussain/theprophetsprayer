@@ -30,11 +30,11 @@
 
     His above approach is shown most obviously in his discussion of the _aḥādīth_ in his previous book _Fiqh al-Sīrah_, where he explains his methodology of accepting unreliable _aḥādīth_ and discarding authentic ones on the basis of the text of the _ḥadīth_ alone, from which the reader can see that the objective criticism of _ḥadīth_ has no value in his eyes if it contradicts a “reasoned analysis,” which varies enormously from person to person, for what is truth to one is falsehood to another! Thus the whole of Islām becomes subject to personal whims, having no principles nor reference points except personal opinion; this is poles apart from the position of the early leading ʿUlamā of Islām, “that the _Isnād_ is part of the religion; were it not for the _Isnād_, people would have said whatever they wished.”
 
-    His latest above-mentioned book has exposed to the people his Muʿtazilite methodology, his blatant disregard for the _Imāms_ of _Ḥadīth_ and their efforts over the ages in serving the Sunnah, and distinguishing the genuine traditions from the unreliable ones, and his lack of appreciation of the efforts of the _Imāms_ of _Fiqh_ in their laying down principles and developing issues on that basis, for he takes from these and leaves from them whatever he wishes, with no consistency towards any set of principles or fundamentals!
+    His latest above-mentioned book has exposed to the people his Muʿtazilite methodology, his blatant disregard for the Imams of _Ḥadīth_ and their efforts over the ages in serving the Sunnah, and distinguishing the genuine traditions from the unreliable ones, and his lack of appreciation of the efforts of the Imams of _Fiqh_ in their laying down principles and developing issues on that basis, for he takes from these and leaves from them whatever he wishes, with no consistency towards any set of principles or fundamentals!
 
 [^b15]: Al-Bukhārī and Muslim.
 
-[^b16]: See the previous words of Imām al-Muzanī and Ḥāfiẓ Ibn Rajab al-Ḥanbalī.
+[^b16]: See the previous words of Imam al-Muzanī and Ḥāfiẓ Ibn Rajab al-Ḥanbalī.
 
 [^b17]: Al-Bukhārī and Muslim; see _Appendix B_ for the full _ḥadīth_.
 

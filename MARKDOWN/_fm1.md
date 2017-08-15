@@ -47,7 +47,7 @@ As for the subsidiary text, it is a commentary on the main text. In it I have tr
 
 Next, I have mentioned in the subsidiary text the _madhāhib_ of the scholars regarding the _ḥadīth_ traced, as well as the evidence and counter-evidence for each view, along with the strengths and weaknesses of each argument. We have then selected out of that the correct view which we have given in the main text. Also in the subsidiary text, we have given some issues for which there is no text in the Sunnah, but which require _ijtihād_, and do not come under the title of this book.
 
-Since the publication of this book with both main and subsidiary texts is not feasible right now due to various reasons, we have decided to publish only the main text of the book (along with brief footnotes) by Allāh's Will, and named it _Ṣifah Ṣalāh al-Nabī \pbuh, min al-takbīr ilā al-Taslīm Kaʾannaka Tarāhā_ (_The Prophet's Prayer Described, from beginning to end, as though you were watching it_).
+Since the publication of this book with both main and subsidiary texts is not feasible right now due to various reasons, we have decided to publish only the main text of the book (along with brief footnotes) by Allāh's Will, and named it _Ṣifah Ṣalāh al-Nabī \pbuh, min al-Takbīr ilā al-Taslīm Kaʾannaka Tarāhā_ (_The Prophet's Prayer Described, from beginning to end, as though you were watching it_).
 
 I ask Allāh to make this work sincerely for His Face, and to help my brothers in faith to benefit from it, for He is the Hearer, the Answerer.
 
