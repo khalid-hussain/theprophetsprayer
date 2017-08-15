@@ -14,13 +14,13 @@ if __name__ == '__main__':
     # if copyfile(args.filename, backup_filename):
     # print('Created backup: ' + backup_filename)
     # f = open('output.tex', 'w')
-    with open(args.filename, 'r') as myfile:
+    with open(args.filename, 'r', encoding="utf8") as myfile:
         data = myfile.read()
         # Regex reference: https://stackoverflow.com/a/32082345/2002369
         # data = re.sub(r'\\addcontentsline\{toc\}\{section\}\{[^\}]+\}', '', data)
         data = re.sub(r'\\addcontentsline{toc}{section}{((?:[^{}]*|[{][^{}]*[}])*)}', '', data) # New
         # print(data)
-        with open(output_filename, 'w') as f:
+        with open(output_filename, 'w', encoding="utf8") as f:
             f.write(data)
     if copyfile(output_filename, args.filename):
         os.remove(output_filename)
