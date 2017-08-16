@@ -70,7 +70,7 @@ It is enough for me that I believe that this is the most upright way, which All�
 
 ## Sayings of the Imams regarding following the Sunnah and ignoring their views contradictory to it
 
-It would be beneficial if we gave some of these here, for perhaps this will admonish or remind those who follow the opinion of the Imams---nay, of those far below the Imams in rank---blindly,[^a18] sticking to their _madhah카bs_ or views as if these had descended from the heavens! But All훮h, Mighty and Sublime, says:
+It would be beneficial if we gave some of these here, for perhaps this will admonish or remind those who follow the opinion of the Imams---nay, of those far below the Imams in rank---blindly,[^a18] sticking to their _madhah카b_ or views as if these had descended from the heavens! But All훮h, Mighty and Sublime, says:
 
 \begin{aquote}{\quran: \araaf{} 3}
 \begin{center}
