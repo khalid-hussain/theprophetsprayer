@@ -2,17 +2,12 @@
 
 # About
 
-This repository is about converting Shaykh Al-Albani's book, "Sifat Salat an-Nabi" into more accessbile formats with good design.
-
-# Aim
-
-The aim is to convert the source mentioned below into markdown format which will then be used to create the respective PDF and HTML formats.
+This repository is about creating a crisp PDF copy of Shaykh Al-Albani's book, "Ṣifah Ṣalāh al-Nabī."
 
 # To Do
 
 I've highlight things which I would like to get back to as TODO comments in the text files. If you know the answer or verifications required, please do contact me or open an issue or send in a pull request.
 
-- Qurʾān ayah markers that are valid in both HTML and LaTeX.
 - Ayahs quoted as block use a different reference compared to inline quotations. Is this a problem?
 - Add proper dua symbols for Prophets, Scholars and Companions.
   - Prophets (ʿalayh al-Salām)
@@ -21,9 +16,8 @@ I've highlight things which I would like to get back to as TODO comments in the 
   - Two people
   - Them
 - Come up with a consistent title case
-- Arabic font for HTML. Windows will use "Traditional Arabic" but this is not present on all systems.
 - Remove hamza transliteration if it comes at the end of a word. Example: _Irwāʾ al-Ghalīl_ --> _Irwā al-Ghalīl_.
-- Unify all references to Quranic chapters and verses. Consider cleaning up the reference style with regard to mentioning the total number of verses.
+- Unify all references to Quranic chapters and verses. Clean the reference style used to mention the number of verses.
 
 ## Cover
 
@@ -38,7 +32,7 @@ I've highlight things which I would like to get back to as TODO comments in the 
 
 1. But the book is already available on the website mentioned under 'Sources'?
 
-  **Ans:** Yes that is correct. However, the site design is quite old, still using HTML tables for layout and all the Arabic sections are poor quality images; we hope to rectify these problems insha'Allah.
+  **Ans:** Yes that is correct. However, the site design is quite old, still using HTML tables for layout and all the Arabic sections are poor quality images; we hope to rectify these problems.
 
 # Dependencies
 
