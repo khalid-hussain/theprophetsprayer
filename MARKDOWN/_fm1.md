@@ -12,7 +12,7 @@ Prayers and peace be upon our Prophet Muḥammad, who was addressed in the Words
   \includegraphics[scale = \ayahSize]{images/16_44}
 \end{center}
 
-“And We have sent down to you the Message, that you may explain clearly to the people what is sent for them,”
+And We have sent down to you the Message, that you may explain clearly to the people what is sent for them,
 \end{aquote}
 
 and who fully carried out this task. The prayer was one of the most important things which he explained to the people, verbally and practically, even praying on the pulpit once---standing, bowing and prostrating, and then saying to them, “I have done this so that you may follow me and learn my prayer.”[^a2] He obligated us to copy him in his prayer, saying, “Pray as you have seen me praying.”[^a3] He also gave the good tidings to whoever prayed like him that such a person has a covenant with Allāh that He will enter him into the Garden, saying, “There are five prayers which Allāh, Mighty and Sublime, has made compulsory: he who performs ablution well for them, prays them at their proper times, and is complete in their bowings, prostrations and humility, he has a guarantee from Allāh that He will forgive him; but he who does not do so, has no guarantee from Allāh: if He wishes, He will forgive him or if He wishes, He will punish him.”[^a4]
@@ -34,7 +34,7 @@ Thus I embarked on a difficult task, and researched the relevant _aḥādīth_ f
   \includegraphics[scale = \ayahSize]{images/53_28}
 \end{center}
 
-“...and conjecture is of no use against the truth”
+...and conjecture is of no use against the truth
 \end{aquote}
 
 and the Prophet \pbuh said, “Beware of suspicion, for truly, suspicion is the most false of speech.”[^a11] Therefore, we cannot worship Allāh by acting according to inauthentic _aḥādīth_; in fact, the Messenger of Allāh \pbuh forbade us from this saying, “Keep away from saying things about me, except what you know”[^a12]; since he has forbidden us from relating weak narrations, it goes without saying that it is forbidden to act according to them.
@@ -77,7 +77,7 @@ It would be beneficial if we gave some of these here, for perhaps this will admo
   \includegraphics[scale = \ayahSize]{images/7_3}
 \end{center}
 
-“Follow (O men!) the revelation given to you from your Lord, and follow not, as friends and protectors, other than Him. Little is it you remember of admonition.”
+Follow (O men!) the revelation given to you from your Lord, and follow not, as friends and protectors, other than Him. Little is it you remember of admonition.
 \end{aquote}
 
 ### Abū Ḥanīfah
@@ -155,7 +155,7 @@ Hence, whoever adhered to whatever of the Sunnah that was proved authentic, even
   \includegraphics[scale = \ayahSize]{images/4_65}
 \end{center}
 
-“But no, by Your Lord, they can have no (real) faith, until they make you judge in all disputes between them, and find in their souls no resistance against your decisions, but accept them with the fullest conviction.”
+But no, by Your Lord, they can have no (real) faith, until they make you judge in all disputes between them, and find in their souls no resistance against your decisions, but accept them with the fullest conviction.
 \end{aquote}
 
 He also says:
@@ -165,7 +165,7 @@ He also says:
   \includegraphics[scale = \ayahSize]{images/24_63}
 \end{center}
 
-“Then let those beware who withstand the Messenger's  order, lest some trial befall them or a grievous penalty be inflicted on them.”
+Then let those beware who withstand the Messenger's  order, lest some trial befall them or a grievous penalty be inflicted on them.
 \end{aquote}
 
 Ḥāfiẓ Ibn Rajab al-Ḥanbalī says:
@@ -191,7 +191,7 @@ I ask Allāh to make us among those about whom He says,
   \includegraphics[scale = \ayahSize]{images/24_51-52}
 \end{center}
 
-“The answer of the believers, when summoned to Allāh and His Messenger, in order that he may judge between them, is no other than this: they say, ‘We hear and we obey’---it is such as these that will attain Success. It is those who obey Allāh and His Messenger, and fear Allāh, and keep their duty to Him, who will triumph.”
+The answer of the believers, when summoned to Allāh and His Messenger, in order that he may judge between them, is no other than this: they say, ‘We hear and we obey’---it is such as these that will attain Success. It is those who obey Allāh and His Messenger, and fear Allāh, and keep their duty to Him, who will triumph.
 \end{aquote}
 
 

@@ -21,7 +21,7 @@ Secondly: This _ḥadīth_ [contradicts]{style="font-variant:small-caps;"} the G
   \includegraphics[scale = \ayahSize]{images/8_46}
 \end{center}
 
-“...and do not fall into disputes, lest you lose heart and your power depart.”
+...and do not fall into disputes, lest you lose heart and your power depart.
 \end{aquote}
 
 <!-- [^b1] -->
@@ -31,7 +31,7 @@ Secondly: This _ḥadīth_ [contradicts]{style="font-variant:small-caps;"} the G
   \includegraphics[scale = \ayahSize]{images/30_31-32}
 \end{center}
 
-“And do not be among those who join deities with Allāh, those who split up their religion and become sects---each party rejoicing with what it has!”
+And do not be among those who join deities with Allāh, those who split up their religion and become sects---each party rejoicing with what it has!
 \end{aquote}
 
 <!-- [^b2] -->
@@ -41,7 +41,7 @@ Secondly: This _ḥadīth_ [contradicts]{style="font-variant:small-caps;"} the G
   \includegraphics[scale = \ayahSize]{images/11_118-119}
 \end{center}
 
-“But they will not cease to differ, except those on whom your Lord bestows His Mercy.”
+But they will not cease to differ, except those on whom your Lord bestows His Mercy.
 \end{aquote}
 
 <!-- [^b3] -->
@@ -155,7 +155,7 @@ This message has been the purpose of this _Introduction_. Allāh, Mighty and Sub
   \includegraphics[scale = \ayahSize]{images/8_24}
 \end{center}
 
-“O you who believe! Give your response to Allāh and His Messenger when he calls you to that which will give you life, and know that Allāh comes in between a man and his heart, and it is He to whom you shall all be gathered.”
+O you who believe! Give your response to Allāh and His Messenger when he calls you to that which will give you life, and know that Allāh comes in between a man and his heart, and it is He to whom you shall all be gathered.
 \end{aquote}
 
 <!-- > O you who believe! Give your response to Allāh and His Messenger when he calls you to that which will give you life, and know that Allāh comes in between a man and his heart, and it is He to whom you shall all be gathered.[^b18] -->
