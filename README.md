@@ -8,16 +8,21 @@ This repository is about creating a crisp PDF copy of Shaykh Al-Albani's book, "
 
 I've highlight things which I would like to get back to as TODO comments in the text files. If you know the answer or verifications required, please do contact me or open an issue or send in a pull request.
 
-- Ayahs quoted as block use a different reference compared to inline quotations. Is this a problem?
-- Add proper dua symbols for Prophets, Scholars and Companions.
+- Front matter: Add Typesetter's Note
+
+- Main matter: Ayahs quoted as block use a different reference compared to inline quotations. Is this a problem?
+- Main matter: Add proper dua symbols for Prophets, Scholars and Companions.
   - Prophets (ʿalayh al-Salām)
   - Male
   - Female
   - Two people
   - Them
-- Come up with a consistent title case
-- Remove hamza transliteration if it comes at the end of a word. Example: _Irwāʾ al-Ghalīl_ --> _Irwā al-Ghalīl_.
-- Unify all references to Quranic chapters and verses. Clean the reference style used to mention the number of verses.
+- Main matter: Come up with a consistent title case
+- Main matter: Remove hamza transliteration if it comes at the end of a word. Example: _Irwāʾ al-Ghalīl_ --> _Irwā al-Ghalīl_.
+- Main matter: Unify all references to Quranic chapters and verses. Clean the reference style used to mention the number of verses.
+
+- Back matter: Quran Chapter list
+- Back matter: References to Quranic ayat which have been translated in the text
 
 ## Cover
 
@@ -25,8 +30,9 @@ I've highlight things which I would like to get back to as TODO comments in the 
 
 ## Final
 
-- Ensure footnotes are correct.
-- Link internal sections.
+- Ensure footnotes are correct
+- Link internal sections
+- Recheck internal link titles
 
 # Questions
 
