@@ -1,0 +1,41 @@
+\documentclass[ebook, oneside]{memoir}
+
+%%******************************
+%%      Margins
+%%*************************
+%\setulmarginsandblock{2cm}{1.5cm}{*} % Upper-Lower margins
+%\setlrmarginsandblock{1cm}{1cm}{*} % Left-Right margins
+%\checkandfixthelayout
+
+\usepackage{multicol}
+\usepackage{enumitem}
+
+% Fonts
+\usepackage{fontspec}
+\setmainfont[
+Numbers=OldStyle,
+BoldFont={AGaramondPro-Bold.otf}, 
+ItalicFont={AGaramondPro-Italic.otf},
+BoldItalicFont={AGaramondPro-BoldItalic.otf}
+]{AGaramondPro-Regular.otf}
+
+% Indentation
+\setlength{\parindent}{0pt}
+
+\begin{document}
+
+\pagestyle{empty} % No page number
+
+\begin{center}
+\Large{{\addfontfeatures{Alternate=2}{Q}}uran Chapter List}
+\end{center}
+\vfill
+\begin{multicols}{3}
+\begin{enumerate}[itemsep=0mm]
+%  \begin{small}
+    \input{_quran_chapter_input}
+%  \end{small}
+\end{enumerate}
+\end{multicols}
+\vfill
+\end{document}
