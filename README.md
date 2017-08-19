@@ -13,7 +13,7 @@ I've highlight things which I would like to get back to as TODO comments in the 
 - Add Typesetter's Note
 
 ## Main matter
-- Ayahs quoted as block use a different reference compared to inline quotations. Is this a problem?
+- ~~Ayahs quoted as block use a different reference compared to inline quotations. Is this a problem?~~
 - Add proper dua symbols for Prophets, Scholars and Companions.
   - Prophets (ʿalayh al-Salām)
   - Male
@@ -23,10 +23,11 @@ I've highlight things which I would like to get back to as TODO comments in the 
 - Come up with a consistent title case
 - Remove hamza transliteration if it comes at the end of a word. Example: _Irwāʾ al-Ghalīl_ --> _Irwā al-Ghalīl_.
 - Unify all references to Quranic chapters and verses. Clean the reference style used to mention the number of verses.
+- Create short titles for the Appendices since headers touch the page numbers
 
 ## Back matter
 
-- Quran Chapter list
+- ~~Quran Chapter list~~
 - References to Quranic ayat which have been translated in the text
 
 ## Cover
