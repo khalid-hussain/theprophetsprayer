@@ -1,6 +1,8 @@
 
 # The weakness of the narration about placing the hands below the navel
 
+\chaptermark{The narration about placing the hands below the navel}
+
 From _Irwāʾ al-Ghalīl_ (#353) and _Aḥkām al-Janāʾiz_ (p.\ 118), by Shaykh al-Albānī.
 
 Abū Dāwūd (756), al-Dāraquṭnī (107), a-Bayhaqi (2/310), Aḥmad in his son ʿAbd Allāh's _Masāʾil_ (62/2) and also in _Zawāʾid al-Musnad_ (1/110), and Ibn Abī Shaybah (1/156/1) transmitted:

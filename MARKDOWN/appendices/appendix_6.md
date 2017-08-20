@@ -3,6 +3,8 @@
 
 # Analysis of the narrations regarding the saying of āmīn by the Imam and the Congregation
 
+\chaptermark{The saying of āmīn by the Imam and the Congregation}
+
 From: _Silsilah al-Aḥādīth al-Ḍaʿīfah_ (951--2) by Shaykh al-Albānī
 
 ## “When he said _āmīn_, those behind him would say _āmīn_, such that there was a lot of noise in the mosque.” {.unnumbered}

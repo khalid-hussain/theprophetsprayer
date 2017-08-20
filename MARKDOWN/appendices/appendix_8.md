@@ -2,6 +2,8 @@
 
 # The weakness of the narrations mentioning wiping the face with the hands after duʿā
 
+\chaptermark{Narrations mentioning wiping the face with the hands after duʿā}
+
 From Irwā al-Ghalīl (2/178--182) by Shaykh al-Albānī
 
 1) “The Prophet \pbuh, when he raised his hands in duʿā', he would not put them down until he had wiped his face with them.”

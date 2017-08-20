@@ -2,6 +2,8 @@
 
 # The weakness of the narrations condemning recitation behind the Imam
 
+\chaptermark{The narrations condemning recitation behind the Imam}
+
 From: _Silsilah al-Aḥādīth al-Ḍaʿīfah wa al-Mawḍūʿah_ (568--570) by Shaykh al-Albānī.
 
 ## “He who recites behind the Imam, his mouth is filled with fire.” {.unnumbered}
