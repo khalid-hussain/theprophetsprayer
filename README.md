@@ -23,7 +23,7 @@ I've highlight things which I would like to get back to as TODO comments in the 
 - Come up with a consistent title case
 - Remove hamza transliteration if it comes at the end of a word. Example: _Irwāʾ al-Ghalīl_ --> _Irwā al-Ghalīl_.
 - Unify all references to Quranic chapters and verses. Clean the reference style used to mention the number of verses.
-- Create short titles for the Appendices since headers touch the page numbers
+- ~~Create short titles for the Appendices since headers touch the page numbers~~
 
 ## Back matter
 
