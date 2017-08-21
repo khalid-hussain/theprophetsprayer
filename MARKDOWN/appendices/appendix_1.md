@@ -15,7 +15,7 @@ A. _Lā aṣla lahu_ ([Baseless]{style="font-variant:small-caps;"}). The _Muḥa
 
   More of Ibn Ḥazm's words are quoted below.
 
-B. It [contradicts]{style="font-variant:small-caps;"} the Quran, which has condemned _ikhtilāf_ in many places.
+B. It [contradicts]{style="font-variant:small-caps;"} the Quran, which condemns _ikhtilāf_ in many places.
 
 ## “My Companions are like the stars: whichever of them you follow, you will be rightly-guided.” {.unnumbered}
 
@@ -25,7 +25,7 @@ Sallām ibn Sulaym, who said: “Al-Ḥārith ibn Ghiṣṣīn narrated to us fr
 
 Ibn ʿAbd al-Barr said, “Proof cannot be established with this _isnād_ because Al-Ḥārith ibn Ghiṣṣīn is _majhūl_ (unknown)”; Ibn Ḥazm said, “This is a fallen narration. Abū Sufyān is weak; Al-Ḥārith ibn Ghiṣṣīn is Abū Wahb al-Thaqafī; Sallām ibn Sulaymān narrated fabricated _aḥādīth_ - this is one of them without a doubt.”
 
-To judge this _ḥadīth_ on Sallām ibn Sulaym---also known as Sallām ibn Sulaymān---is better, for he is agreed to be _ḍaʿīf_; in fact, Ibn Khirāsh said about him, “An utter liar” and Ibn Ḥibbān said, “He narrated fabricated _aḥādīth_.”
+To judge this _ḥadīth_ on Sallām ibn Sulaym---also known as Sallām ibn Sulay\-mān---is better, for he is agreed to be _ḍaʿīf_; in fact, Ibn Khirāsh said about him, “An utter liar” and Ibn Ḥibbān said, “He narrated fabricated _aḥādīth_.”
 
 As for Abū Sufyān, he is not weak as Ibn Ḥazm said, but rather he is reliable as Ibn Ḥajar has said in _al-Taqrīb_, and Muslim narrates from him in his _Ṣaḥīḥ_.
 
@@ -49,7 +49,7 @@ One of the _Muḥaddithīn_, either Ibn al-Muḥibb or al-Dhahabī, wrote in the
 
 ## “Whatever you are given from the Book of Allāh is to be acted upon; there is no excuse for anyone to leave it. If it is not in the Book of Allāh, then (act upon) a previous example (_sunnah_) of mine. If there is no previous example (_sunnah_) of mine, then (act upon) what my Companions say; Verily, my Companions are of the station of the stars in the sky, so whichever of them you take, you will be guided, and the disagreement of my Companions is a mercy for you.” {.unnumbered}
 
-_Mawḍūʿ_ ([Fabricated]{style="font-variant:small-caps;"}). Collected by al-Khaṭīb in _al-Kifāyah fī ʿIlm al-Riwāyah_ (p.\ 48) and also by Abū al-ʿAbbās al-Aṣam in the his _Ḥadīth_ (#142), and Ibn ʿAsākir (7/315/2) by way of:
+_Mawḍūʿ_ ([Fabricated]{style="font-variant:small-caps;"}). Collected by al-Khaṭīb in _al-Kifāyah fī ʿIlm al-Riwā\-yah_ (p.\ 48) and also by Abū al-ʿAbbās al-Aṣam in the his _Ḥadīth_ (#142), and Ibn ʿAsākir (7/315/2) by way of:
 
 Sulaymān ibn Abī Karīmah from Juwaybir from al-Ḍaḥḥāk from Ibn ʿAbbās \mabpwthemtwo from The Prophet \pbuh.
 
