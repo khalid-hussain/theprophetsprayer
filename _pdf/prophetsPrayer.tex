@@ -75,7 +75,12 @@
 %       ARABIC ITEM ENV
 % ********************
 % https://tex.stackexchange.com/questions/355193/list-labels-on-left-with-arabic-using-polyglossia
-\newenvironment{Arabicitem}{\begin{minipage}{\linewidth}\begin{Arabic}}
+%\newenvironment{Arabicitem}{\begin{minipage}{\linewidth}\begin{Arabic}}
+%    {\end{Arabic}\end{minipage}}
+
+\newenvironment{Arabicitem}{\begin{minipage}[t]{\linewidth}%
+    \vspace{-\baselineskip}
+    \begin{Arabic}}
     {\end{Arabic}\end{minipage}}
 
 % ******************************
