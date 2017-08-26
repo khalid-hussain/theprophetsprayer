@@ -1,4 +1,5 @@
 
+# Addendum
 
 All that has been mentioned of the description of the Prophet's prayer \pbuh applies equally to men and women, for there is nothing in the Sunnah to necessitate the exception of women from any of these descriptions; in fact, the generality of his \pbuh statement, “Pray as you have seen me praying,” includes women.
 
