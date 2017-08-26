@@ -19,7 +19,7 @@ This is a _ḍaʿīf_ (weak) _sanad_ due to ʿAbd al-Raḥmān ibn Isḥāq (al-
 
 1. Once _ʿan_ Ziyād _ʿan_ Abū Juhayfa _ʿan_ ʿAlī \mabpwhim (as above);
 2. Once _ʿan_ Nuʿmān ibn Saʿd _ʿan_ ʿAlī (transmitted by al-Dāraquṭnī and al-Bayhaqī); and
-3. once _ʿan_ Siyās Abū al-Ḥakam _ʿan_ Abū Wā'il, who said, “Abū Hurayrah \mabpwhim said: It is from the Sunnah...” (transmitted by Abū Dāwūd (758) and al-Dāraquṭnī).
+3. Once _ʿan_ Siyās Abū al-Ḥakam _ʿan_ Abū Wā'il, who said, “Abū Hurayrah \mabpwhim said: It is from the Sunnah...” (transmitted by Abū Dāwūd (758) and al-Dāraquṭnī).
 
 ## The Weakness of ʿAbd al-Raḥmān ibn Isḥāq al-Kūfī in the eyes of the Imams of Ḥadīth {.unnumbered}
 
@@ -27,7 +27,7 @@ This is a _ḍaʿīf_ (weak) _sanad_ due to ʿAbd al-Raḥmān ibn Isḥāq (al-
 
 1. Abū Dāwūd said, “I heard Aḥmad ibn Ḥanbal declaring ʿAbd ar-Raḥmān ibn Isḥāq al-Kūfī _daʿīf_ (weak).” This is why Imam Aḥmad did not accept this _ḥadīth_ of his, for his son ʿAbd Allāh said, “I saw that when praying, my father placed his hands, one on the other, above the navel.”
 2. Al-Nawawī said in _al-Majmūʿ_ (3/313), and also in _Sharḥ Ṣaḥīḥ Muslim_ and elsewhere, “They (i.e. the scholars of _ḥadīth_) agree in declaring this _ḥadīth_ weak, because it is a narration of ʿAbd al-Raḥmān ibn Isḥāq al-Wāsitī, who is a _daʿīf_ (weak) narrator, as agreed upon by the Imams of _Jarḥ wa Taʿdīl_ (Authentication and Disparagement (of reporters)).”
-3. Al-Zaylaʿī said in _Naṣb al-Rāyah_ (1/314), “Al-Bayhaqī said in _al-Maʿrifah_: ‘Its _isnād_ is not firm, for it is a unique narration of ʿAbd ar-Raḥmān ibn Isḥāq al-Wāsitī, who is _matrūk_ (abandoned).’”
+3. Al-Zaylaʿī said in _Naṣb al-Rāyah_ (1/314), “Al-Bayhaqī said in _al-Maʿri\-fah_: ‘Its _isnād_ is not firm, for it is a unique narration of ʿAbd ar-Raḥmān ibn Isḥāq al-Wāsitī, who is _matrūk_ (abandoned).’”
 4. Ibn Ḥajar said in _Fatḥ al-Bārī_ (2/186), “It is a weak _ḥadīth_.”
 
 <!-- TODO check the names of the narrators here -->

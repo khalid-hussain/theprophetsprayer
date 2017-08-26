@@ -8,7 +8,7 @@ From: _Silsilah al-Aḥādīth al-Ḍaʿīfah wa al-Mawḍūʿah_ (568--570) by 
 
 ## “He who recites behind the Imam, his mouth is filled with fire.” {.unnumbered}
 
-_Mawḍūʿ_ ([Fabricated]{style="font-variant:small-caps;"}). Ibn Ṭāhir quoted it in _Tadhkirah al-Mawḍūʿāt_ (p.\ 93), and said, “The _isnād_ contains Maʾmūn ibn Aḥmad al-Harawī, an utter liar who used to narrate fabrications.” More of his description is given in _ḥadīth_ in the following sub section. Ibn Ḥibbān mentioned this _ḥadīth_ under his name in _al-Ḍuʿafā_ (The Weak Narrators) and al-Dhahabī regarded it as one of his calamities!
+_Mawḍūʿ_ ([Fabricated]{style="font-variant:small-caps;"}). Ibn Ṭāhir---after quoting it in _Tadhkirah al-Mawḍū\-ʿāt_ (p.\ 93)---said, “The _isnād_ contains Maʾmūn ibn Aḥmad al-Harawī, an utter liar who used to narrate fabrications.” More of his description is given in _ḥadīth_ in the following sub section. Ibn Ḥibbān mentioned this _ḥadīth_ under his name in _al-Ḍuʿafā_ (The Weak Narrators) and al-Dhahabī regarded it as one of his calamities!
 
 Some Ḥanafīs have been deceived by this _ḥadīth_, arguing on its basis that any recitation behind the Imam is totally _ḥarām_! Abū al-Ḥasanāt al-Luknowī said in _al-Taʿlīq al-Mumajjid ʿalā Muwaṭṭā Muḥammad_ (p.\ 99), “It was mentioned by the author of _Nihāyah_ and by others as _marfūʿ_ with the wording, ‘there is a burning coal in his mouth,’ and it is totally baseless.”
 
@@ -26,7 +26,7 @@ This last view is the most balanced and closest to the truth, for in it, all the
 
 ## “He who raises his hands during the prayer, there is no prayer for him.” {.unnumbered}
 
-_Mawḍūʿ_ ([Fabricated]{style="font-variant:small-caps;"}). Ibn Ṭāhir quoted it in _Tadhkirah al-Mawḍūʿāt_ (p.\ 87), and said, “The _isnād_ contains Maʾmūn ibn Aḥmad al-Harawī, an utter liar who used to fabricate _aḥādīth_.”
+_Mawḍūʿ_ ([Fabricated]{style="font-variant:small-caps;"}). Ibn Ṭāhir---after quoting it in _Tadhkirah al-Mawḍū\-ʿāt_ (p.\ 87)---said, “The _isnād_ contains Maʾmūn ibn Aḥmad al-Harawī, an utter liar who used to fabricate _aḥādīth_.”
 
 Al-Dhahabī said about him, “He brought calamities and disgraceful reports. He invented _aḥādīth_, this being one of them, and related them on the authority of reliable narrators.”
 
@@ -54,7 +54,7 @@ _Mawḍūʿ_ ([Fabricated]{style="font-variant:small-caps;"}). Ibn al-Jawzī quo
 
 Maʾmūn ibn Aḥmad al-Salmī, who said: Aḥmad ibn ʿAbd Allāh al-Juwaybārī narrated to us: ʿAbd Allāh ibn Miʾdān al-Azadī informed us from Anas, as _marfūʿ_; and then said, “Fabricated; invented by Maʾmūn or by al-Juwaybārī.” Al-Ḥākim mentioned in _al-Madhkal_ that it was said to Maʾmūn, “Do you not look to al-Shāfiʿī and his followers?” So he said, “Ahmad ibn ʿAbd Allāh al-Juwaybārī narrated to us... etc., so it becomes evident from this that he is the fabricator of it.”
 
-The following addition appears in _Lisān_: “Al-Ḥākim then said, ‘Anyone whom Allāh has granted the least amount of intelligence would testify that a _ḥadīth_ such as this is a fabrication attributed to the Messenger of Allāh \pbuh.’”
+The following addition occurs in _Lisān_: “Al-Ḥākim then said, ‘Anyone whom Allāh has granted the least amount of intelligence would testify that a _ḥadīth_ such as this is a fabrication attributed to the Messenger of Allāh \pbuh.’”
 
 The _ḥadīth_ does have other routes of narration, but these depend on liars and unknown reporters. Therefore, it is extremely bizarre that ʿAllāmah al-ʿAyni should incline towards strengthening the _ḥadīth_ with those other routes, and that Shaykh al-Kawtharī should support him! However, it is no surprise from the latter, for he was notorious for being submerged in zeal for Imam Abū Ḥanīfah \mabpwhim, even if it entailed insulting other Imams; but it is very surprising from al-ʿAyni, for he was generally known not to go to such extremes. The opinion of these two has been refuted, with analysis of the other routes of narration referred to, in a unique way in ʿAllāmah Yamānī's valuable book, _at-Tankīl bimā fī Taʾnīb al-Kawtharī min al-Abāṭīl_ (1/20, 446--9).
 

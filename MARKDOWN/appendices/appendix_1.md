@@ -112,7 +112,7 @@ He then went on to explain at length some opinions expressed by Companions in wh
 
 > So how can it be allowable to blindly follow the opinions of people who make mistakes as well as get it right?!
 
-Before that, he had explained, under the heading _Differing Condemned_ (5/64), the error of those who say, “Disagreement is a mercy,” using as evidence the _ḥadīth_, “My Companions are like the stars: whichever of them you follow, you will be rightly-guided,” by clarifying that the _ḥadīth_ is a lie for several reasons:
+Before this, he explained under the heading _Differing Condemned_ (5/64), the error of those who say, “Disagreement is a mercy,” using as evidence the _ḥadīth_, “My Companions are like the stars: whichever of them you follow, you will be rightly-guided,” by clarifying that the _ḥadīth_ is a lie for several reasons:
 
 (i) It is not authentic with regard to its chain of narration;
 
