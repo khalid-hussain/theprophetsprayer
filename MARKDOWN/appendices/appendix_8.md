@@ -8,7 +8,7 @@ From Irwā al-Ghalīl (2/178--182) by Shaykh al-Albānī
 
 1) “The Prophet \pbuh, when he raised his hands in duʿā', he would not put them down until he had wiped his face with them.”
 
-**Daʿīf (Weak)**. Transmitted by al-Tirmidhī (2/244) and Ibn ʿAsākir (7/12/2) via: Ḥammād ibn ʿIsā al-Juhanī from Hanzalah ibn Abī Sufyān al-Jamhī from Sālim ibn ʿAbd Allāh from his father from ʿUmar ibn al-Khaṭṭāb, who said:...
+_Ḍaʿīf_ ([Weak]{style="font-variant:small-caps;"}). Transmitted by al-Tirmidhī (2/244) and Ibn ʿAsākir (7/12/2) via: Ḥammād ibn ʿIsā al-Juhanī from Hanzalah ibn Abī Sufyān al-Jamhī from Sālim ibn ʿAbd Allāh from his father from ʿUmar ibn al-Khaṭṭāb, who said:...
 
 Al-Tirmidhī said after it, “This is a _ṣaḥīḥ gharīb ḥadīth_. We only know it as a _ḥadīth_ of Ḥammād ibn ʿĪsā, for he is alone in reporting it; he has few _aḥādīth_, but the people have reported from him.”
 
@@ -22,7 +22,7 @@ A similar _ḥadīth_ is:
 
 “When the Prophet \pbuh did _duʿā_ and raised his hands, he would wipe his face with his hands.”
 
-**Daʿīf (Weak)**. Abū Dāwūd (1492) from Ibn Lahīʿah from Ḥafṣ ibn Hishām ibn ʿUtbah ibn Abī Waqqās from Sāʾib ibn Yazīd from his father.
+_Ḍaʿīf_ ([Weak]{style="font-variant:small-caps;"}). Abū Dāwūd (1492) from Ibn Lahīʿah from Ḥafṣ ibn Hishām ibn ʿUtbah ibn Abī Waqqās from Sāʾib ibn Yazīd from his father.
 
 This is a weak _sanad_ due to Ḥafṣ ibn Hishām being unknown and the weakness of Ibn Lahīʿah (cf. _al-Taqrīb al-Tahdhīb_).
 
@@ -30,7 +30,7 @@ This _ḥadīth_ cannot be strengthened by the two routes of narration together 
 
 2) “When you call upon Allāh, then supplicate with the palms of your hands, and do not supplicate with their backs, and when you finish, wipe your face with them.”
 
-**Daʿīf (Weak)**. Related by Ibn Mājah (1181, 3866), Ibn Naṣr in _Qiyām al-Layl_ (p.\ 137), al-Tabarānī in _al-Muʿjam al-Kabīr_ (3/98/1) and al-Ḥākim (1/536), from Ṣāliḥ ibn Ḥassān from Muḥammad ibn Kaʿb from Ibn ʿAbbās (May Allāh be pleased with him) as _marfūʿ_.
+_Ḍaʿīf_ ([Weak]{style="font-variant:small-caps;"}). Related by Ibn Mājah (1181, 3866), Ibn Naṣr in _Qiyām al-Layl_ (p.\ 137), al-Tabarānī in _al-Muʿjam al-Kabīr_ (3/98/1) and al-Ḥākim (1/536), from Ṣāliḥ ibn Ḥassān from Muḥammad ibn Kaʿb from Ibn ʿAbbās (May Allāh be pleased with him) as _marfūʿ_.
 
 This is a weak _sanad_ due to Ibn Ḥassān, who is _munkar_ in _ḥadīth_, as al-Bukhārī said; al-Nasāʾī said, “He is abandoned in _ḥadīth_;” Ibn Ḥibbān said, “He used to have female singers and listen to music, and he used to narrate fabricated reports on the authority of trustworthy narrators;” Ibn Abī Hātim said in _Kitāb al-ʿIlal_ (2/351), “I asked my father (i.e. Abū Hātim al-Rāzī) about this _ḥadīth_, to which he said: ‘_Munkar_.’”
 
