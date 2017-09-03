@@ -6,7 +6,9 @@
 
 From Irwā al-Ghalīl (2/178--182) by Shaykh al-Albānī
 
-1) “The Prophet \pbuh, when he raised his hands in duʿā', he would not put them down until he had wiped his face with them.”
+\begin{mdframed}[style=narration, frametitle={Narration}]
+The Prophet \pbuh, when he raised his hands in \textit{duʿā}, he would not put them down until he had wiped his face with them.
+\end{mdframed}
 
 _Ḍaʿīf_ ([Weak]{style="font-variant:small-caps;"}). Transmitted by al-Tirmidhī (2/244) and Ibn ʿAsākir (7/12/2) via: Ḥammād ibn ʿIsā al-Juhanī from Hanzalah ibn Abī Sufyān al-Jamhī from Sālim ibn ʿAbd Allāh from his father from ʿUmar ibn al-Khaṭṭāb, who said:...
 
@@ -20,7 +22,9 @@ Hence, the like of this reporter is very weak, so his _aḥādīth_ cannot be ra
 
 A similar _ḥadīth_ is:
 
-“When the Prophet \pbuh did _duʿā_ and raised his hands, he would wipe his face with his hands.”
+\begin{mdframed}[style=narration, frametitle={Narration}]
+When the Prophet \pbuh did \textit{duʿā} and raised his hands, he would wipe his face with his hands.
+\end{mdframed}
 
 _Ḍaʿīf_ ([Weak]{style="font-variant:small-caps;"}). Abū Dāwūd (1492) from Ibn Lahīʿah from Ḥafṣ ibn Hishām ibn ʿUtbah ibn Abī Waqqās from Sāʾib ibn Yazīd from his father.
 
@@ -28,7 +32,9 @@ This is a weak _sanad_ due to Ḥafṣ ibn Hishām being unknown and the weaknes
 
 This _ḥadīth_ cannot be strengthened by the two routes of narration together due to the severity in weakness of the first one, which you have seen.
 
-2) “When you call upon Allāh, then supplicate with the palms of your hands, and do not supplicate with their backs, and when you finish, wipe your face with them.”
+\begin{mdframed}[style=narration, frametitle={Narration}]
+When you call upon Allāh, then supplicate with the palms of your hands, and do not supplicate with their backs, and when you finish, wipe your face with them.
+\end{mdframed}
 
 _Ḍaʿīf_ ([Weak]{style="font-variant:small-caps;"}). Related by Ibn Mājah (1181, 3866), Ibn Naṣr in _Qiyām al-Layl_ (p.\ 137), al-Tabarānī in _al-Muʿjam al-Kabīr_ (3/98/1) and al-Ḥākim (1/536), from Ṣāliḥ ibn Ḥassān from Muḥammad ibn Kaʿb from Ibn ʿAbbās (May Allāh be pleased with him) as _marfūʿ_.
 
@@ -38,7 +44,9 @@ Ibn Ḥassān has been backed up by ʿĪsā ibn Maymūn, who also reported it fr
 
 This _ḥadīth_ of Ibn ʿAbbās is also related by Abū Dāwūd (1485), and from him al-Bayhaqī (2/212), via: ʿAbd al-Malik ibn Muḥammad ibn Ayman from ʿAbd Allāh ibn Yaʿqūb ibn Isḥāq from someone who narrated to him from Muḥammad ibn Kaʿb, the wording being:
 
-“Do not cover the walls. He who looks into the letter of his brother without his permission, verily he looks into the Fire. Ask Allāh with the palms of your hands, and do not ask him with their backs, and when you finish, wipe your faces with them.”
+\begin{mdframed}[style=narration, frametitle={Narration}]
+Do not cover the walls. He who looks into the letter of his brother without his permission, verily he looks into the Fire. Ask Allāh with the palms of your hands, and do not ask him with their backs, and when you finish, wipe your faces with them.
+\end{mdframed}
 
 This is a weak _sanad_: ʿAbd al-Malik is declared weak by Abū Dāwūd; it also contain the _shaykh_ of ʿAbd Allāh ibn Yaʿqūb who is unnamed, and therefore unknown -- it is possible that he may be Ibn Ḥassān or Ibn Maymūn, both of whom are mentioned above.
 

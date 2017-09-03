@@ -1,6 +1,8 @@
 
 # The authentic narration: “You are right in some of it and wrong in some of it.”
 
+\chaptermark{“Your are right in some of it and wrong in some of it.”}
+
 <!-- \chapter[toc version]{doc version} -->
 <!-- \chaptermark{version for header} -->
 

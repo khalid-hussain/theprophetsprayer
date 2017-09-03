@@ -7,11 +7,17 @@
 
 From: _Silsilah al-Aḥādīth al-Ḍaʿīfah_ (951--2) by Shaykh al-Albānī
 
-## “When he said _āmīn_, those behind him would say _āmīn_, such that there was a lot of noise in the mosque.” {.unnumbered}
+\begin{mdframed}[style=narration, frametitle={Narration}]
+When he said \textit{āmīn}, those behind him would say \textit{āmīn}, such that there was a lot of noise in the mosque.
+\end{mdframed}
 
 There is [no basis]{style="font-variant:small-caps;"} for the _ḥadīth_ with this wording as far as we know. Ibn Ḥajr said in _Talkhīs al-Habīr_ (p.\ 90), “I do not find it with this wording, but its meaning is related by Ibn Mājah in the _ḥadīth_ of Bishr ibn Rāfi”:
 
-## “When he recited ‘Not of those who received Your anger, nor of those who go astray,’ he said _āmīn_, such that those close to him in the first row could hear and the mosque trembled with it.” {.unnumbered}
+<!-- TODO check if the last part of the previous paragraph can be shifted into the next section. -->
+
+\begin{mdframed}[style=narration, frametitle={Narration}]
+When he recited “Not of those who received Your anger, nor of those who go astray,” he said \textit{āmīn}, such that those close to him in the first row could hear and the mosque trembled with it.
+\end{mdframed}
 
 _Ḍaʿīf_ ([Weak]{style="font-variant:small-caps;"}). Related by Ibn Mājah (1/281) and Abū Dāwūd without the addition (1/148), both via:
 
@@ -25,7 +31,9 @@ Būsayrī said in _al-Zawāʾid_ (56/1), “This is a weak _isnād_; Abū ʿAbd 
 
 This _ḥadīth_ only gives a part of the meaning of the one before it, i.e. the saying of _āmīn_ by the Imam alone. As for the _āmīn_ of those behind, this could be the reason for the phrase “the mosque trembled with it (the sound),” but the _ḥadīth_ literally implies that the _āmīn_ of the Prophet \pbuh was the reason for this.
 
-## “When he finished reciting the Mother of the Quran, he raised his voice and said _āmīn_.” {.unnumbered}
+\begin{mdframed}[style=narration, frametitle={Narration}]
+When he finished reciting the Mother of the Quran, he raised his voice and said \textit{āmīn}.
+\end{mdframed}
 
 _Ḍaʿīf_ ([Weak]{style="font-variant:small-caps;"}). Related by al-Dāraquṭnī, al-Ḥākim and al-Bayhaqī.
 
@@ -39,9 +47,13 @@ All the above sources contain Isḥāq ibn Ibrāhīm ibn al-ʿAlā al-Zubaydī, 
 
 <!-- TODO reorganize the following to conclude sections at their end -->
 
+<!-- TODO replace no.1 with something more recognizable or number the narrations -->
+
 The only support for no. 1 is what al-Shāfiʿī related in his _Musnad_ (1/76) via Muslim ibn Khālid from Ibn Jurayj from ʿAtā, who said:
 
-## “I used to hear the Imams: Ibn al-Zubayr and others after him would say _āmīn_, and those behind would say _āmīn_, until the mosque echoed.” {.unnumbered}
+\begin{mdframed}[style=narration, frametitle={Narration}]
+I used to hear the Imams: Ibn al-Zubayr and others after him would say \textit{āmīn}, and those behind would say \textit{āmīn}, until the mosque echoed.
+\end{mdframed}
 
 This has two defects:
 
@@ -50,7 +62,9 @@ This has two defects:
 (i) The weakness of Muslim ibn Khālid al-Zanjī; Ibn Ḥajar said, “He was truthful, but made many errors.”
 (ii) The _ʿanʿanah_ of Ibn Jurayj, who was a _mudallis_; perhaps he actually took it from Khālid ibn Abī Anūf, who narrated it from ʿAtā as follows:
 
-### “I came across two hundred Companions of the Messenger of Allāh \pbuh in this mosque (i.e. Masjid al-Ḥarām, Makkah): when the Imam had said ‘Nor of those who go astray,’ they raised their voices in _āmīn_ (in one narration: I heard the thundering sound of their _āmīn_).” {.unnumbered}
+\begin{mdframed}[style=narration, frametitle={Narration}]
+I came across two hundred Companions of the Messenger of Allāh \pbuh in this mosque (i.e. Masjid al-Ḥarām, Makkah): when the Imam had said “Nor of those who go astray,” they raised their voices in \textit{āmīn} (in one narration: I heard the thundering sound of their \textit{āmīn}).
+\end{mdframed}
 
 Related by al-Bayhaqī (2/59) and Ibn Ḥibbān in _al-Thiqāt_ (2/74); the alternative narration is from the former.
 
@@ -64,7 +78,9 @@ But then, I saw that al-Bukhārī mentioned the text (only) of the narration abo
 
 In this narration, Ibn Jurayj has clarified that he took the narration from ʿAtā face-to-face, so we are assured of the absence of _tadlīs_, and the narration of Ibn al-Zubayr is established firmly. Similarly is proven from Abū Hurayrah \mabpwhim; Abū Rāfī said:
 
-## “Abū Hurayrah used to call to prayer for Marwān ibn al-Ḥakam, stipulating that the latter would not get to ‘Nor of those who go astray’ unless he knew that Abū Hurayrah had entered the row. So when Marwān said ‘Nor of those who go astray,’ Abū Hurayrah would say _āmīn_, prolonging it. He also said, ‘When the _āmīn_ of those on the earth coincides with the _āmīn_ of those in the heaven, they are forgiven.’" {.unnumbered}
+\begin{mdframed}[style=narration, frametitle={Narration}]
+Abū Hurayrah used to call to prayer for Marwān ibn al-Ḥakam, stipulating that the latter would not get to “Nor of those who go astray” unless he knew that Abū Hurayrah had entered the row. So when Marwān said “Nor of those who go astray,” Abū Hurayrah would say \textit{āmīn}, prolonging it. He also said, “When the \textit{āmīn} of those on the earth coincides with the \textit{āmīn} of those in the heaven, they are forgiven.”
+\end{mdframed}
 
 Related by al-Bayhaqī (2/59); its _isnād_ is _ṣaḥīḥ_.
 
