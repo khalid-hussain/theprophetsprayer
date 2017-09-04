@@ -168,7 +168,7 @@ He also says:
 Then let those beware who withstand the Messenger's  order, lest some trial befall them or a grievous penalty be inflicted on them.
 \end{aquote}
 
-Ḥāfiẓ Ibn Rajab al-Ḥanbalī says:
+Al-Ḥāfiẓ Ibn Rajab al-Ḥanbalī says:
 
 > Therefore it is obligatory on anyone who hears of a command of the Messenger of Allāh \pbuh or knows it, to explain it to the _Ummah_, advise them sincerely, and order them to follow his command, even if it contradicts the opinion of someone great. This is because the authority of the Messenger of Allāh \pbuh has the most right to be respected and followed, over and above the opinion of anyone great who has unknowingly contradicted the Messenger's command in any matter. This is why the Companions and those after would refute anyone who contradicted the authentic Sunnah, sometimes being stern in their refutation,[^a51] not out of hatred for that person, for they loved and respected him, but because the Messenger of Allāh was more beloved to them, and his command was superior to the command of any other created being. Hence, when the order of the Messenger and that of someone else conflicted, the order of the Messenger would be more fitting to be enforced and followed. None of this would stop them respecting the person they had opposed because they knew that he would be forgiven;[^a52] in fact, the latter would not mind his instruction being opposed when the command of the Messenger of Allāh \pbuh was clearly shown to be opposite.[^a53]
 
