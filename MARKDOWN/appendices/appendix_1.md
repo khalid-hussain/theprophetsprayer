@@ -11,7 +11,7 @@ i. _Lā aṣla lahu_ ([Baseless]{style="font-variant:small-caps;"}). The _Muḥa
 
     This suggestion is very far-fetched, since it would mean that some of the sayings of the Prophet \pbuh have been lost to the _Ummah_ forever, something which is not permissible for a Muslim to believe.
 
-    Al-Manāwī quoted al-Subkī as saying, “It (i.e. the saying) is not known to the _Muḥaddithīn_ and I cannot find any _isnād_ for it, whether _ṣaḥīḥ_, _daʿīf_ or _mawḍūʿ_,” and this was endorsed by Shaykh Zakariyyah al-Anṣārī in his notes on _Tafsīr al-Bayḍāwī_ (92/2).
+    Al-Manāwī quoted al-Subkī as saying, “It (i.e. the saying) is unknown to the _Muḥaddithīn_ and I cannot find any _isnād_ for it, whether _ṣaḥīḥ_, _daʿīf_ or _mawḍūʿ_,” and this was endorsed by Shaykh Zakariyyah al-Anṣārī in his notes on _Tafsīr al-Bayḍāwī_ (92/2).
 
     Further, the meaning of this _ḥadīth_ is also incorrect as shown by the verifying scholars, hence Ibn Ḥazm says in _al-Iḥkām fī Uṣūl al-Aḥkām_ (5/64) after indicating that it is not a _ḥadīth_, “This is one of the most incorrect sayings possible, since if _ikhtilāf_ were a mercy, then agreement would be a punishment, something which no Muslim would say, because there can only be agreement or disagreement, and there can only be mercy or punishment.”
 
