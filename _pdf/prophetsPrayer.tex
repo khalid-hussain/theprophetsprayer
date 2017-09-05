@@ -112,7 +112,9 @@
     }
 
     \setenotez{
-      mark-cs = \colorendnotemark
+      mark-cs = \colorendnotemark,
+      totoc = section,
+      list-name = {Endnotes},
     }
 
     \DeclareInstance{enotez-list}{normalFont}{list}{
@@ -202,8 +204,8 @@ Ibrā-hīm
 }
 
 \begin{document}
-
-\pdfbookmark[0]{Book Cover}{Cover}
+\cleardoublepage
+\pdfbookmark{Cover}{Cover}
 \includepdf[fitpaper]{cover/cover}
 
 \pdfbookmark[0]{Transliteration Key}{TransliterationKey}
@@ -212,39 +214,60 @@ Ibrā-hīm
 % ******************************
 \frontmatter
 % ********************
-\pdfbookmark[0]{Table of Contents}{ToC}
+\pdfbookmark{\contentsname}{Contents}
 \tableofcontents*
 
 \input{fm1}
+\cleardoublepage
 \printendnotes[normalFont]
+
 \input{fm2}
+\cleardoublepage
 \printendnotes[normalFont]
 
 % ******************************
 \mainmatter
 % ********************
 \input{chapter1} % Facing the Ka'bah
+\cleardoublepage
 \printendnotes[normalFont]
 \input{chapter2} % Standing in Prayer
+\cleardoublepage
 \printendnotes[normalFont]
 \input{chapter3} % Intention and Takbir
+\cleardoublepage
 \printendnotes[normalFont]
 \input{chapter4} % Opening Supplications
+\cleardoublepage
 \printendnotes[normalFont]
 \input{chapter5} % Recitation
+\cleardoublepage
 \printendnotes[normalFont]
 \input{chapter6} % The Ruku
+\cleardoublepage
 \printendnotes[normalFont]
 \input{chapter7} % The Sujud
+\cleardoublepage
 \printendnotes[normalFont]
 \input{chapter8} % The Second Rakah
+\cleardoublepage
 \printendnotes[normalFont]
 \input{chapter9} % The First Tashahhud
+\cleardoublepage
 \printendnotes[normalFont]
 \input{chapter10} % The Last Tashahhud
+\cleardoublepage
 \printendnotes[normalFont]
 \input{chapter11} % The Taslim
+\cleardoublepage
 \printendnotes[normalFont]
+
+\addtocontents{toc}{%
+  \protect \newpage
+  \protect \bigskip\noindent
+  \protect \centering
+  \protect \large\textsc{--- appendices ---}\par%
+}
 
 \begin{appendices}
 \input{appendix1} %
