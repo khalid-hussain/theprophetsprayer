@@ -107,11 +107,11 @@
 
 [^a39]: Abu Nuʿaym (9/107), al-Harawī (47/1), Ibn al-Qayyim in _Iʿlām al-Muwaqqiʿīn_ (2/363) and al-Fullānī (p.\ 104).
 
-[^a40]: Ibn Abī Hātim in _al-Ādāb_ (p.\ 93), Abū al-Qāsim al-Samarqandī in _al-Amālī_, as in the selection from it by Abū Ḥafs al-Muʿaddab (234/1), Abū Nuʿaym (9/106) and Ibn ʿAsākir (15/10/1) with a _ṣaḥīḥ sanad_.
+[^a40]: Ibn Abī Ḥātim in _al-Ādāb_ (p.\ 93), Abū al-Qāsim al-Samarqandī in _al-Amālī_, as in the selection from it by Abū Ḥafṣ al-Muʿaddab (234/1), Abū Nuʿaym (9/106) and Ibn ʿAsākir (15/10/1) with a _ṣaḥīḥ sanad_.
 
-[^a41]: Ibn Abī Hātim, Abū Nuʿaym and Ibn ʿAsākir (15/9/2).
+[^a41]: Ibn Abī Ḥātim, Abū Nuʿaym and Ibn ʿAsākir (15/9/2).
 
-[^a42]: Ibn Abī Hātim (pp.\ 93--4).
+[^a42]: Ibn Abī Ḥātim (pp.\ 93--4).
 
 [^a43]: Ibn al-Jawzī in _al-Manāqib_ (p.\ 192).
 
@@ -125,35 +125,35 @@
 
 [^a48]: Ibn al-Jawzī (p.\ 182).
 
-[^a51]: Even against their fathers and learned men, as al-Ṭaḥāwī in _Sharḥ Maʿānī al-Āthār_ (1/372) and Abū Yaʿlā in his _Musnad_ (3/1317) have related, with an _isnād_ of trustworthy men, from Sālim ibn ʿAbd Allāh ibn ʿUmar, who said: “I was sitting with Ibn ʿUmar in the mosque once, when a man from the people of Syria came to him and asked him about continuing the _ʿUmrah_ onto the _Ḥajj_ (known as _Ḥajj al-Tamattuʿ_).” Ibn ʿUmar replied, “It is a good and beautiful thing.” The man said, “But your father (i.e. ʿUmar ibn al-Khaṭṭāb) used to forbid it!” So he said, “Woe to you! If my father used to forbid something which the Messenger of Allāh \pbuh practiced and commanded, would you accept my father's view, or the order of the Messenger of Allāh \pbuh?” He replied, “The order of the Messenger of Allāh \pbuh.” He said, “So go away from me.” Aḥmad (no.\ 5700) related similarly, as did al-Tirmidhī (2/82) and declared it _ṣaḥīḥ_.
+[^a51]: Even against their fathers and learned men, as al-Ṭaḥāwī in _Sharḥ Maʿānī al-Āthār_ (1/372) and Abū Yaʿlā in his _Musnad_ (3/1317) have related, with an _isnād_ of trustworthy men, from Sālim ibn ʿAbd Allāh ibn ʿUmar \mabpwthem, who said: “I was sitting with Ibn ʿUmar \mabpwthemtwo in the masjid once, when a man from the people of Syria came to him and asked him about continuing the _ʿUmrah_ onto the _Ḥajj_ (known as _Ḥajj al-Tamattuʿ_).” Ibn ʿUmar \mabpwthemtwo replied, “It is a good and beautiful thing.” The man said, “But your father (i.e. ʿUmar ibn al-Khaṭṭāb \mabpwhim) used to forbid it!” So he said, “Woe to you! If my father used to forbid something which the Messenger of Allāh \pbuh practiced and commanded, would you accept my father's view, or the order of the Messenger of Allāh \pbuh?” He replied, “The order of the Messenger of Allāh \pbuh.” He said, “So go away from me.” Aḥmad (#5700) related similarly, as did al-Tirmidhī (2/82) and declared it _ṣaḥīḥ_.
 
     Also, Ibn ʿAsākir (7/51/1) related from Ibn Abī Dhiʾb, who said:
 
-    “Saʿd ibn Ibrāhīm (i.e. the son of ʿAbd al-Raḥmān ibn ʿAwf) passed judgment on a man on the basis of the opinion of Rabīʿah ibn Abū ʿAbd al-Raḥmān, so I informed him of the saying of the Messenger of Allāh \pbuh which was contradictory to the judgment. Saʿd said to Rabīʿah, ‘We have Ibn Abī Dhiʾb, whom I regard to be reliable, narrating from the Prophet \pbuh contrary to what I ruled.’ Rabīʿah said to him, ‘You have made your effort, and your judgment has been passed.’ Saʿd said, ‘Most amazing! I enforce the decree of Saʿd, and not the decree of the Messenger of Allāh \pbuh! No, I shall withdraw the decree of Saʿd, son of the mother of Saʿd, and enforce the decree of the Messenger of Allāh \pbuh.’ So Saʿd called for the written decree, tore it up and gave a new verdict.”
+    > Saʿd ibn Ibrāhīm ibn ʿAbd al-Raḥmān ibn ʿAwf' \mabpwthem passed judgment on a man on the basis of the opinion of Rabīʿah ibn Abū ʿAbd al-Raḥmān, so I informed him of the saying of the Messenger of Allāh \pbuh which was contradictory to the judgment. Saʿd said to Rabīʿah, “We have Ibn Abī Dhiʾb, whom I regard to be reliable, narrating from the Prophet \pbuh contrary to what I ruled.” Rabīʿah said to him, “You have made your effort, and your judgment has been passed.” Saʿd said, “Most amazing! I enforce the decree of Saʿd, and not the decree of the Messenger of Allāh \pbuh! No, I shall withdraw the decree of Saʿd, son of the mother of Saʿd, and enforce the decree of the Messenger of Allāh \pbuh.” So Saʿd called for the written decree, tore it up and gave a new verdict.
 
-[^a52]: In fact, he would be rewarded, because of the Prophet's \pbuh saying : “When a judge passes judgment, if he performs _ijtihād_ and rules correctly, he will have two rewards; if he performs _ijtihād_ and rules wrongly, he will have one reward.” (Related by al-Bukhārī, Muslim, and others.)
+[^a52]: In fact, he would be rewarded, because of the Prophet's \pbuh saying, “When a judge passes judgment, if he performs _ijtihād_ and rules correctly, he will have two rewards; if he performs _ijtihād_ and rules wrongly, he will have one reward.” (Related by al-Bukhārī, Muslim, and others.)
 
 [^a53]: Quoted in the notes on _Īqāẓ al-Himam_ (p.\ 93)
 
 [^a54]: Al-Fullānī (p.\ 99).
 
-[^a55]: cf. Sūrah al-Wāqiʿah, 56:13--14.
+[^a55]: Sūrah al-Wāqiʿah, 56:13--14.
 
-[^a56]: Ibn ʿĀbidīn in _Ḥāshiyah_ (1/62), and al-Lucknāwī gave its source in _al-Nāfiʿ al-Kabīr_ (p.\ 93) as al-Ghazzālī.
+[^a56]: Ibn ʿĀbidīn in _al-Ḥāshiyah_ (1/62), and al-Lucknāwī gave its source in _al-Nāfiʿ al-Kabīr_ (p.\ 93) as al-Ghazzālī.
 
 [^a57]: He himself says at the beginning of his _Concise Shāfiʿī Fiqh_ (printed in the margin of Imam al-Shāfiʿī's _al-Umm_): “This book is a selection from the knowledge of Muḥammad ibn Idrīs al-Shāfiʿī and from the meanings of his sayings, to aid the understanding of whoever wants it, knowing of his forbidding the following of his, or anyone else's, opinion, so that such a person may carefully look for his _Dīn_ in it.”
 
 [^a58]: In which he has explained his opposing his Imam in about twenty _masāʾil_ (#42, #44, #103, #120, #158, #169, #172, #173, #228, #230, #240, #244, #274, #275, #284, #314, #331, #338, #355, #356)---from _Taʿlīq al-Mumajjid ʿalā Muwaṭṭā Muḥammad (Important Notes on Muḥammad's Muwaṭṭā)_
 
-[^a59]: Ibn ʿĀbidīn mentioned him among them in _Ḥāshiyah_ (1/74) and in _Rasm al-Muftī_ (1/17). Al-Qurashī mentioned him in _al-Jawāhir al-Madiyyah fī Ṭabaqāt al-Ḥanafiyyah_ (p.\ 347) and said, “He was a reliable transmitter of _ḥadīth_. He and his brother Ibrāhīm were the two _shaykhs_ of Balakh of their time.”
+[^a59]: Ibn ʿĀbidīn mentioned him among them in _al-Ḥāshiyah_ (1/74) and in _Rasm al-Muftī_ (1/17). Al-Qurashī mentioned him in _al-Jawāhir al-Madiyyah fī Ṭabaqāt al-Ḥanafiyyah_ (p.\ 347) and said, “He was a reliable transmitter of _ḥadīth_. He and his brother Ibrāhīm were the two _shaykhs_ of Balakh of their time.”
 
 [^a60]: _Al-Fawāʾid al-Bahiyyah fī Tarājum al-Ḥanafiyyah_ (p.\ 116).
 
 [^a61]: _Al-Baḥr al-Rāʾiq_ (6/93) and _Rasm al-Muftī_ (1/28).
 
-[^a62]: _Al-Fawāʾid al-Bahiyyah_...(p.\ 116); the author then added a useful note:
+[^a62]: _Al-Fawāʾid al-Bahiyyah_ (p.\ 116); the author then added a useful note:
 
-    “From this can be deduced the falsity of Makhūl's narration from Abū Ḥanīfah: ‘that he who raises his hands during prayer, his prayer is ruined,’ by which Amīr, the scribe of Iṭqānī, was deceived, as has been mentioned under his biography. ʿIṣām ibn Yūsuf, a companion of Abū Yūsuf, used to raise his hands, so if the aforementioned narration had any foundation, Abū Yūsuf and ʿIṣām would have known about it. It can also be deduced that if a _Ḥanafī_ ignored the _madhhab_ of his Imam in an issue due to the strength of the evidence against it, this would not take him outside the ranks of the Imam's followers, but this would in fact be proper _taqlīd_ in the guise of leaving _taqlīd_; do you not see that ʿIṣām ibn Yūsuf left Abū Ḥanīfah's _madhhab_ of not raising the hands, but he is still counted as a _Ḥanafī_? To Allāh I complain of the ignorance of our time, when they insult anyone who does not follow his Imam in an issue because of the strength of evidence against it, and expel him from the fold of that Imam's followers! This is not surprising when those who do this are from the ordinary masses, but it is amazing when it comes from those who imitate men of learning but plod along that path like cattle!”
+    > From this can be deduced the falsity of Makhūl's narration from Abū Ḥanīfah: “that he who raises his hands during prayer, his prayer is ruined,” by which Amīr, the scribe of Iṭqānī, was deceived, as has been mentioned under his biography. ʿIṣām ibn Yūsuf, a companion of Abū Yūsuf, used to raise his hands, so if the aforementioned narration had any foundation, Abū Yūsuf and ʿIṣām would have known about it. It can also be deduced that if a Ḥanafī ignored the _madhhab_ of his Imam in an issue due to the strength of the evidence against it, this would not take him outside the ranks of the Imam's followers, but this would in fact be proper _taqlīd_ in the guise of leaving _taqlīd_; do you not see that ʿIṣām ibn Yūsuf left Abū Ḥanīfah's _madhhab_ of not raising the hands, but he is still counted as a Ḥanafī? To Allāh I complain of the ignorance of our time, when they insult anyone who does not follow his Imam in an issue because of the strength of evidence against it, and expel him from the fold of that Imam's followers! This is not surprising when those who do this are from the ordinary masses, but it is amazing when it comes from those who imitate men of learning but plod along that path like cattle!
 
 <!-- [^a63]: Sūrah al-Nūr, 24:51--52. -->
 
