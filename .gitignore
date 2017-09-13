@@ -16,7 +16,6 @@ Thumbs.db
 *.synctex.gz
 *.synctex.gz(busy)
 *.toc
-*.pdf
 *.ent
 
 _pdf/workspace/
