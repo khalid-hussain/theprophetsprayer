@@ -18,6 +18,8 @@ Thumbs.db
 *.toc
 *.ent
 
+_pdf/cover/test.pdf
+
 _pdf/workspace/
 _pdf/workspace/*.*
 _pdf/*.aux
