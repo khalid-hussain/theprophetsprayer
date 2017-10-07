@@ -55,7 +55,7 @@ I ask Allāh to make this work sincerely for His Face, and to help my brothers i
 
 Since the purpose of this book is to convey the guidance of the Prophet \pbuh regarding prayer, it was elementary that I would not limit myself to a particular _madhhab_, for the reasons mentioned previously. Therefore, I would give whatever is authentically proved from him \pbuh, as has always been the way of the _Muḥaddithīn_,[^a13] whether of old or of the recent past,[^a14] as the excellent saying goes:
 
-> The People of _Ḥadīth_ are the People of the Messenger, although they accompany him not, they are with his every movement.[^a15]
+> The People of Ḥadīth are the People of the Messenger, although they accompany him not, they are with his every movement.[^a15]
 
 Thus this book would, Allāh Willing, gather whatever is relevant to each topic from the various contents of the books of _ḥadīth_ and the books on the differences between the _madhāhib_, such that the correct verdicts found in this book would not be found totally in any one _madhhab_. Hence the one acting on it, Allāh Willing, would be among those whom Allāh had guided «by His Grace to the Truth concerning that in which they differed, for Allāh guides whom He will to a path that is straight.»[^a16]
 
