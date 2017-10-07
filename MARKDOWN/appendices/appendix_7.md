@@ -13,7 +13,7 @@ From: _Silsilah al-Aḥādīth al-Ṣaḥīḥah_ (1993) by Shaykh al-Albānī
 
 Ibn Wahb was corroborated by ʿAbd Allāh ibn Ṣāliḥ, who said, “Muʿāwiyah ibn Ṣāliḥ narrated to us...etc.,” related by al-Dāraquṭnī (p.\ 177) and al-Ṭabarānī in _al-Muʿjam al-Kabīr_ (1410). ʿAbd Allāh ibn Ṣāliḥ is a _shaykh_ of al-Bukhārī, so he can be used as evidence in supporting others' narrations.
 
-This _ḥadīth_ is used as evidence by Imām Ibn Khuzaymah, “that prayer after _Witr_ is allowed to whoever wants to pray after it, and that the two _rakʿahs_ which the Prophet \pbuh used to pray after _Witr_ were not exclusively for him over his _Ummah_, for he has ordered us to pray two _rakʿahs_ after _Witr_, an order of recommendation and preference, not one of obligation and compulsion.”
+This _ḥadīth_ is used as evidence by Imam Ibn Khuzaymah, “that prayer after _Witr_ is allowed to whoever wants to pray after it, and that the two _rakʿahs_ which the Prophet \pbuh used to pray after _Witr_ were not exclusively for him over his _Ummah_, for he has ordered us to pray two _rakʿahs_ after _Witr_, an order of recommendation and preference, not one of obligation and compulsion.”
 
 Hence, it is clear to us from this _ḥadīth_ (because of his general order to his _Ummah_) that the two _rakʿahs_ after _Witr_ were not exclusively for him; it seems that the purpose of his command to make the last prayer at night odd was to prevent neglect of the one odd _rakʿah_, so this objective is not contradicted by the two _rakʿahs_ after it, as established in his practice and his command. Allāh knows best.
 
