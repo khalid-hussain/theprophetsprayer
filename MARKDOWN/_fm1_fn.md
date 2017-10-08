@@ -23,7 +23,7 @@
 
     This convention is one ignored by most of the _fuqahā_ of our age, in fact, by most scholars of any discipline, except for the skilled _muḥaddithīn_. This is disgusting carelessness, for they often say about a _ṣaḥīḥ ḥadīth_, ‘It is reported from him that...,’ and about a _ḍaʿīf_ one, ‘he said’ and ‘so- and-so reported...,’ and this is far from correct.”
 
-[^a8]: [Original] Publisher's note: Also in this category are the works of our teacher, author of _Irwā al-Ghalīl fi takhrīj Manār al-Sabīl_ in 8 volumes, and _Ghāyah al-Marām fi takhrīj aḥādīth al-Ḥalāl wa al-Harām_, a _takhrīj_ of the _aḥādīth_ found in Dr.\ Yūsuf al-Qaraḍāwi's, _The Lawful and the Prohibited in Islam_ (which contains many _ḍaʿīf aḥādīth_).
+[^a8]: [Original] Publisher's Note: Also in this category are the works of our teacher, author of _Irwā al-Ghalīl fi takhrīj Manār al-Sabīl_ in 8 volumes, and _Ghāyah al-Marām fi takhrīj aḥādīth al-Ḥalāl wa al-Harām_, a _takhrīj_ of the _aḥādīth_ found in Dr.\ Yūsuf al-Qaraḍāwi's, _The Lawful and the Prohibited in Islam_ (which contains many _ḍaʿīf aḥādīth_).
 
 [^a9]: The term “authentic _ḥadīth_” includes _ṣaḥīḥ_ and _ḥasan_ in the eyes of the _muḥaddithīn_, whether the _ḥadīth_ is _ṣaḥīḥ li dhātihī_ or _ṣaḥīḥ li ghayrihī_, or _ḥasan li dhātihī_ or _ḥasan li ghayrihī_.
 
