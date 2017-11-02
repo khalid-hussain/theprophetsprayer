@@ -158,8 +158,6 @@ This message has been the purpose of this _Introduction_. Allāh, Mighty and Sub
 O you who believe! Give your response to Allāh and His Messenger when he calls you to that which will give you life, and know that Allāh comes in between a man and his heart, and it is He to whom you shall all be gathered.
 \end{aquote}
 
-<!-- > O you who believe! Give your response to Allāh and His Messenger when he calls you to that which will give you life, and know that Allāh comes in between a man and his heart, and it is He to whom you shall all be gathered.[^b18] -->
-
 Allāh says the Truth; He shows the Way; and He is the Best to Protect and the Best to Help. May Allāh send prayers and peace on Muḥammad, and on his family and his Companions. Praise be to Allāh, Lord of the Worlds.
 
 Muḥammad Nāṣir al-Dīn al-Albānī  
