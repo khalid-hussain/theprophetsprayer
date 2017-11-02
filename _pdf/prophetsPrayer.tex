@@ -145,12 +145,12 @@
 %       FONTS
 % ********************
 \newfontfamily\arsymbols[
-Scale=1.2%
+%Scale=1.2%
+%Scale=1%
 ]{KFGQPC Arabic Symbols 01}
 
 \newfontfamily\sakkalfont[
 Script=Arabic,%
-Scale=1.2,%
 ]{Sakkal Majalla}
 
 \newfontfamily\arabicfont[
@@ -163,7 +163,12 @@ Scale=1.2%,
 Numbers=OldStyle,
 BoldFont={AGaramondPro-Bold.otf},
 ItalicFont={AGaramondPro-Italic.otf},
-BoldItalicFont={AGaramondPro-BoldItalic.otf}
+BoldItalicFont={AGaramondPro-BoldItalic.otf},
+UprightFeatures = { SizeFeatures= {
+    {Size=-10, OpticalSize=8 },
+    {Size= 10-14, OpticalSize=10},
+    {Size= 14-18, OpticalSize=14},
+    {Size= 18-, OpticalSize=18}}}
 ]{AGaramondPro-Regular.otf}
 
 \newcommand{\pbuh}{{\color{Goldenrod}\sakkalfont{\symbol{"FDFA}}}\xspace}
