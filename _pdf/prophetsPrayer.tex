@@ -2,6 +2,11 @@
 
 \overfullrule=2mm
 
+% Colors
+\usepackage[svgnames, dvipsnames]{xcolor}
+\definecolor{myBlack}{cmyk}{0,0,0,1}
+\definecolor{firebrick}{rgb}{0.7, 0.13, 0.13}
+
 % ******************************
 %       UTILITIES
 % ********************
@@ -11,6 +16,11 @@
 % ******************************
 %       MEMOIR SETTINGS
 % ********************
+\makeheadstyles{default}{%
+  \renewcommand*{\secheadstyle}{\color{Maroon}\Large\bfseries}
+  \renewcommand*{\subsecheadstyle}{\color{firebrick}\Large\bfseries}
+}
+\headstyles{default}
 \chapterstyle{dowding}
 
 \nouppercaseheads
@@ -27,8 +37,8 @@
 \frenchspacing
 \linespread{1.2}
 
-\setlength{\parindent}{0pt}
-\setlength{\parskip}{1em}
+%\setlength{\parindent}{0pt}
+%\setlength{\parskip}{1em}
 
     % ******************************
     %       TABLE OF CONTENTS
@@ -98,7 +108,15 @@
 % ******************************
 %       PACKAGES
 % ********************
-\usepackage[svgnames, dvipsnames]{xcolor}
+%% Start of CMYK Black options
+\makeatletter
+\newcommand{\globalcolor}[1]{%
+  \color{#1}\global\let\default@color\current@color
+}
+\makeatother
+
+\AtBeginDocument{\globalcolor{myBlack}}
+%% End of CMYK Black options
 \usepackage{xspace}
 \usepackage{pdfpages}
 \usepackage{minitoc}

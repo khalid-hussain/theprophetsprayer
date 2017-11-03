@@ -1,10 +1,18 @@
-\documentclass[ebook]{memoir}
+\documentclass[oneside,ebook]{memoir}
 \chapterstyle{thatcher}
 
-%\usepackage{ebgaramond}
 \usepackage{polyglossia}
 \usepackage{tabularx}
 \usepackage{enumitem}
+\usepackage[svgnames, dvipsnames]{xcolor}
+\definecolor{myBlack}{cmyk}{0,0,0,1}
+%% Start of CMYK Black options
+\makeatletter
+\newcommand{\globalcolor}[1]{%
+  \color{#1}\global\let\default@color\current@color
+}
+\makeatother
+%% End of CMYK Black options
 
 \setmainlanguage{english}
 \setotherlanguage{arabic}
@@ -23,8 +31,7 @@ BoldItalicFont={AGaramondPro-BoldItalic.otf}
 ]{AGaramondPro-Regular.otf}
 
 \begin{document}
-%\setlength{\parindent}{0in}
-\chapter*{Transliteration Key}
+\chapter*{Tr\kern 1ptansliteration Key}
 \vspace{-2.3em}
 \thispagestyle{empty}
 
@@ -45,7 +52,6 @@ BoldItalicFont={AGaramondPro-BoldItalic.otf}
 \hfill
 {\def\arraystretch{1.2}\tabcolsep=5pt
 	\begin{tabular}{@{}cl@{}}
-%\begin{tabular}{cl}
 \textarabic{ر} & {\large r}\textsuperscript{(6)}\\
 \textarabic{ز} & {\large z}\\
 \textarabic{س} & {\large s}\\
@@ -60,7 +66,6 @@ BoldItalicFont={AGaramondPro-BoldItalic.otf}
 \hfill
 {\def\arraystretch{1.2}\tabcolsep=5pt
 \begin{tabular}{@{}cl@{}}
-%\begin{tabular}{cl}
 \textarabic{ف} & {\large f}\\
 \textarabic{ق} & {\large q}\textsuperscript{(13)}\\
 \textarabic{ك} & {\large k}\\
