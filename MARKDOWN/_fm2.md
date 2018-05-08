@@ -90,9 +90,7 @@ I say: The best that I have found in answer to this is what al-Ḥāfiẓ Ibn Ka
 
 Hence, it is proved that all differing is bad, not a mercy! However, one type of differing is reprehensible, such as that of staunch followers of the _Madhāhib_, while another type is not blameworthy, such as the differing of the Companions and the Imams who succeeded them. May Allāh raise us in their company, and give us the capability to tread their path.
 
-Therefore, it is clear that the differing of the Companions was not like that of the _muqallidīn_. Briefly: the Companions only differed when it was inevitable, but they used to hate disputes, and would avoid them whenever possible; as for the _muqallidīn_, even though it is possible in a great many cases to avoid differing, they do not agree nor strive towards unity; in fact, they uphold differing. Hence there is an enormous gulf between these two types of people in their difference of opinion.
-
-This was from the point of view of cause. The difference in effect is more obvious.
+Therefore, it is clear that the differing of the Companions was not like that of the _muqallidīn_. Briefly: the Companions only differed when it was inevitable, but they used to hate disputes, and would avoid them whenever possible; as for the _muqallidīn_, even though it is possible in a great many cases to avoid differing, they do not agree nor strive towards unity; in fact, they uphold differing. Hence there is an enormous gulf between these two types of people in their difference of opinion. This was from the point of view of cause. The difference in effect is more obvious.
 
 The Companions, despite their well-known differing in subsidiary issues, were extremely careful to preserve outward unity, staying well-away from anything which would divide them and split their ranks. For example, there were among them those who approved of saying the _basmalah_ loudly (in prayer) and those who did not; there were those who held that raising the hands (in prayer) was recommended and those who did not; there were those who held that touching a woman nullified ablution, and those who did not---but despite all that, they would all pray together behind one Imam, and none of them would disdain from praying behind an Imam due to difference of opinion.
 
@@ -112,15 +110,13 @@ In the preface to _Hadiyyah al-Sulṭān ilā Muslimī Bilād al-Yābān_ by ʿA
 
 ## Misconception Three {.unnumbered}
 
-Others have the idea that what we invite to, of following the Sunnah and not accepting the views of the Imams contrary to it, means to completely abandon following their views and benefiting from their opinions and _ijtihād_.
+Others have the idea that what we invite to, of following the Sunnah and not accepting the views of the Imams contrary to it, means to completely abandon following and benefiting from their opinions and _ijtihād_.
 
 Answer: This idea is as far as can be from the truth---it is false and obviously flawed, as is clearly evident from our previous discussion, all of which suggests otherwise. All that we are calling to is to stop treating the _madhhab_ as a _Dīn_, placing it in the position of the Quran and the Sunnah, such that it is referred to in the case of dispute or when extracting a new judgment for unexpected circumstances, as the so-called jurists of this age do when setting new rules for personal matters, marriage, divorce, etc, instead of referring to the Quran and the Sunnah to distinguish the right from the wrong, the truth from falsehood---all of this on the basis of their “Differing is a mercy” and their idea of pursuing every concession, ease and convenience! How fine was the saying of Sulaymān al-Taymī:
 
 > Were you to accept the concessions of every scholar, you would gather every evil.
 
-Related by Ibn ʿAbd al-Barr in _Jāmiʿ Bayān al-ʿIlm_ (2/91--91), who said after it, “There is _ijmāʿ_ (consensus of opinion) on this: I know of no contrary view.”
-
-All this pursuing of concessions for the sake of it is what we reject, and it agrees with _ijmāʿ_, as you see.
+Related by Ibn ʿAbd al-Barr in _Jāmiʿ Bayān al-ʿIlm_ (2/91--91), who said after it, “There is _ijmāʿ_ (consensus of opinion) on this: I know of no contrary view.” All this pursuing of concessions for the sake of it is what we reject, and it agrees with _ijmāʿ_, as you see.
 
 As for referring to the Imams' views, benefiting from them, and being helped by them in understanding the truth where they have differed and there is no text in the Quran and the Sunnah, or when there is need for clarification, we do not reject it. In fact, we enjoin it and stress upon it, for there is much benefit expected in this for whoever treads the path of being guided by the Quran and the Sunnah. ʿAllāmah Ibn ʿAbd al-Barr says (2/182),
 
