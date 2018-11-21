@@ -633,5 +633,65 @@ al-Mukhtārah and Abū Nuʿaym in Akhbār Iṣbahān.
 
 K: comma
 
-(Stopped at PDF page 80)
+O assembly of Muslims! Verily, the prayer
+
+K: Assembly?
+
+had recited three of the Long Sūrahs: al-Baqarah, al-Nisā and Āl ʿImrān.
+
+K: comma
+
+often in his rukūʿ and sujūd, implementing (the order of) the Quran.
+
+K: kerning of of)
+
+have bowed; in You I have believed
+
+K: Capitalization after semi-colon
+
+Power, Kingdom, Magnificence and
+
+K: comma
+
+[The Third Dua is messed up]
+
+[The Fourth Dua is missing a period]
+
+Abū Dāwūd, and al-Ḥākim
+
+K: remove comma
+
+It is the madhhab of the three Imams, Mālik, al-Shāfiʿī and Aḥmad,
+
+K: comma
+
+Yūsuf Abū ʿAsamah al-Balkhi (d. 210),
+
+K: consider adding AH
+
+Ibn Khuzaymah, and Al-Tirmidhī who declared it ṣaḥīḥ.
+
+K: Remove comma
+
+Abū Dāwūd and al-Bukhārī in Juzʾ al-Qirāʾah
+
+K: remove hamzah transliteration
+
+Al-Ṭayālisī, Aḥmad and Ibn Abī Shaybah;
+
+K: comma
+
+Ibn Abī Shaybah (1/89/2), al-Ṭabarānī and al-Ḥākim,
+
+K: comma
+
+make his standing, rukūʿ and sujūd equal in
+
+K: comma
+
+al-Dāraquṭnī, Aḥmad, al-Ṭabarānī and al-Bayhaqī.
+
+K: comma
+
+(Stopped at PDF page 92)
 
