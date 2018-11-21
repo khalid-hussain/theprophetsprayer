@@ -3,6 +3,8 @@
 Consider changing numbers of ToC to Lined
 Consider changing footnote markers to Lined
 Consider italicizing exclamation/question marks after an italicized word
+Consider the style applied when using pbuh
+Consider repeating/not repeating pbuh consistently
 
 ## Margin errors
 
@@ -342,3 +344,207 @@ K: comma
 Similarly,ʿĀʾishah
 
 K: space
+
+1/224 Maktab al-Islāmī edition):
+
+K: comma
+
+Mustaḥabbāt al-Ṣalāh in his book al-Iʿlām (p. 15, 3rd edition, Rabat):
+
+K: 3rd looks weird
+
+Close to this is what ʿAbd Allah ibn Aḥmad ibn Ḥanbal related in his
+
+K: Allāh
+
+# Chapter Four (Opening Supplications)
+
+Get ALL the Opening Supplications in Arabic checked
+
+Dua 2
+
+K: Li Allāh
+
+“Allāh is the Greatest, Very Great,”
+
+K: inconsistency with the next occurence
+
+“Wonderful for it (the supplication) is that the doors of the heavens were
+opened for it.”
+
+K: Can this be phrased better?
+
+Dua 8
+
+K: Consider removing commas from the Arbaic
+
+Dua 9
+
+K: La Hawla wa la (add sukun)
+K: Transliteration of Haq
+
+Dua 10
+
+K: Should be Jabrāʾīl
+
+Dua 12
+
+K: Check brackets and comma
+
+Ibn Kathīr (vol. 3, part 2, p. 235/2)
+
+K: Check referencing style
+
+# Chapter Five (Recitation)
+
+Quiet and loud recitation in the five prayers and others
+
+K: Check mini toc width (Can it be widened?)
+
+[and the Grand Recitation which have been bestowed upon me].”
+
+K: which has been....
+
+but said to one who could not remember it to say: (Arabic after)
+
+K: Check spacing and indentation of the Arabic
+
+“Which of you recited «Glorify the name of your Lord the Most High» (Quran, 87:1)?”
+
+K: Check Quran reference. Use consistent style.
+
+lām is a ḥarf, and mīm is a ḥarf.”
+
+K: kerning towards the end of the segment.
+
+those who go astray,» then
+
+K: Consider comma outside of brackets
+
+«Say: He is Allāh, the One and Only» (Quran, 112:1) until its end,
+
+K: Check Quran reference
+
+Sometimes he would combine sūrahs from the seven ṭiwāl (long sūrahs), such as al-Baqarah, al-Nisā and Āl ʿImrān in one rakʿah
+
+K: comma
+
+and when he recited, «Glorify the name of your Lord Most High» (Quran,
+87:1), he would say,
+
+K: margin error
+
+Muʿādh ibn Jabal 􀁉 used to pray ʿIshā [the last] with the Messenger of Allāh صلى الله عليه وسلم, and then return and lead his people in prayer. One night when he returned and prayed with them, a young man [called Sulaym 􀁉
+
+K: Consider removing repeated occurrences of [May Allah be pleased with him]
+
+The Prophet صلى الله عليه وسلم said, “O Abū Bakr, raise your voice a little bit.” and to ʿUmar 􀁉, “lower your voice a little bit.”
+
+K: Revise the punctuation of this narration
+
+Sometimes he صلى الله عليه وسلمwould recite the shortermufaṣṣal sūrahs, such as «When the sun is folded up.» (Quran, 81).
+
+K: Check Quran referencing style
+
+He صلى الله عليه وسلمused to recite al-Rūm(Quran, 30)⁷³ and sometimes Yā  īn (Quran, 36).⁷⁴
+
+K: Consider increasing margin slightly
+
+Sometimes he صلى الله عليه وسلم would recite «By the Sky and the Night-Visitant.» (Quran, 86), «By the Sky, (displaying) the Constellations.» (Quran, 85), «By the Night as it conceals.» (Quran, 92) and similar sūrahs
+
+K: if the style is changed for the others (aka Quran reference), change it here too.
+
+Occasionally, he صلى الله عليه وسلمrecited «When the Sky is rent asunder» (Quran, 84) and similar ones
+
+K: Quran reference style. Period inside guillets?
+
+They would hear the tones of his صلى الله عليه وسلم recitation of «Glorify the name of your Lord Most High» (Quran, 87) and «Has the story reached you of the Overwhelming?» (Quran, 88).”⁹⁷
+
+K: Punctuation if the others change.
+
+Sometimes he صلى الله عليه وسلمwould recite «By the Sky and the Night-Visitant» (Quran, 86), «By the Sky, (displaying) the Constellations» (Quran, 85), and similar sūrahs.⁹⁸
+
+K: Quran reference style and margin width problem.
+
+He used to recite the sūrahs mentioned under Ẓuhr prayer above.
+
+K: hyperlink Zuhr prayer
+
+He صلى الله عليه وسلم would recite the medium mufaṣṣal surahs in the first two rakʿahs
+
+K: sūrahs
+
+Or he صلى الله عليه وسلم would recite «When the Sky is rent asunder…» (Quran, 84) and make sajdah during it.¹¹⁷ Also, he صلى الله عليه وسلم once recited «By the Fig and the Olive» (Quran, 95) [in the first rakʿah] while on a journey.
+
+K: Quran reference punctuation. Period at end of ayah.
+
+“Do you want to be on who causes a lot of trouble, Muʿādh?!
+
+K: one
+
+When you lead the people, recite «By the Sun and its splendor» (Quran, 91) or «Glorify the Name of your Lord Most High» (Quran, 77) or «Read in the Name of your Lord» (Quran, 96) or
+
+K: Quran referencing style
+
+He صلى الله عليه وسلمwould sometimes recite loudly in it and sometimes quietly
+
+K: Period instead of comma
+
+or he would recite about as much as al-Muzzammil (Quran, 73).“
+
+K: remove quotation
+
+O Messenger of Allāh, I have a neighbor who stands (in prayer) at night and does not recite anything except
+
+K: This paragraph seems weird. “as if he considers it little”
+
+and “Truly, the one who has one of the finest voices among the people for reciting the Quran is the one whom you think fears Allāh when you hear him recite.”
+
+K: comma (and,)
+
+“Had you seen me while I was listening to your recitation yesterday! You have surely been given one of the musical wind instruments¹⁷⁴ of the family of Dāwūd!
+
+K: punctuation
+
+Abū Dāwūd and al-Sahmī (64-65);
+
+K: What is this? Page numbers? Also use en dash.
+
+Muslim, Abū ʿAwānah and Mālik, and al-Sahmī has a supporting ḥadīth of Jābir in Tārīkh Jurjān (144).
+
+K: Can this be rephrased without losing meaning?
+
+Arabic hadhdhan: reciting quickly, implying racing or hurrying.
+
+K: style contradicts labbayk and ṣaʿdayk. Ensure consistency
+
+It is given in Irwā al-Ghalīl (#332, #394).
+
+K: Consider "(#332 and #394)"
+
+Mālik and al-Bukhārī in Afʿāl al-ʿIbād with
+
+K: kerning
+
+“He who recites behind the Imam, his mouth is filled with fire,” it is fabricated (mawḍūʿ )
+
+K: put Arabic outside and english inside brackets
+
+Al-Bukhārī in Juzʾ al-Qirāʿah
+
+K: Remove hamzah transliteration
+
+Silsilah al-Aḥādīth al-Ḍaʿīfah (vol. 2, #952)
+
+K: Double check volume reference
+
+among those who have declared it ḍaʿīf are Ibn al-Jawzī, al-Mundhirī, al-Haytamī, Ibn Ḥajar al-ʿAsqalānī and al-Būṣayrī.
+
+K: comma between last two items
+
+The first number is that of the sūrah, while the second is the number of āyāt in the sūrah.
+
+K: This doesn't make sense now.
+
+(Stopped at PDF page 66)
+
