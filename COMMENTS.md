@@ -6,6 +6,8 @@ Consider italicizing exclamation/question marks after an italicized word
 Consider the style applied when using pbuh
 Consider repeating/not repeating pbuh consistently
 
+Font: Check Ḍ in Adobe Garamond
+
 ## Margin errors
 
 liii
@@ -523,6 +525,7 @@ It is given in Irwā al-Ghalīl (#332, #394).
 K: Consider "(#332 and #394)"
 
 Mālik and al-Bukhārī in Afʿāl al-ʿIbād with
+(Another version occurs on page 68 with correct kerning, take the value and apply here)
 
 K: kerning
 
@@ -546,5 +549,89 @@ The first number is that of the sūrah, while the second is the number of āyāt
 
 K: This doesn't make sense now.
 
-(Stopped at PDF page 66)
+Arabic dandanah: when someone speaks some words
+
+K: Check consistency with labbayk
+
+Hārith ibn Abī Usāmah
+
+K: Check consistency of Muḍāf ilayhi
+
+Aḥmad, Ibn Khuzaymah (1/69/1) and al-Ḥākim
+
+K: comma
+
+Muslim, and al-Bukhārī in taʿlīq form.
+
+Al-Ṭaḥāwī, Ibn Ḥibbān in his ṣaḥīḥ and Ibn Bushrān;
+
+K: comma
+
+Muslim, and al-Bukhārī in Juzʾ al-Qirāʾah (Article on Recitation).
+
+K: remove comma; consider re-arranging
+
+Al-Bukhārī in Juzʾ al-Qirāʿah and
+
+K: remove hamzah transliteration
+
+Aḥmad, and al-Tirmidhī who declared it ḥasan.
+
+K: remove comma
+
+Abū Dāwūd, and al-Nasāʾī with a ṣaḥīḥ isnād.
+
+K: remove comma
+
+Al-Nasāʾī, and al-Tirmidhī who declared it ṣaḥīḥ.
+
+K: remove comma
+
+Al-Dārimī, and al-Tirmidhī who declared it ṣaḥīḥ.
+
+K: remove comma
+
+Arabic shīrrah: excitement, enthusiasm
+
+K: check consistency with labbayk
+
+Aḥmad, and Ibn Ḥibbān in his Ṣaḥīḥ.
+
+K: remove comma
+
+Al-Dārimī, and al-Ḥākim who declared it ṣaḥīḥ and al-Dhahabī concurred.
+
+K: remove comma
+
+Al-Nasāʾī, and al-Ḥākim who declared it ṣaḥīḥ.
+
+K: remove comma
+
+Aṣamm in his Ḥadīthah (vol. 2, #117),
+
+K: Check volume referencing
+
+The latter ḥadīth is given in Silsilah al-Aḥādīth al-Ṣaḥīḥah (1993)—see Appendix G.
+
+K: Consider removing the em space.
+
+Abū Dāwūd, and al-Tirmidhī who declared it ṣaḥīḥ.
+
+K: remove comma
+
+Arabic al-Tarjīʿ : explained as a vibrating tone by Ibn Ḥajar; Al-Manāwī said: “It arises from a feeling of joy and
+
+K: Check consistency with labbayk
+
+[Check the footnote 167 on page 78]
+
+Ibn Ḥajar said in his commentary on “āa”, “
+
+K: Comma inside quotes
+
+al-Mukhtārah and Abū Nuʿaym in Akhbār Iṣbahān.
+
+K: comma
+
+(Stopped at PDF page 80)
 
