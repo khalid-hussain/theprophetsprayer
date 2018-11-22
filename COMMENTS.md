@@ -8,6 +8,9 @@ Consider repeating/not repeating pbuh consistently
 
 Font: Check Ḍ in Adobe Garamond
 
+Check capitalization after semi-colons everywhere
+Consider putting pbuh logo in each instance of mention
+
 ## Margin errors
 
 liii
@@ -693,5 +696,178 @@ al-Dāraquṭnī, Aḥmad, al-Ṭabarānī and al-Bayhaqī.
 
 K: comma
 
-(Stopped at PDF page 92)
+Abū Dāwūd, and al-Ḥākim who declared it
 
+K: remove comma
+
+coccyx” according to Qāmūs; see also Fatḥ al-Bārī (2/308).
+
+K: Capitalization after semi-colon
+
+Muslim, Abū ʿAwānah, Aḥmad and Abū Dāwūd.
+
+K: comma
+
+[Pg. 94, footnote 46 -- Musnad Aḥmad and Aḥmad]
+
+who has wealth, sons, might and power in this world
+
+K: comma
+
+Shaykh al-Islām Ibn Taymiyyah has written.
+
+K: Taymīyyah?
+
+Does the respected Shaykh think that the
+
+K: Remove italics from Shaykh
+
+his face, his palms, his knees and his feet.”
+
+K: comma
+
+“When you perform sajdah, place your palms (on the ground) and raise your elbows
+
+K: take footnote marker out
+
+He also used to say, “Do not spread your arms [the way a beast of prey does], rest on your palms and keep your upper arms apart, for
+
+K: Pbuh
+
+as long as his standing, in which he had recited three of the Long Sūrahs: al-Baqarah, al-Nisā and Āl ʿImrān.
+
+K: comma
+
+[Dua five, check comma of Arabic with English]
+
+[Duas of Sujud, add periods to all]
+
+Dua 8
+“How Perfect is He Who has all Power, Kingdom, Magnificence and Supremacy,”
+
+K: comma
+
+exultations
+
+K: extolments?
+
+7.5 Forbiddance of reciting the Quran in sujūd
+[Check whole section]
+
+He said, “Neither of those was the case: actually, my son made me his mount, so
+
+K: these?
+
+The whole earth has been made a place of worship
+(masjid)
+
+K: kerning d and )
+
+Abū Dāwūd, and al-Ḥākim who declared it ṣaḥīḥ and al-Dhahabī concurred.
+
+K: remove comma
+
+Al-Nasāʾī, al-Dāraquṭnī and al-Mukhliṣ in al-Fawāʾid
+
+K: comma
+
+Qāsim bin Muḥammad, ʿAbd Allāh bin Dīnār and ʿAtāʾ
+
+K: comma
+
+ʿAbd al-Raḥmān bin Mahdī said, “This is from the Sunnah,” it was practiced by the Imam of the Sunnah, Aḥmad bin Ḥanbal, and it has been quoted from Mālik and al-Shāfiʿī.
+
+K: check prose
+
+Ibn Khuzaymah (1/76/1), al-Dāraquṭnī and al-Ḥākim,
+
+K: comma
+
+This way has been endorsed by Mālik, and similar
+
+K: remove comma
+
+Also, al-Marwazī quoted with a ṣaḥīḥ isnād, Imam al-Awzāʿī in his Masāʾil (1/147/1) as saying, “I found the people placing their hands before their knees.”
+
+K: prose
+
+ʿAbd al-Ḥaq declared
+
+K: consider Haqq
+
+Ibn Khuzaymah (1/79/2), Aḥmad and al-Sirāj;
+
+K: comma
+
+Abū Dāwūd and al-Ḥākim, who declared it
+
+K: remove comma
+
+Ibn Khuzaymah, al-Bayhaqī, and al-Ḥākim, who declared it ṣaḥīḥ
+
+K: (check) comma
+
+Abū Dāwūd, and al-Tirmidhī who declared it ṣaḥīḥ,
+Abū Dāwūd, and al-Tirmidhī who declared
+
+K: remove comma
+
+and al-Ḥākim, who declared it
+
+K: remove comma
+
+Muslim, Abū ʿAwānah and Ibn Ḥibbān.
+
+K: comma
+
+Abū Dāwūd, and al-Tirmidhī
+
+K: remove comma
+
+Aḥmad, and al-Tirmidhī who declared it ṣaḥīḥ.
+
+K: remove comma
+
+al-Mukhtārah and al-Ḥākim, who declared it ṣaḥīḥ and al-Dhahabī
+
+K: remove comma
+
+and al-Ḥākim, who declared it ṣaḥīḥ but al-Dhahabī disagreed,
+
+K: remove comma
+
+and al-Ḥākim, who declared it ṣaḥīḥ and al-Dhahabī concurred.
+
+K: remove comma
+
+In this regard, there are also aḥādīth in al-Bukhārī, Muslim and others.
+
+K: add comma
+
+the shining of the face due to the light of sujūd.
+
+K: italics
+
+the face, hands and feet. The shining marks of ablution on the face, hands and legs of humans is compared to the whiteness of a horse’s face and legs
+
+K: comma
+
+Aḥmad, with a ṣaḥīḥ isnād.
+
+K: remove comma
+
+A khumrah is a piece of matting, palm-fiber, or other material which is big enough for a man to place his face on it in sajdah; the term does not apply to larger pieces.
+
+K: Check for consistent style
+
+as in Ibn al-Qayyim’s Badāiʿ al-Fawāʾid
+
+K: check book name
+بدائع الفوائد
+
+Muslim, Abū ʿAwānah, Abū Shaykh in Mā Rawāhu Abū al-Zubayr ʿan Ghayr Jābīr (#104–6), and al-Bayhaqī.
+
+K: title case and number of hadith
+
+
+(Stopped at PDF page 119)
