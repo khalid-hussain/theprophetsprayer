@@ -869,5 +869,132 @@ Muslim, Abū ʿAwānah, Abū Shaykh in Mā Rawāhu Abū al-Zubayr ʿan Ghayr Jā
 
 K: title case and number of hadith
 
+[page 119 - margin error, consider hyphenating]
 
-(Stopped at PDF page 119)
+us via the ḥadīth of Ibn ʿAbbās in Muslim, Abū Dāwūd, and al-Tirmidhī who declared it ṣaḥīḥ, and others
+
+K: remove one and
+
+Abū Dāwūd, al-Tirmidhī, Ibn Mājah and al-Ḥākim, who declared it ṣaḥīḥ and al-Dhahabī concurred.
+
+K: check comma
+
+Abū Dāwūd, and al-Ḥākim who declared it ṣaḥīḥ
+
+K: comma
+
+This raising of the hands is supported by Aḥmad, Mālik and al-Shāfiʿī
+
+K: comma
+
+Aḥmad, and al-Tirmidhī who declared it ṣaḥīḥ
+
+K: remove comma
+
+See also Irwā al-Ghalīl (2/82–3).
+
+K: number range
+
+Ibn Mājah, Ibn Ḥibbān in his Ṣaḥīḥ and Aḥmad in Ibn Hāni’s Masāʾil (1/52).
+
+K: comma
+
+‘All compliments,²⁶ prayers²⁷ and pure words²⁸ are due to Allāh.
+
+K: comma
+
+‘All compliments, blessed words, prayers, pure words are due to Allāh.
+
+K: and
+
+narration: …is His slave and messenger).”’³²
+
+K: order of quotation marks
+
+[Fix Arabic of Tashahhud Duas, remove Kashida]
+
+“All compliments, prayers and good words are due to Allāh.
+
+K: comma
+
+[Compare Arabic and their translations (Tashahhud Duas)]
+
+[First dua of sending blessings on the prophet has a discrepancy between translation and text]
+
+[Compare Arabic and their translations (Sending Salutations on the Prophet)]
+- Third dua looks weird
+
+e.g. in the words of the Exalted, «Allāh has chosen Ādam, Nūḥ, the family of Ibrāhīm and the family of ʿImrān above all people.» (Quran, 3:33).
+
+K: comma, Check Quran quotation reference styling
+
+Shaykh al-Islām Ibn Taymiyyah says,
+
+K: Taymīyyah
+
+«Allāh has chosen Ādam, Nūḥ, the family of Ibrāhīm and the family of ʿImrān above all people» (Quran, 3:33);
+
+K: comma
+
+must be used, as is reported from his
+action PBUH, whether in the first or the last tashahhud.
+
+K: position of PBUH logo
+
+Abū Humayd al-Sāʿīdī,
+
+K: Is this correct?
+
+modesty, just as he did not say صلى الله عليه وسلم on mention of his name, although his Ummah has been encouraged to do so”
+
+K: Can this be made clearer? Ask a couple of other guys
+
+blessings on the leader (sayyid) of
+
+K: Arabic outside, english inside
+
+which there is no mention of sayyid!
+
+K: italicise exclamation mark
+
+ones at different times, as Shaykh al-Islām Ibn Taymiyyah has explained
+
+K: Taymīyyah
+
+The religion of Muḥammad is in narrations,\
+
+K: There is an extra \
+
+proper place, then stand up, supporting himself on the ground; and he would clench his fists:⁶⁰ supporting himself
+
+K: remove colon
+
+[O Allāh! Curse Lahyān, and Ruʾl, and Dhakwān, and ʿUsayyah, who disobeyed Allāh and His Messenger!]”
+
+K: Phrasing of “and”
+
+Al-Bayhaqī, and al-Ḥākim who declared it ṣaḥīḥ
+
+K: remove comma
+
+Muslim, Abū ʿAwānah and Ibn Khuzaymah.
+
+K: comma
+
+Ibn al-Jārūd in al-Muntaqā (208), Ibn Khuzaymah (1/86/1–2) and Ibn Ḥibbān in his ṣaḥīḥ (485)
+
+K: comma
+
+[“But what is the reward for those among you who behave like this except…”] What does this mean?
+
+al-Rūyānī in his Musnad (249/2) and al-Bayhaqī.
+
+K: comma
+
+[Margin error pg. 150]
+
+Abū Dāwūd, and al-Ḥākim who declared it ṣaḥīḥ
+
+K: remove comma
+
+(Stopped at PDF page 151)
