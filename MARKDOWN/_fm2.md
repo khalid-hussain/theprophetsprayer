@@ -12,7 +12,7 @@ Answer: The answer is from two angles:
 
 Firstly: This _ḥadīth_ is [not authentic]{style="font-variant:small-caps;"}; in fact, it is false and without foundation. ʿAllāmah al-Subkī said, “I have not come across an authentic or weak or fabricated chain of narration for it,” i.e. no chain of narrators exists for this “_ḥadīth_”!
 
-It has also been related with the wordings: “...the difference of opinion among my Companions is a mercy for you” and “My Companions are like the stars, so whichever of them you follow, you will be guided.” Both of these are not authentic: the former is very feeble; the latter is fabricated. (See \hyperref[the-weakness-of-the-narrations-endorsing-ikhtilux101f]{\textit{Appendix A}})
+It has also been related with the wordings: “...the difference of opinion among my Companions is a mercy for you,” and “My Companions are like the stars, so whichever of them you follow, you will be guided.” Both of these are not authentic: the former is very feeble; the latter is fabricated. (See \hyperref[the-weakness-of-the-narrations-endorsing-ikhtilux101f]{\textit{Appendix A}})
 
 Secondly: This _ḥadīth_ [contradicts]{style="font-variant:small-caps;"} the Glorious Quran, for the _āyāt_ forbidding division in the _Dīn_ and enjoining unity are too well-known to need reminding. However, there is no harm in giving some of them by way of example: Allāh says,
 
@@ -80,7 +80,7 @@ Imam al-Muzanī also said,
 
 > There is the one who allows differing and thinks that if two scholars make _ijtihād_ on a problem and one says, “_Ḥalāl_,” while the other says, “_Ḥarām_,” then both have arrived at the truth with their _ijtihād_! It can be said to such a person, “Is this view of yours based on the sources or on _qiyās_ (analogy)?” If he says, “On the sources,” it can be said, “How can it be based on the sources, when the Quran negates differing?” And if he says, “On analogy,” it can be said, “How can the sources negate differing, and it be allowed for you to reason by analogy that differing is allowed?!” This is unacceptable to anyone intelligent, let alone to a man of learning.[^b9]
 
-If it is said further: “What you have quoted from Imam Mālik that truth is only one, not plural, is contradicted by what is found in _al-Madkhal al-Fiqhi_ (1/89) by Shaykh Zarqā: ‘The Caliphs Abū Jaʿfar al-Manṣūr and later al-Rashīd proposed to select the _madhhab_ of Imam Mālik and his book _al-Muwaṭṭā_ as the official code of Law for the Abbasid empire, but Imam Mālik forbade them from this, saying, “Indeed, the Companions of the Messenger of Allāh \pbuh differed in the subsidiary issues and were scattered in various towns, [but each of them was correct]{style="font-variant:small-caps;"}.”’”
+If it is said further: “What you have quoted from Imam Mālik that truth is only one, not plural, is contradicted by what is found in _al-Madkhal al-Fiqhī_ (1/89) by Shaykh Zarqā: ‘The Caliphs Abū Jaʿfar al-Manṣūr and later al-Rashīd proposed to select the _madhhab_ of Imam Mālik and his book _Muwaṭṭā_ as the official code of Law for the Abbasid empire, but Imam Mālik forbade them from this, saying, “Indeed, the Companions of the Messenger of Allāh \pbuh differed in the subsidiary issues and were scattered in various towns, [but each of them was correct]{style="font-variant:small-caps;"}.”’”
 
 I say: This incident of Imam Mālik is well-known, but his saying at the end, “but each of them was correct” is one for which I find no basis in any of the narrations or sources I have come across,[^b10] by Allāh, except for one narration collected by Abū Nuʿaym in _Ḥilyah al-Awliyā_ (6/332), but with a chain of narrators which includes al-Miqdām ibn Dāwūd who is classified among the weak narrators by al-Dhahabi in _al-Ḍuʿafā_; not only this, but the wording of it is, “...but each of them was correct in his own eyes.” Hence the phrase “in his own eyes” shows that the narration in _al-Madkhal_ is fabricated; indeed, how could it be otherwise, when it contradicts what has been reported on reliable authority from Imam Mālik that truth is only one and not plural, as we have mentioned, and this is agreed on by all the Imams of the Companions and the Successors as well as the four _Mujtahid_ Imams and others. Ibn ʿAbd al-Barr says, “If the conflicting views could both be right, the _Salaf_ would not have corrected each other's _ijtihād_, judgments, and verdicts. Simple reasoning forbids that something and its opposite can both be correct; as the fine saying goes,
 
@@ -118,7 +118,7 @@ Answer: This idea is as far as can be from the truth---it is false and obviously
 
 > Were you to accept the concessions of every scholar, you would gather every evil.
 
-Related by Ibn ʿAbd al-Barr in _Jāmiʿ Bayān al-ʿIlm_ (2/91--91), who said after it, “There is _ijmāʿ_ (consensus of opinion) on this: I know of no contrary view.” All this pursuing of concessions for the sake of it is what we reject, and it agrees with _ijmāʿ_, as you see.
+Related by Ibn ʿAbd al-Barr in _Jāmiʿ Bayān al-ʿIlm_ (2/91--92), who said after it, “There is _ijmāʿ_ (consensus of opinion) on this: I know of no contrary view.” All this pursuing of concessions for the sake of it is what we reject, and it agrees with _ijmāʿ_, as you see.
 
 As for referring to the Imams' views, benefiting from them, and being helped by them in understanding the truth where they have differed and there is no text in the Quran and the Sunnah, or when there is need for clarification, we do not reject it. In fact, we enjoin it and stress upon it, for there is much benefit expected in this for whoever treads the path of being guided by the Quran and the Sunnah. ʿAllāmah Ibn ʿAbd al-Barr says (2/182),
 
@@ -130,7 +130,7 @@ There exists another common misconception among _muqallidīn_ which bars them fr
 
 Answer: This reasoning is totally fallacious, and borne of not understanding the Sunnah; otherwise, how can an intelligent Muslim argue in such a way?!
 
-The Messenger of Allāh \pbuh himself said, “When the one making a judgment strives his utmost and arrives at the correct result, he has two rewards; but if he judges, striving his utmost and passes the wrong judgment, he has one reward.”[^b15] This _ḥadīth_ refutes the above argument and explains lucidly and without any obscurity that if someone says, “So-and-so was wrong,” its meaning under the Sharīʿah is “So-and-so has one reward.” So if he is rewarded in the eyes of the one finding fault, how can you accuse the latter of insulting him?! There is doubt that this type of accusation is baseless and anyone who makes it must retract it: otherwise it is he who is insulting Muslims, not just ordinary individuals among them, but their great Imams among the Companions, Successors the subsequent _Mujtahid_ Imams and others. This is because we know for sure that these illustrious personalities used to fault and refute each other;[^b16] is it reasonable to say, “They used to insult each other”? No! In fact, it is authentically-reported that the Messenger of Allāh \pbuh himself faulted Abū Bakr in his interpretation of a man's dream, saying to him, “You were right in some of it and wrong in some of it”[^b17]---so did he \pbuh insult Abū Bakr by these words?!
+The Messenger of Allāh \pbuh himself said, “When the one making a judgment strives his utmost and arrives at the correct result, he has two rewards; but if he judges, striving his utmost and passes the wrong judgment, he has one reward.”[^b15] This _ḥadīth_ refutes the above argument and explains lucidly and without any obscurity that if someone says, “So-and-so was wrong,” its meaning under the Sharīʿah is “So-and-so has one reward.” So if he is rewarded in the eyes of the one finding fault, how can you accuse the latter of insulting him?! There is doubt that this type of accusation is baseless and anyone who makes it must retract it: otherwise it is he who is insulting Muslims, not just ordinary individuals among them, but their great Imams among the Companions, Successors, the subsequent _Mujtahid_ Imams, and others. This is because we know for sure that these illustrious personalities used to fault and refute each other;[^b16] is it reasonable to say, “They used to insult each other”? No! In fact, it is authentically reported that the Messenger of Allāh \pbuh himself faulted Abū Bakr in his interpretation of a man's dream, saying to him, “You were right in some of it and wrong in some of it”[^b17]---so did he \pbuh insult Abū Bakr by these words?!
 
 One of the astonishing effects this misconception has on its holders is that it prevents them from following the Sunnah when it is different to their _madhhab_, since to them practicing it means insulting the Imam, whereas following him, even when contrary to the Sunnah, means respecting and loving him! Hence they insist on following his opinion to escape from this supposed disrespect.
 
@@ -138,15 +138,15 @@ These people have forgotten---I am not saying, _pretended to forget_---that beca
 
 Our answer to this is from many angles, which have already been discussed at length in this _Introduction_. This is why I shall briefly limit myself to one approach, a decisive reply by the permission of Allāh. I say:
 
-The Imam of your _Madhhab_ is not the only one who was more learned about the Sunnah than you: in fact, there are dozens, nay, hundreds, of Imams who too were more knowledgeable about the Sunnah than you. Therefore, if an authentic _sunnah_ happens to differ from your _madhhab_, and it was taken by one of these other Imams, it is definitely essential that you accept this _sunnah_ in this circumstance. This is because your aforementioned argument is of no use here, for the one opposing you will reply, “We have accepted this Sunnah trusting in our Imam, who accepted it”---in this instance, to follow the latter Imam is preferable to following the Imam who has differed from the Sunnah.
+The Imam of your _Madhhab_ is not the only one who was more learned about the Sunnah than you: there are dozens, nay, hundreds, of Imams who too were more knowledgeable about the Sunnah than you. Therefore, if an authentic _sunnah_ happens to differ from your _madhhab_, and it was taken by one of these other Imams, it is definitely essential that you accept this _sunnah_ in this circumstance. This is because your aforementioned argument is of no use here, for the one opposing you will reply, “We have accepted this _sunnah_ trusting in our Imam, who accepted it”---in this instance, to follow the latter Imam is preferable to following the Imam who has differed from the Sunnah.
 
-This is clear and not confusing to anyone, Allāh Willing.
+This is clear and not confusing to anyone, in-shā-Allāh.
 
 Because of all of the above, I am able to say:
 
 Since this book of ours has collected the authentic _sunan_ reported from the Messenger of Allāh \pbuh about the description of his prayer, there is no excuse for anyone to not act on it, for there is nothing in it which the scholars have unanimously rejected, as they would never do. In fact, in every instance several of them have adopted the authentic _sunnah_; anyone of them who did not do so is excused and rewarded once, because the text was not conveyed to him at all, or it was conveyed but in such a way that to him it did not constitute proof, or due to other reasons which are well-known among the scholars. However, those after him in front of whom the text is firmly established have no excuse for following his opinion; rather, it is obligatory to follow the infallible text.
 
-This message has been the purpose of this _Introduction_. Allāh, Mighty and Sublime, says,
+This message has been the purpose of this _Introduction_. Allāh, Almighty and Sublime, says,
 
 \begin{aquote}{\quran: \anfaal{} 24}
 \begin{center}
@@ -156,8 +156,8 @@ This message has been the purpose of this _Introduction_. Allāh, Mighty and Sub
 O you who believe! Give your response to Allāh and His Messenger when he calls you to that which will give you life, and know that Allāh comes in between a man and his heart, and it is He to whom you shall all be gathered.
 \end{aquote}
 
-Allāh says the Truth; He shows the Way; and He is the Best to Protect and the Best to Help. May Allāh send prayers and peace on Muḥammad, and on his family and his Companions. Praise be to Allāh, Lord of the Worlds.
+Allāh says the Truth; He shows the Way; and He is the Best to Protect and the Best to Help. May Allāh send prayers and peace on Muḥammad, and on his family and his Companions. Praise be to Allāh, Lord of the Worlds.\\[16pt]
 
-Muḥammad Nāṣir al-Dīn al-Albānī  
+\noindent Muḥammad Nāṣir al-Dīn al-Albānī  
 Damascus 28/10/1389 [ah]{style="font-variant:small-caps;"}
 

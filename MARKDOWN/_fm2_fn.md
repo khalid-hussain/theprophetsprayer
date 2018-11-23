@@ -6,19 +6,19 @@
 
 <!-- [^b3]: Sūrah Hūd, 11:118--9. -->
 
-[^b4]: _Al-Iḥkām fī Uṣūl al-Aḥkām_ by Ibn Ḥazm, _Hujjat Allāh al-Bālighah_ by al-Dehlawī, and the latter's essay dealing specifically with this issue, _ʿIqd al-Jīd fī Aḥkām al-Ijtihād wa al-Taqlīd_.
+[^b4]: _Al-Iḥkām fī Uṣūl al-Aḥkām_ by Ibn Ḥazm, _Ḥujjat Allāh al-Bālighah_ by al-Dehlawī, and the latter's essay dealing specifically with this issue, _ʿIqd al-Jīd fī Aḥkām al-Ijtihād wa al-Taqlīd_.
 
 [^b5]: See _Fayḍ al-Qadīr_ by al-Manāwī (1/209) or _Silsilah al-Aḥādīth al-Ḍaʿīfah_ (1/76, #77).
 
-[^b6]: Ibn ʿAbd al-Barr in _Jāmiʿ Bayān al-ʿIlm_ (2/81--2).
+[^b6]: Ibn ʿAbd al-Barr in _Jāmiʿ Bayān al-ʿIlm_ (2/81--82).
 
-[^b7]: Ibid (2/82, 88--9).
+[^b7]: Ibid (2/82, 88--89).
 
-[^b8]: Ibid (2/83--4).
+[^b8]: Ibid (2/83--84).
 
 [^b9]: Ibid (2/89).
 
-[^b10]: _Al-Intiqā_ by Ibn ʿAbd al-Barr (41), _Tadhkirah al-Ḥuffāẓ_ by al-Dhahabī (1/195),and _Kashf al-Mughaṭṭa fī Faḍl al-Mu\-waṭṭā_ (pp.\ 6--7) by Ibn ʿAsākir.
+[^b10]: _Al-Intiqā_ by Ibn ʿAbd al-Barr (41), _Tadhkirah al-Ḥuffāẓ_ by al-Dhahabī (1/195), and _Kashf al-Mughaṭṭa fī Faḍl al-Muwaṭṭā_ (pp.\ 6--7) by Ibn ʿAsākir.
 
 [^b11]: _Jāmiʿ Bayān al-ʿIlm_ (2/88).
 
