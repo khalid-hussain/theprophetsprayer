@@ -14,12 +14,12 @@ I've highlight things which I would like to get back to as TODO comments in the 
 
 ## Main matter
 - ~~Ayahs quoted as block use a different reference compared to inline quotations. Is this a problem?~~
-- Add proper dua symbols for Prophets, Scholars and Companions.
-  - Prophets (ʿalayh al-Salām)
-  - Male
-  - Female
-  - Two people
-  - Them
+- ~~Add proper dua symbols for Prophets, Scholars and Companions.~~
+  - ~~Prophets (ʿalayh al-Salām)~~
+  - ~~Male~~
+  - ~~Female~~
+  - ~~Two people~~
+  - ~~Them~~
 - Come up with a consistent title case
 - Remove hamza transliteration if it comes at the end of a word. Example: _Irwāʾ al-Ghalīl_ --> _Irwā al-Ghalīl_.
 - Unify all references to Quranic chapters and verses. Clean the reference style used to mention the number of verses.
