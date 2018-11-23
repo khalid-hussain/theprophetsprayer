@@ -10,6 +10,12 @@ Font: Check Ḍ in Adobe Garamond
 
 Check capitalization after semi-colons everywhere
 Consider putting pbuh logo in each instance of mention
+[Sūrahs of the Quran] seems like a title, avoid italics
+
+Do Arabic translations in the footnotes need to be:
+Arabic [Arabic word in italics]: [Definition of said word]
+
+[Arabic text usually has an indent]
 
 ## Margin errors
 
@@ -997,4 +1003,116 @@ Abū Dāwūd, and al-Ḥākim who declared it ṣaḥīḥ
 
 K: remove comma
 
-(Stopped at PDF page 151)
+Arabic taḥiyyāt: i.e. “all words which imply peace, sovereignty and eternity, are due to Allāh.”
+
+K: comma
+
+i.e. in His safeguarding, help and favor.
+
+K: comma
+
+Companions used to say, “Peace be on you, O Prophet”
+
+K:comma
+
+then he (ʿAbd Allāh bin Masʿūd 􀁉) said it (the tashahhud);
+
+K: kerning d )
+
+al-Zarqānī, al-Lucknāwī, etc
+
+K: spelling al-Lucknāwī, check the earlier spelling
+
+Abū Dāwūd, and al-Dāraquṭnī who declared it ṣaḥīḥ.
+
+K: remove comma
+
+(Transmitted by al-Ṭabarānī in Muʿjam al-Awsaṭ, #2848, with a ṣaḥīḥ isnād.)
+
+K: remove redundancy
+
+send peace on you (i.e. in tashahhud), but how
+
+K: kerning d )
+
+that of Abū al-ʿĀliyah (with reference to Sūrah al-Aḥzāb, 33:56):
+
+K: consider consistency of italicizing
+
+footsteps of his great teacher Ibn Taymiyyah
+
+K: Taymīyyah
+
+(p. 28, 1st ed.; p. 62 2nd ed.—
+
+K: consistency
+
+(see al-Marwazī’s Masāʾil, p. 23).
+
+K: Check consistency of referencing style
+
+Al-Ḥākim declared it ṣaḥīḥ, and al-Dhahabī and others concurred.
+
+K: remove comma
+
+74. Ibn Khuzaymah (1/119/2) and also Ibn Abī Shaybah etc. as for the
+last ḥadīth.
+
+K: meaning is not clear
+
+idea of bidʿah ḥasanah (“good innovation”),
+
+K: check punctuation
+
+he should begin with the praise of his Lord, Sublime and Mighty, and his exultation, and
+
+K:exultation
+
+[Page 162, check Arabic]
+
+So he said, “Our murmuring is like yours.”
+
+K: PBUH logo
+
+[Dua 9 has some discrepancy between the text and its translation]
+
+[Dua 10 is a disaster]
+
+are not being just, as the faqīh al-Haythamī has explained in Darr al-Mandūd (§§ 13–16).
+
+K: al-Darr al-Manḍūd
+
+This was quoted by Ibn Taymiyyah (Majmūʿ al-Fatāwā 69/218/1),
+
+K: Ibn Taymīyyah
+
+Aḥmad, and al-Ḥākim who declared it ṣaḥīḥ and al-Dhahabī concurred.
+
+K: comma
+
+Al-Nasāʾī, and al-Ḥākim who declared it ṣaḥīḥ and al-Dhahabī concurred.
+
+K: remove comma
+
+Shaykh al-Islām Ibn Taymiyyah has composed an extremely good essay on this subject entitled al-Tawassul wa al-Wasīlah
+
+K: Taymīyyah and check title of book
+
+
+[Chapter on Taslim. Consider adding periods to each Arabic text]
+
+[Chapter on Taslim. Sort out the paragraphs]
+
+They used to gesture with their hands when saluting to
+
+K: Check quotations of this paragraph
+
+and al-Ṭabarānī in Muʿjam al-Kabīr (3/67/2), and
+
+K: remove comma
+
+[pg 175 margin error]
+
+[footnote 6 on page 176 is missing hyperlink]
+
+(Stopped at PDF page 169)
