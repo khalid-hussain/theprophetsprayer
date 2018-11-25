@@ -5,6 +5,11 @@ Quran: al-Najm 28
 Quran: al-A‘rāf 3
 
 # General
+All Quran references
+- Consider ... or .
+- (Quran, SurahNo: AyahNo)
+- (Quran, SurahNo)
+
 al-Muṣannaf
 al-Laknawī
 Kerning of italic d and )
@@ -51,12 +56,6 @@ K: Remove hyphenation
 
 ---
 
-Ibn Abī Ḥātim (pp. 93–4). Abū Dāwūd in Masāʾil al-Imām Aḥmad (pp. 276–277).
-
-K: revisit style manual
-
----
-
 # _fm2_fn.md
 
 Once, when we were with the Messenger of Allāh صلى الله عليه وسلم on an expedition, the sky was cloudy, so we tried to find the qiblah but we differed, so each one of us
@@ -72,8 +71,7 @@ K: Li Allāh
 
 K: inconsistency with the next occurence
 
-“Wonderful for it (the supplication) is that the doors of the heavens were
-opened for it.”
+“Wonderful for it (the supplication) is that the doors of the heavens were opened for it.”
 
 K: Can this be phrased better?
 
@@ -90,10 +88,6 @@ K: Transliteration of Haq
 
 K: Check brackets and comma
 
-Ibn Kathīr (vol. 3, part 2, p. 235/2)
-
-K: Check referencing style
-
 # Chapter Five (Recitation)
 
 Quiet and loud recitation in the five prayers and others
@@ -104,80 +98,19 @@ but said to one who could not remember it to say: (Arabic after)
 
 K: Check spacing and indentation of the Arabic
 
-those who go astray,» then
-
-K: Consider comma outside of brackets
-
-«Say: He is Allāh, the One and Only» (Quran, 112:1) until its end,
-
-K: Check Quran reference
-
-and when he recited, «Glorify the name of your Lord Most High» (Quran,
-87:1), he would say,
-
-K: margin error
-
-Muʿādh ibn Jabal 􀁉 used to pray ʿIshā [the last] with the Messenger of Allāh صلى الله عليه وسلم, and then return and lead his people in prayer. One night when he returned and prayed with them, a young man [called Sulaym 􀁉
-
-K: Consider removing repeated occurrences of [May Allah be pleased with him]
-
-He صلى الله عليه وسلمused to recite al-Rūm(Quran, 30)⁷³ and sometimes Yā  īn (Quran, 36).⁷⁴
-
-K: Consider increasing margin slightly
-
-Sometimes he صلى الله عليه وسلم would recite «By the Sky and the Night-Visitant.» (Quran, 86), «By the Sky, (displaying) the Constellations.» (Quran, 85), «By the Night as it conceals.» (Quran, 92) and similar sūrahs
-
-K: if the style is changed for the others (aka Quran reference), change it here too.
-
-Occasionally, he صلى الله عليه وسلمrecited «When the Sky is rent asunder» (Quran, 84) and similar ones
-
-K: Quran reference style.
-
-Sometimes he صلى الله عليه وسلمwould recite «By the Sky and the Night-Visitant» (Quran, 86), «By the Sky, (displaying) the Constellations» (Quran, 85), and similar sūrahs.⁹⁸
-
-K: Quran reference style and margin width problem.
-
-Or he صلى الله عليه وسلم would recite «When the Sky is rent asunder…» (Quran, 84) and make sajdah during it.¹¹⁷ Also, he صلى الله عليه وسلم once recited «By the Fig and the Olive» (Quran, 95) [in the first rakʿah] while on a journey.
-
-K: Quran reference punctuation.
-
-When you lead the people, recite «By the Sun and its splendor» (Quran, 91) or «Glorify the Name of your Lord Most High» (Quran, 77) or «Read in the Name of your Lord» (Quran, 96) or
-
-K: Quran referencing style
-
 O Messenger of Allāh, I have a neighbor who stands (in prayer) at night and does not recite anything except
 
 K: This paragraph seems weird. “as if he considers it little”
 
-Abū Dāwūd and al-Sahmī (64-65);
-
-K: What is this? Page numbers? 
-
-It is given in Irwā al-Ghalīl (#332, #394).
-
-K: Consider "(#332 and #394)"
-
-Silsilah al-Aḥādīth al-Ḍaʿīfah (vol. 2, #952)
-
-K: Double check volume reference
-
 The first number is that of the sūrah, while the second is the number of āyāt in the sūrah.
 
 K: This doesn't make sense now. Please change.
-
-Aṣamm in his Ḥadīthah (vol. 2, #117),
-
-K: Check volume referencing
 
 [Check the footnote 167 on page 78]
 
 Ibn Ḥajar said in his commentary on “āa”, “
 
 K: Comma inside quotes
-
-O assembly of Muslims! Verily, the prayer
-
-K: Assembly?
 
 have bowed; in You I have believed
 
@@ -222,10 +155,6 @@ K: check prose
 e.g. in the words of the Exalted, «Allāh has chosen Ādam, Nūḥ, the family of Ibrāhīm and the family of ʿImrān above all people.» (Quran, 3:33).
 
 K: Check Quran quotation reference styling
-
-Abū Humayd al-Sāʿīdī,
-
-K: Is this correct?
 
 modesty, just as he did not say صلى الله عليه وسلم on mention of his name, although his Ummah has been encouraged to do so”
 
@@ -292,3 +221,9 @@ K: Check quotations of this paragraph
 [footnote 6 on page 176 is missing hyperlink]
 
 (Stopped right before appendices)
+
+# QURAN RELATED
+
+When you lead the people, recite «By the Sun and its splendor» (Quran, 91) or «Glorify the Name of your Lord Most High» (Quran, 77) or «Read in the Name of your Lord» (Quran, 96) or
+
+K: Quran referencing style

@@ -876,3 +876,76 @@ KK: Just removed the comma. It sounds fine.
 The Last Tashahhud
 
 K: Can this be moved to the next page?
+
+Ibn Abī Ḥātim (pp. 93–4). Abū Dāwūd in Masāʾil al-Imām Aḥmad (pp. 276–277).
+
+K: revisit style manual
+KK: Full span page numbers are best.
+
+Ibn Kathīr (vol. 3, part 2, p. 235/2)
+
+K: Check referencing style
+KK: Ibn Kathīr (vol. 3, pt. 2, p. 235/2)
+
+and when he recited, «Glorify the name of your Lord Most High» (Quran, 87:1), he would say,
+
+K: margin error
+
+«Say: He is Allāh, the One and Only» (Quran, 112:1) until its end,
+
+K: Check Quran reference
+
+He صلى الله عليه وسلمused to recite al-Rūm(Quran, 30)⁷³ and sometimes Yā  īn (Quran, 36).⁷⁴
+
+K: Consider increasing margin slightly
+
+Sometimes he صلى الله عليه وسلم would recite «By the Sky and the Night-Visitant.» (Quran, 86), «By the Sky, (displaying) the Constellations.» (Quran, 85), «By the Night as it conceals.» (Quran, 92) and similar sūrahs
+
+K: if the style is changed for the others (aka Quran reference), change it here too.
+
+Sometimes he صلى الله عليه وسلمwould recite «By the Sky and the Night-Visitant» (Quran, 86), «By the Sky, (displaying) the Constellations» (Quran, 85), and similar sūrahs.⁹⁸
+
+K: Quran reference style and margin width problem.
+
+Occasionally, he صلى الله عليه وسلمrecited «When the Sky is rent asunder» (Quran, 84) and similar ones
+
+K: Quran reference style.
+
+Muʿādh ibn Jabal 􀁉 used to pray ʿIshā [the last] with the Messenger of Allāh صلى الله عليه وسلم, and then return and lead his people in prayer. One night when he returned and prayed with them, a young man [called Sulaym 􀁉
+
+K: Consider removing repeated occurrences of [May Allah be pleased with him]
+
+those who go astray,» then
+
+K: Consider comma outside of brackets
+
+Or he صلى الله عليه وسلم would recite «When the Sky is rent asunder…» (Quran, 84) and make sajdah during it.¹¹⁷ Also, he صلى الله عليه وسلم once recited «By the Fig and the Olive» (Quran, 95) [in the first rakʿah] while on a journey.
+
+K: Quran reference punctuation.
+
+Abū Dāwūd and al-Sahmī (64-65);
+
+K: What is this? Page numbers?
+KK: The Arabic version doesn't mention it either.
+
+It is given in Irwā al-Ghalīl (#332, #394).
+
+K: Consider "(#332 and #394)"
+KK: No need for notes.
+
+Silsilah al-Aḥādīth al-Ḍaʿīfah (vol. 2, #952)
+
+K: Double check volume reference
+KK: Looks okay to me.
+
+Aṣamm in his Ḥadīthah (vol. 2, #117),
+
+K: Check volume referencing
+
+O assembly of Muslims! Verily, the prayer
+
+K: Assembly?
+
+Abū Humayd al-Sāʿīdī,
+
+K: Is this correct?
