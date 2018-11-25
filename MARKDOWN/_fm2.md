@@ -158,8 +158,9 @@ O you who believe! Give your response to Allāh and His Messenger when he calls 
 
 Allāh says the Truth; He shows the Way; and He is the Best to Protect and the Best to Help. May Allāh send prayers and peace on Muḥammad, and on his family and his Companions. Praise be to Allāh, Lord of the Worlds.
 
-\\[16pt]
+\ 
 
 \noindent Muḥammad Nāṣir al-Dīn al-Albānī  
-Damascus, 28 Shawwāl 1389 Hijrī
+Damascus, Syria  
+28 Shawwāl 1389
 

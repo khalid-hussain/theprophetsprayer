@@ -89,7 +89,7 @@ He \pbuh would say any one of the following remembrances of Allāh and supplicat
 
     [اللّٰهُمَّ][إِنِّي] أَعُوذُ بِرِضَاكَ مِنْ سَخَطِكَ، وَ[أَعُوذُ] بِمُعَافَاتِكَ مِنْ عُقُوبَتِكَ، وَأَعُوذُ بِكَ مِنْكَ لا أُحْصِي ثَنَاءً عَلَيْكَ أَنْتَ كَمَا أَثْنَيْتَ عَلَى نَفْسِكَ.
     \end{Arabicitem}  
-    “[O Allāh!][Indeed] I seek refuge with Your Pleasure from Your Anger; [I seek refuge] with Your Pardons from Your Punishment; I seek refuge with You from You. I cannot count all exultations upon You; You are as You have extolled Yourself.”[^e126]
+    “[O Allāh!][Indeed] I seek refuge with Your Pleasure from Your Anger; [I seek refuge] with Your Pardons from Your Punishment; I seek refuge with You from You. I cannot count all exaltations upon You; You are as You have extolled Yourself.”[^e126]
 
 ## Forbiddance of reciting the Quran in _sujūd_
 

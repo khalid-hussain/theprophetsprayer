@@ -12,7 +12,7 @@ He set the example of sending prayers on him \pbuh in this _tashahhud_, as in th
 
 ## The obligation of sending prayers on the Prophet \pbuh in this _tashahhud_
 
-Once, he \pbuh heard a man supplicating in his prayer without glorifying the majesty of Allāh Exalted, nor sending prayers on the Prophet \pbuh, so he said: “This man has been hasty.” He \pbuh then called him and said to him and others, “When one of you prays, he should begin with the praise of his Lord, Sublime and Mighty, and his exultation, and then send prayers (in one narration: he should send prayers) on the Prophet, and then supplicate as he wishes.”[^h255]
+Once, he \pbuh heard a man supplicating in his prayer without glorifying the majesty of Allāh Exalted, nor sending prayers on the Prophet \pbuh, so he said: “This man has been hasty.” He \pbuh then called him and said to him and others, “When one of you prays, he should begin with the praise of his Lord, Sublime and Mighty, and his exaltation, and then send prayers (in one narration: he should send prayers) on the Prophet, and then supplicate as he wishes.”[^h255]
 
 Also, he \pbuh heard a man glorifying and praising Allāh, and sending prayers on the Prophet \pbuh in prayer, so the Messenger of Allāh \pbuh said to him: “Supplicate, and you will be answered; ask, and you will be given.”[^h256]
 
