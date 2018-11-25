@@ -156,8 +156,10 @@ This message has been the purpose of this _Introduction_. Allāh, Almighty and S
 O you who believe! Give your response to Allāh and His Messenger when he calls you to that which will give you life, and know that Allāh comes in between a man and his heart, and it is He to whom you shall all be gathered.
 \end{aquote}
 
-Allāh says the Truth; He shows the Way; and He is the Best to Protect and the Best to Help. May Allāh send prayers and peace on Muḥammad, and on his family and his Companions. Praise be to Allāh, Lord of the Worlds.\\[16pt]
+Allāh says the Truth; He shows the Way; and He is the Best to Protect and the Best to Help. May Allāh send prayers and peace on Muḥammad, and on his family and his Companions. Praise be to Allāh, Lord of the Worlds.
+
+\\[16pt]
 
 \noindent Muḥammad Nāṣir al-Dīn al-Albānī  
-Damascus 28/10/1389 [ah]{style="font-variant:small-caps;"}
+Damascus, 28 Shawwāl 1389 Hijrī
 

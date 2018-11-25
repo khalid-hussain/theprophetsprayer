@@ -40,7 +40,7 @@
 
 [^a13]: ʿAbd al-Ḥay al-Laknawī says in _Imām al-Kalām fīmā yataʿallaq bi al-Qirāʾah Khalf al-Imām_ (p.\ 156), as follows: “Whoever dives into the oceans of _fiqh_ and the fundamentals of jurisprudence with an open mind, and does not allow himself to be prejudiced, will know with certainty that in most of the principal and subsidiary issues in which the scholars have differed, the _madhhab_ of the _Muḥaddithīn_ is firmer than other _madhāhib_. Every time I go into the branches of difference of opinion, I find the view of the _Muḥaddithīn_ nearest to justice---their reward is with Allāh, and He will thank them. How could it be otherwise, when they are the true inheritors of the Prophet \pbuh, and the sincere agents of his Law; may Allāh include us in their company and make us die loving them.”
 
-[^a14]: Al-Subkī says in _al-Fatāwā_ (1/148): “The most important affair of the Muslims is the prayer, which every Muslim must care about and ensure its performance and the establishment of its essentials. Related to prayer are issues on which there is consensus and there is no escaping the truth, and other issues in which the scholars have differed. The correct approach is either to keep clear of dispute if possible or to look for what is authentically proven from the Prophet \pbuh and adhere to that. When one does this, his prayer will be correct and righteous, and included in the words of the Exalted, «So whoever expects to meet his Lord, let him work correct, righteous deeds.»” (Quran, 18:110)
+[^a14]: Al-Subkī says in _al-Fatāwā_ (1/148): “The most important affair of the Muslims is the prayer, which every Muslim must care about and ensure its performance and the establishment of its essentials. Related to prayer are issues on which there is consensus and there is no escaping the truth, and other issues in which the scholars have differed. The correct approach is either to keep clear of dispute if possible or to look for what is authentically proven from the Prophet \pbuh and adhere to that. When one does this, his prayer will be correct and righteous, and included in the words of the Exalted, «So whoever hopes to meet his Lord, let him work correct, righteous deeds.»” (Quran, 18:110)
 
     I say: The latter approach is superior, nay, obligatory; this is because the former approach, as well as being impossible for many issues, does not fulfill his command \pbuh, “Pray as you have seen me praying,” but instead leads to one's prayer being decidedly different to that of the Prophet \pbuh.
 
@@ -116,7 +116,7 @@
 
 [^a41]: Ibn Abī Ḥātim, Abū Nuʿaym, and Ibn ʿAsākir (15/9/2).
 
-[^a42]: Ibn Abī Ḥātim (pp.\ 93--4).
+[^a42]: Ibn Abī Ḥātim (pp.\ 93--94).
 
 [^a43]: Ibn al-Jawzī in _al-Manāqib_ (p.\ 192).
 
@@ -142,7 +142,7 @@
 
 [^a54]: Al-Fullānī (p.\ 99).
 
-[^a55]: Sūrah al-Wāqiʿah, 56:13--14.
+[^a55]: Sūrah al-Wāqiʿah, (Quran, 56:13--14).
 
 [^a56]: Ibn ʿĀbidīn in _al-Ḥāshiyah_ (1/62), and al-Laknawī gave its source in _al-Nāfiʿ al-Kabīr_ (p.\ 93) as al-Ghazzālī.
 

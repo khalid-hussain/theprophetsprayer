@@ -38,7 +38,7 @@ When you call upon Allāh, then supplicate with the palms of your hands, and do 
 
 _Ḍaʿīf_ ([Weak]{style="font-variant:small-caps;"}). Related by Ibn Mājah (1181, 3866), Ibn Naṣr in _Qiyām al-Layl_ (p.\ 137), al-Tabarānī in _al-Muʿjam al-Kabīr_ (3/98/1) and al-Ḥākim (1/536), from Ṣāliḥ ibn Ḥassān from Muḥammad ibn Kaʿb from Ibn ʿAbbās (May Allāh be pleased with him) as _marfūʿ_.
 
-This is a weak _sanad_ due to Ibn Ḥassān, who is _munkar_ in _ḥadīth_, as al-Bukhārī said; al-Nasāʾī said, “He is abandoned in _ḥadīth_;” Ibn Ḥibbān said, “He used to have female singers and listen to music, and he used to narrate fabricated reports on the authority of trustworthy narrators;” Ibn Abī Hātim said in _Kitāb al-ʿIlal_ (2/351), “I asked my father (i.e. Abū Hātim al-Rāzī) about this _ḥadīth_, to which he said: ‘_Munkar_.’”
+This is a weak _sanad_ due to Ibn Ḥassān, who is _munkar_ in _ḥadīth_, as al-Bukhārī said; al-Nasāʾī said, “He is abandoned in _ḥadīth_;” Ibn Ḥibbān said, “He used to have female singers and listen to music, and he used to narrate fabricated reports on the authority of trustworthy narrators;” Ibn Abī Ḥātim said in _Kitāb al-ʿIlal_ (2/351), “I asked my father (i.e. Abū Hātim al-Rāzī) about this _ḥadīth_, to which he said: ‘_Munkar_.’”
 
 Ibn Ḥassān has been backed up by ʿĪsā ibn Maymūn, who also reported it from Muḥammad ibn Kaʿb, as related by Ibn Naṣr. However, this does not alter anything, since Ibn Maymūn is similarly weak: Ibn Ḥibbān said, “He reports _aḥādīth_, all of which are fabricated;” al-Nasāʾī said, “Not reliable.”
 

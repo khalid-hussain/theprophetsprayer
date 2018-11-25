@@ -191,11 +191,43 @@ Tadhkirah al-Ḥuffāẓ by al-Dhahabī
 
 K: space between comma and remove hyphen
 
+# _fm1_fn.md
 
+«So whoever expects to meet his Lord, let him do righteous deeds.
 
+So whoever would hope for the meeting with his Lord - let him do righteous work and not associate in the worship of his Lord anyone.
 
+K: Check translation and comma
+KK: Merged Sahih International's translation.
+KKK: Unmerged it, since the original makes more sense in the context.
 
+# 03_fn.md
 
+Mustaḥabbāt al-Ṣalāh in his book al-Iʿlām (p. 15, 3rd edition, Rabat):
+
+K: 3rd looks weird
+
+# _fm2.md
+
+And do not be among those who join deities with Allāh, those who split up their religion and become sects—each party rejoicing with what it has!
+
+K: Check translation
+KK: This seems fine.
+
+I now say: Muḥammad al-Ghazzālī’s recent writings such as his newly-released book
+
+K: consider removing hyphen
+
+His latest above-mentioned book
+
+K: consider rephrasing
+KK: aforementioned
+
+# 02_fn.md
+
+every kind of builder and diver, and also others bound together in fetters.» (Quran, 38:35–38)
+
+K: Check Quran referencing style
 
 # Chapter One (Facing the Kaʿbah)
 
@@ -295,7 +327,17 @@ K: Allāh
 [Dua 10]
 K: Should be Jabrāʾīl
 
+[Get ALL the Opening Supplications in Arabic checked]---I've given this to Muaz
+
 # Chapter Five (Recitation)
+
+Sometimes he صلى الله عليه وسلمwould recite the shortermufaṣṣal sūrahs, such as «When the sun is folded up.» (Quran, 81).
+
+K: Check Quran referencing style
+
+“Which of you recited «Glorify the name of your Lord the Most High» (Quran, 87:1)?”
+
+K: Check Quran reference. Use consistent style.
 
 [and the Grand Recitation which have been bestowed upon me].”
 
@@ -308,3 +350,529 @@ K: kerning towards the end of the segment.
 Sometimes he would combine sūrahs from the seven ṭiwāl (long sūrahs), such as al-Baqarah, al-Nisā and Āl ʿImrān in one rakʿah
 
 K: comma
+
+The Prophet صلى الله عليه وسلم said, “O Abū Bakr, raise your voice a little bit.” and to ʿUmar 􀁉, “lower your voice a little bit.”
+
+K: Revise the punctuation of this narration
+
+Occasionally, he صلى الله عليه وسلمrecited «When the Sky is rent asunder» (Quran, 84) and similar ones
+
+K: Period inside guillets?
+
+They would hear the tones of his صلى الله عليه وسلم recitation of «Glorify the name of your Lord Most High» (Quran, 87) and «Has the story reached you of the Overwhelming?» (Quran, 88).”⁹⁷
+
+K: Punctuation if the others change.
+
+He used to recite the sūrahs mentioned under Ẓuhr prayer above.
+
+K: hyperlink Zuhr prayer
+
+He صلى الله عليه وسلم would recite the medium mufaṣṣal surahs in the first two rakʿahs
+
+K: sūrahs
+
+Or he صلى الله عليه وسلم would recite «When the Sky is rent asunder…» (Quran, 84) and make sajdah during it.¹¹⁷ Also, he صلى الله عليه وسلم once recited «By the Fig and the Olive» (Quran, 95) [in the first rakʿah] while on a journey.
+
+K: Period at end of ayah.
+
+“Do you want to be on who causes a lot of trouble, Muʿādh?!
+
+K: one
+
+He صلى الله عليه وسلمwould sometimes recite loudly in it and sometimes quietly
+
+K: Period instead of comma
+
+or he would recite about as much as al-Muzzammil (Quran, 73).“
+
+K: remove quotation
+
+and “Truly, the one who has one of the finest voices among the people for reciting the Quran is the one whom you think fears Allāh when you hear him recite.”
+
+K: comma (and,)
+
+“Had you seen me while I was listening to your recitation yesterday! You have surely been given one of the musical wind instruments¹⁷⁴ of the family of Dāwūd!
+
+K: punctuation
+
+Abū Dāwūd and al-Sahmī (64-65);
+Also use en dash.
+
+Muslim, Abū ʿAwānah and Mālik, and al-Sahmī has a supporting ḥadīth of Jābir in Tārīkh Jurjān (144).
+
+K: Can this be rephrased without losing meaning?
+
+Arabic hadhdhan: reciting quickly, implying racing or hurrying.
+
+K: style contradicts labbayk and ṣaʿdayk. Ensure consistency
+KK: Style to go with: [Language] [word]
+
+Mālik and al-Bukhārī in Afʿāl al-ʿIbād with
+(Another version occurs on page 68 with correct kerning, take the value and apply here)
+
+K: kerning
+
+“He who recites behind the Imam, his mouth is filled with fire,” it is fabricated (mawḍūʿ )
+
+K: put Arabic outside and english inside brackets
+
+Al-Bukhārī in Juzʾ al-Qirāʿah
+
+K: Remove hamzah transliteration
+
+among those who have declared it ḍaʿīf are Ibn al-Jawzī, al-Mundhirī, al-Haytamī, Ibn Ḥajar al-ʿAsqalānī and al-Būṣayrī.
+
+K: comma between last two items
+
+Arabic dandanah: when someone speaks some words
+
+K: Check consistency with labbayk
+
+Hārith ibn Abī Usāmah
+
+K: Check consistency of Muḍāf ilayhi
+
+Aḥmad, Ibn Khuzaymah (1/69/1) and al-Ḥākim
+
+K: comma
+
+Muslim, and al-Bukhārī in taʿlīq form.
+
+K: comma
+
+Al-Ṭaḥāwī, Ibn Ḥibbān in his ṣaḥīḥ and Ibn Bushrān;
+
+K: comma
+
+Muslim, and al-Bukhārī in Juzʾ al-Qirāʾah (Article on Recitation).
+
+K: remove comma; consider re-arranging
+
+Al-Bukhārī in Juzʾ al-Qirāʿah and
+
+K: remove hamzah transliteration
+
+Aḥmad, and al-Tirmidhī who declared it ḥasan.
+
+K: remove comma
+
+Abū Dāwūd, and al-Nasāʾī with a ṣaḥīḥ isnād.
+
+K: remove comma
+
+Al-Nasāʾī, and al-Tirmidhī who declared it ṣaḥīḥ.
+
+K: remove comma
+
+Al-Dārimī, and al-Tirmidhī who declared it ṣaḥīḥ.
+
+K: remove comma
+
+Arabic shīrrah: excitement, enthusiasm
+
+K: check consistency with labbayk
+
+Aḥmad, and Ibn Ḥibbān in his Ṣaḥīḥ.
+
+K: remove comma
+
+Al-Dārimī, and al-Ḥākim who declared it ṣaḥīḥ and al-Dhahabī concurred.
+
+K: remove comma
+
+Al-Nasāʾī, and al-Ḥākim who declared it ṣaḥīḥ.
+
+K: remove comma
+
+The latter ḥadīth is given in Silsilah al-Aḥādīth al-Ṣaḥīḥah (1993)—see Appendix G.
+
+K: Consider removing the em space.
+
+Abū Dāwūd, and al-Tirmidhī who declared it ṣaḥīḥ.
+
+K: remove comma
+
+Arabic al-Tarjīʿ : explained as a vibrating tone by Ibn Ḥajar; Al-Manāwī said: “It arises from a feeling of joy and
+
+K: Check consistency with labbayk
+
+al-Mukhtārah and Abū Nuʿaym in Akhbār Iṣbahān.
+
+K: comma
+
+had recited three of the Long Sūrahs: al-Baqarah, al-Nisā and Āl ʿImrān.
+
+K: comma
+
+often in his rukūʿ and sujūd, implementing (the order of) the Quran.
+
+K: kerning of of)
+
+Power, Kingdom, Magnificence and
+
+K: comma
+
+Abū Dāwūd, and al-Ḥākim
+
+K: remove comma
+
+It is the madhhab of the three Imams, Mālik, al-Shāfiʿī and Aḥmad,
+
+K: comma
+
+Yūsuf Abū ʿAsamah al-Balkhi (d. 210),
+
+K: consider adding AH
+
+Ibn Khuzaymah, and Al-Tirmidhī who declared it ṣaḥīḥ.
+
+K: Remove comma
+
+Abū Dāwūd and al-Bukhārī in Juzʾ al-Qirāʾah
+
+K: remove hamzah transliteration
+
+Al-Ṭayālisī, Aḥmad and Ibn Abī Shaybah;
+
+K: comma
+
+Ibn Abī Shaybah (1/89/2), al-Ṭabarānī and al-Ḥākim,
+
+K: comma
+
+make his standing, rukūʿ and sujūd equal in
+
+K: comma
+
+al-Dāraquṭnī, Aḥmad, al-Ṭabarānī and al-Bayhaqī.
+
+K: comma
+
+Abū Dāwūd, and al-Ḥākim who declared it
+
+K: remove comma
+
+coccyx” according to Qāmūs; see also Fatḥ al-Bārī (2/308).
+
+K: Capitalization after semi-colon
+KK: Put a period and capitalized it.
+
+Muslim, Abū ʿAwānah, Aḥmad and Abū Dāwūd.
+
+K: comma
+
+who has wealth, sons, might and power in this world
+
+K: comma
+
+Shaykh al-Islām Ibn Taymiyyah has written.
+
+K: Taymīyyah?
+
+Does the respected Shaykh think that the
+
+K: Remove italics from Shaykh
+
+his face, his palms, his knees and his feet.”
+
+K: comma
+
+“When you perform sajdah, place your palms (on the ground) and raise your elbows
+
+K: take footnote marker out
+
+He also used to say, “Do not spread your arms [the way a beast of prey does], rest on your palms and keep your upper arms apart, for
+
+K: Pbuh
+
+as long as his standing, in which he had recited three of the Long Sūrahs: al-Baqarah, al-Nisā and Āl ʿImrān.
+
+K: comma
+
+[Dua 8]
+“How Perfect is He Who has all Power, Kingdom, Magnificence and Supremacy,”
+
+K: comma
+
+He said, “Neither of those was the case: actually, my son made me his mount, so
+
+K: these?
+
+The whole earth has been made a place of worship
+(masjid)
+
+K: kerning d and )
+KK: Put arabic out and english in brackets
+
+Abū Dāwūd, and al-Ḥākim who declared it ṣaḥīḥ and al-Dhahabī concurred.
+
+K: remove comma
+
+Al-Nasāʾī, al-Dāraquṭnī and al-Mukhliṣ in al-Fawāʾid
+
+K: comma
+
+Qāsim bin Muḥammad, ʿAbd Allāh bin Dīnār and ʿAtāʾ
+
+K: comma
+
+Ibn Khuzaymah (1/76/1), al-Dāraquṭnī and al-Ḥākim,
+
+K: comma
+
+This way has been endorsed by Mālik, and similar
+
+K: remove comma
+
+ʿAbd al-Ḥaq declared
+
+K: consider Haqq
+
+Ibn Khuzaymah (1/79/2), Aḥmad and al-Sirāj;
+
+K: comma
+
+Abū Dāwūd and al-Ḥākim, who declared it
+
+K: remove comma
+
+
+Ibn Khuzaymah, al-Bayhaqī, and al-Ḥākim, who declared it ṣaḥīḥ
+
+K: (delete) comma
+
+Abū Dāwūd, and al-Tirmidhī who declared it ṣaḥīḥ,
+Abū Dāwūd, and al-Tirmidhī who declared
+
+K: remove comma
+
+and al-Ḥākim, who declared it
+
+K: remove comma
+
+Muslim, Abū ʿAwānah and Ibn Ḥibbān.
+
+K: comma
+
+Abū Dāwūd, and al-Tirmidhī
+
+K: remove comma
+
+Aḥmad, and al-Tirmidhī who declared it ṣaḥīḥ.
+
+K: remove comma
+
+al-Mukhtārah and al-Ḥākim, who declared it ṣaḥīḥ and al-Dhahabī
+
+K: remove comma
+
+and al-Ḥākim, who declared it ṣaḥīḥ but al-Dhahabī disagreed,
+
+K: remove comma
+
+and al-Ḥākim, who declared it ṣaḥīḥ and al-Dhahabī concurred.
+
+K: remove comma
+
+In this regard, there are also aḥādīth in al-Bukhārī, Muslim and others.
+
+K: add comma
+
+the shining of the face due to the light of sujūd.
+
+K: italics
+
+the face, hands and feet. The shining marks of ablution on the face, hands and legs of humans is compared to the whiteness of a horse’s face and legs
+
+K: commas
+
+Aḥmad, with a ṣaḥīḥ isnād.
+
+K: remove comma
+
+A khumrah is a piece of matting, palm-fiber, or other material which is big enough for a man to place his face on it in sajdah; the term does not apply to larger pieces.
+
+K: Check for consistent style
+
+as in Ibn al-Qayyim’s Badāiʿ al-Fawāʾid
+
+K: check book name
+بدائع الفوائد
+
+Muslim, Abū ʿAwānah, Abū Shaykh in Mā Rawāhu Abū al-Zubayr ʿan Ghayr Jābīr (#104–6), and al-Bayhaqī.
+
+K: title case and number of hadith
+
+us via the ḥadīth of Ibn ʿAbbās in Muslim, Abū Dāwūd, and al-Tirmidhī who declared it ṣaḥīḥ, and others
+
+K: remove one and
+
+Abū Dāwūd, al-Tirmidhī, Ibn Mājah and al-Ḥākim, who declared it ṣaḥīḥ and al-Dhahabī concurred.
+
+K: check comma
+
+Abū Dāwūd, and al-Ḥākim who declared it ṣaḥīḥ
+
+K: comma
+
+This raising of the hands is supported by Aḥmad, Mālik and al-Shāfiʿī
+
+K: comma
+
+Aḥmad, and al-Tirmidhī who declared it ṣaḥīḥ
+
+K: remove comma
+
+See also Irwā al-Ghalīl (2/82–3).
+
+K: number range
+
+Ibn Mājah, Ibn Ḥibbān in his Ṣaḥīḥ and Aḥmad in Ibn Hāni’s Masāʾil (1/52).
+
+K: comma
+
+‘All compliments,²⁶ prayers²⁷ and pure words²⁸ are due to Allāh.
+
+K: comma
+
+‘All compliments, blessed words, prayers, pure words are due to Allāh.
+
+K: and
+
+narration: …is His slave and messenger).”’³²
+
+K: order of quotation marks
+
+“All compliments, prayers and good words are due to Allāh.
+
+K: comma
+
+e.g. in the words of the Exalted, «Allāh has chosen Ādam, Nūḥ, the family of Ibrāhīm and the family of ʿImrān above all people.» (Quran, 3:33).
+
+K: comma
+
+Shaykh al-Islām Ibn Taymiyyah says,
+
+K: Taymīyyah
+
+«Allāh has chosen Ādam, Nūḥ, the family of Ibrāhīm and the family of ʿImrān above all people» (Quran, 3:33);
+
+K: comma
+
+must be used, as is reported from his
+action PBUH, whether in the first or the last tashahhud.
+
+K: position of PBUH logo
+
+blessings on the leader (sayyid) of
+
+K: Arabic outside, english inside
+
+which there is no mention of sayyid!
+
+K: italicise exclamation mark
+KK: Leave this for your next project
+
+ones at different times, as Shaykh al-Islām Ibn Taymiyyah has explained
+
+K: Taymīyyah
+
+The religion of Muḥammad is in narrations,\
+
+K: There is an extra \
+
+proper place, then stand up, supporting himself on the ground; and he would clench his fists:⁶⁰ supporting himself
+
+K: remove colon
+
+Al-Bayhaqī, and al-Ḥākim who declared it ṣaḥīḥ
+
+K: remove comma
+
+Muslim, Abū ʿAwānah and Ibn Khuzaymah.
+
+K: comma
+
+Ibn al-Jārūd in al-Muntaqā (208), Ibn Khuzaymah (1/86/1–2) and Ibn Ḥibbān in his ṣaḥīḥ (485)
+
+K: comma
+
+al-Rūyānī in his Musnad (249/2) and al-Bayhaqī.
+
+K: comma
+
+Abū Dāwūd, and al-Ḥākim who declared it ṣaḥīḥ
+
+K: remove comma
+
+Arabic taḥiyyāt: i.e. “all words which imply peace, sovereignty and eternity, are due to Allāh.”
+
+K: comma
+
+i.e. in His safeguarding, help and favor.
+
+K: comma
+
+Companions used to say, “Peace be on you, O Prophet”
+
+K:comma
+
+al-Zarqānī, al-Lucknāwī, etc
+
+K: spelling al-Lucknāwī, check the earlier spelling
+
+Abū Dāwūd, and al-Dāraquṭnī who declared it ṣaḥīḥ.
+
+K: remove comma
+
+footsteps of his great teacher Ibn Taymiyyah
+
+K: Taymīyyah
+
+Al-Ḥākim declared it ṣaḥīḥ, and al-Dhahabī and others concurred.
+
+K: remove comma
+
+idea of bidʿah ḥasanah (“good innovation”),
+
+K: check punctuation
+
+are not being just, as the faqīh al-Haythamī has explained in Darr al-Mandūd (§§ 13–16).
+
+K: al-Darr al-Manḍūd
+
+
+This was quoted by Ibn Taymiyyah (Majmūʿ al-Fatāwā 69/218/1),
+
+K: Ibn Taymīyyah
+
+Aḥmad, and al-Ḥākim who declared it ṣaḥīḥ and al-Dhahabī concurred.
+
+K: comma
+
+Al-Nasāʾī, and al-Ḥākim who declared it ṣaḥīḥ and al-Dhahabī concurred.
+
+K: remove comma
+
+[Chapter on Taslim. Consider adding periods to each Arabic text]
+
+
+and al-Ṭabarānī in Muʿjam al-Kabīr (3/67/2), and
+
+K: remove comma
+
+Shaykh al-Islām Ibn Taymiyyah has composed an extremely good essay on this subject entitled al-Tawassul wa al-Wasīlah
+
+K: Taymīyyah and check title of book
+
+
+# TOC
+
+The necessity of al-Fātiḥah, and its excellence
+
+K: Can this be rephrased?
+KK: Just removed the comma. It sounds fine.
+
+The Last Tashahhud
+
+K: Can this be moved to the next page?
