@@ -949,3 +949,12 @@ K: Assembly?
 Abū Humayd al-Sāʿīdī,
 
 K: Is this correct?
+
+So he said, “Our murmuring is like yours.”
+
+K: PBUH logo
+
+exultations -- (This is wrong, i.e. the word is wrong)
+
+K: extolments?
+KK: exaltation

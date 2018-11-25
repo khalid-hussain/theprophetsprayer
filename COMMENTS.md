@@ -126,10 +126,6 @@ K: Capitalization after semi-colon
 
 [Duas of Sujud, add periods to all]
 
-exultations
-
-K: extolments?
-
 # 7.5 Forbiddance of reciting the Quran in sujūd
 [Check whole section]
 
@@ -202,10 +198,6 @@ K: exultation
 
 [Page 162, check Arabic]
 
-So he said, “Our murmuring is like yours.”
-
-K: PBUH logo
-
 [Dua 9 has some discrepancy between the text and its translation]
 
 [Dua 10 is a disaster]
@@ -227,3 +219,7 @@ K: Check quotations of this paragraph
 When you lead the people, recite «By the Sun and its splendor» (Quran, 91) or «Glorify the Name of your Lord Most High» (Quran, 77) or «Read in the Name of your Lord» (Quran, 96) or
 
 K: Quran referencing style
+
+ʿIbāḍiyyah
+
+K: ʿIbāḍīyyah
