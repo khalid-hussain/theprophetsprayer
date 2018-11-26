@@ -56,17 +56,6 @@ K: Remove hyphenation
 
 # Chapter Four (Opening Supplications)
 
-[Dua 2]
-K: Li Allāh
-
-“Allāh is the Greatest, Very Great,”
-
-K: inconsistency with the next occurence
-
-[Dua 8]
-
-K: Consider removing commas from the Arabic
-
 [Dua 9]
 
 K: La Hawla wa la (add sukun)

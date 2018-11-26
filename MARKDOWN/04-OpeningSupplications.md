@@ -8,15 +8,17 @@ Next, he \pbuh would commence his recitation with many kinds of supplications in
 
     “O Allāh! Separate me (far) from my sins as you have separated (far) the East and West. O Allāh! Cleanse me of my sins as white cloth is cleansed from dirt. O Allāh! Wash me of my sins with water, ice, and snow.” He \pbuh used to say this in obligatory prayers.[^99]
 
-2. \begin{Arabicitem}وَجَّهْتُ وَجْهِيَ لِلَّذِي فَطَرَ السَّمَاوَاتِ وَالأَرْضَ حَنِيفاً [مُسْلِماً\,] وَمَا أَنَا مِنَ الْمُشْرِكِينَ، إِنَّ صَلَاتِي، وَنُسُكِي، وَمَحْيَايَ، وَمَمَاتِي، لِلّٰهِ رَبِّ الْعَالَمِينَ، لا شَرِيكَ لَهُ، وَبِذٰلِكَ أُمِرْتُ وَأَنَا أَوَّلُ الْمُسْلِمِينَ، اللّٰهُمَّ أَنْتَ الْمَلِكُ، لا إِلٰهَ إِلَّا أَنْتَ، [سُبْحَانَكَ وَبِحَمْدِكَ،] أَنْتَ رَبِّي وَأَنَا عَبْدُكَ، ظَلَمْتُ نَفْسِي، وَاعْتَرَفْتُ بِذَنْبِي، فَاغْفِرْ لِي ذَنْبِي جَمِيعاً، إِنَّهُ لا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ، وَاهْدِنِي لِأَحْسَنِ الأَخْلَاقِ، لَا يَهْدِي لِأَحْسَنِهَا إِلَّا أَنْتَ، وَاصْرِفْ عَنِّي سَيِّـئَهَا، لا يَصْرِفُ عَنِّي سَيِّـئَهَا إِلَّا أَنْتَ، لَبَّيْكَ وَسَعْدَيْكَ، وَالْخَيْرُ كُلُّهُ فِي يَدَيْكَ، وَالشَّرُّ لَيْسَ إِلَيْكَ، [والمَهْدِيُّ مَنْ هَدَيْتَ،] أَنَا بِكَ وَإِلَيْكَ، [لا مَنْجَا وَلا مَلْجَأَ مِنْكَ إِلَّا إِلَيْكَ،] تَبَارَكْتَ وَتَعَالَيْتَ، أَسْتَغْفِرُكَ وَأَتُوبُ إِلَيْكَ.\end{Arabicitem}
+2. \begin{Arabicitem}وَجَّهْتُ وَجْهِيَ لِلَّذِي فَطَرَ السَّمَاوَاتِ وَالأَرْضَ حَنِيفاً [مُسْلِماً\,] وَمَا أَنَا مِنَ الْمُشْرِكِينَ، إِنَّ صَلَاتِي وَنُسُكِي وَمَحْيَايَ وَمَمَاتِي لِلّٰهِ رَبِّ الْعَالَمِينَ، لا شَرِيكَ لَهُ، وَبِذٰلِكَ أُمِرْتُ وَأَنَا أَوَّلُ الْمُسْلِمِينَ، اللّٰهُمَّ أَنْتَ الْمَلِكُ، لا إِلٰهَ إِلَّا أَنْتَ، [سُبْحَانَكَ وَبِحَمْدِكَ،] أَنْتَ رَبِّي وَأَنَا عَبْدُكَ، ظَلَمْتُ نَفْسِي وَاعْتَرَفْتُ بِذَنْبِي، فَاغْفِرْ لِي ذَنْبِي جَمِيعاً، إِنَّهُ لا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ، وَاهْدِنِي لِأَحْسَنِ الأَخْلَاقِ، لَا يَهْدِي لِأَحْسَنِهَا إِلَّا أَنْتَ، وَاصْرِفْ عَنِّي سَيِّئَهَا، لا يَصْرِفُ عَنِّي سَيِّئَهَا إِلَّا أَنْتَ، لَبَّيْكَ وَسَعْدَيْكَ، وَالْخَيْرُ كُلُّهُ فِي يَدَيْكَ، وَالشَّرُّ لَيْسَ إِلَيْكَ، [والمَهْدِيُّ مَنْ هَدَيْتَ،] أَنَا بِكَ وَإِلَيْكَ، [لا مَنْجَا وَلا مَلْجَأَ مِنْكَ إِلَّا إِلَيْكَ،] تَبَارَكْتَ وَتَعَالَيْتَ، أَسْتَغْفِرُكَ وَأَتُوبُ إِلَيْكَ.\end{Arabicitem}
 
     “I have set my face towards the Originator of the heavens and the earth sincerely [in Islam] and I am not among the _Mushrikīn_. Indeed my prayer, my sacrifice, my living, and my dying are for Allāh, the Lord of the Worlds; no partner has He. With this I have been commanded, and I am the first of the Muslims.[^100] O Allāh! You are the King, none has the right to be worshiped but You, [You are the Most Perfect and all Praise is for You.] You are my Lord and I am Your slave.[^101] I have wronged myself, and have acknowledged my sins, so forgive all my sins, for no one forgives sins except You. Guide me to the best of characters, to which no one can guide except You, and save me from the worst of characters, from which no one can save except You. I am here and happy to serve you.[^102] All good is in your Hands, and evil is not from You.[^103] [The guided one is he who is guided by you.] I exist by your will and belong to You. [There is no escape or shelter from You except to You.] You are blessed and exalted. I seek Your forgiveness and repent to You.” He \pbuh used to say this in obligatory and voluntary prayers.[^104]
 
 3. Similar to the above, without
 
-    <div lang="ar">أَنْتَ رَبِّي وَأَنَا عَبْدُكَ</div>
+    \begin{Arabic}
+    أَنْتَ رَبِّي وَأَنَا عَبْدُكَ.\,.\,.
+    \end{Arabic}
 
-    “You are my Lord and I am Your slave” to the end, with the following addition:
+    “You are my Lord and I am Your slave...” to the end, with the following addition:
 
     <div lang="ar">اللّٰهُمَّ أَنْتَ الْمَلِكُ، لا إِلٰهَ إِلَّا أَنْتَ، سُبْحَانَكَ وَبِحَمْدِكَ.</div>
 
@@ -24,13 +26,15 @@ Next, he \pbuh would commence his recitation with many kinds of supplications in
 
 4. Similar to no. 2 until
 
-    <div lang="ar">وَأَنَا أَوَّلُ الْمُسْلِمِينَ</div>
+    \begin{Arabic}
+    .\,.\,.\,وَأَنَا أَوَّلُ الْمُسْلِمِينَ،
+    \end{Arabic}
 
-    “and I am the first of the Muslims,” adding:
+    “...and I am the first of the Muslims,” adding:
 
-    <div lang="ar">اللّٰهُمَّ اهْدِنِي لِأَحْسَنِ الأَخْلاقِ وَأَحْسَنِ الأَعْمَالِ لا يَهْدِي لِأَحْسَنِهَا إِلَّا أَنْتَ، وَقِنِي سِيِّئَ الأَخْلاقِ وَالأَعْمَالِ لا يَقِي سَيِّـئَهَا إِلَّا أَنْتَ.</div>
+    <div lang="ar">اللّٰهُمَّ اهْدِنِي لِأَحْسَنِ الأَخْلاقِ وَأَحْسَنِ الأَعْمَالِ، لا يَهْدِي لِأَحْسَنِهَا إِلَّا أَنْتَ، وَقِنِي سِيِّئَ الأَخْلاقِ وَالأَعْمَالِ، لا يَقِي سَيِّئَهَا إِلَّا أَنْتَ.</div>
 
-    “O Allāh, guide me to the best of characters and the best of actions, no one to which can guide except You, and save me from the evil characters and actions, from which no one except You can save (others) except You.”[^106]
+    “O Allāh, guide me to the best of characters and the best of actions, no one to which can guide except You, and save me from the evil characters and actions, from which no one except You can save.”[^106]
 
 5. \begin{Arabicitem}سُبْحَانَكَ اللّٰهُمَّ وَبِحَمْدِكَ، وَتَبَارَكَ اسْمُكَ، وَتَعَالَى جَدُّكَ وَلا إِلٰهَ غَيْرُكَ.\end{Arabicitem}
 
@@ -38,19 +42,19 @@ Next, he \pbuh would commence his recitation with many kinds of supplications in
 
 6. Similar to the above, adding in prayer at night:
 
-    <div lang="ar">لا إِلٰهَ إِلَّا الله</div>
+    <div lang="ar">لا إِلٰهَ إِلَّا الله.</div>
 
     “There is no true god except Allāh,” [three times]{style="font-variant:small-caps;"}, and,
 
-    <div lang="ar">اللّٰهُ أَكْبَرُ كَبِيراً</div>
+    <div lang="ar">اللّٰهُ أَكْبَرُ كَبِيراً.</div>
 
     “Allāh is the Greatest, Very Great,” [three times]{style="font-variant:small-caps;"}.
 
 7. \begin{Arabicitem}اللّٰهُ أَكْبَرُ كَبِيراً، وَالْحَمْدُ للهِ كَثِيراً، وَسُبْحَانَ اللهِ بُكْرَةً وَأَصِيلًا.\end{Arabicitem}
 
-    “Allāh is the Greatest, very great. Praise be to Allāh, again and again. Glorified is Allāh morning and evening.”---one of the Companions \mabpwhim commenced with this, to which the Messenger \pbuh said: “Wonderful for it (the supplication) is that the doors of the heavens were opened for it.”[^113]
+    “Allāh is the Greatest, Very Great. Praise be to Allāh, again and again. Glorified is Allāh morning and evening.”---one of the Companions \mabpwhim commenced with this, to which the Messenger \pbuh said: “Wonderful for it (the supplication) is that the doors of the heavens were opened for it.”[^113]
 
-8. \begin{Arabicitem}الْحَمْدُ للهِ، حَمْداً كَثِيراً طَيِّباً، مُبَارَكاً فِيهِ.\end{Arabicitem}
+8. \begin{Arabicitem}الْحَمْدُ للهِ حَمْداً كَثِيراً طَيِّباً مُبَارَكاً فِيهِ.\end{Arabicitem}
 
     “Praise be to Allāh, many, pure, blessed praises.” Another Companion \mabpwhim commenced with this, to which he \pbuh said: “I saw twelve angels competing as to which of them would take it up.”[^114]
 

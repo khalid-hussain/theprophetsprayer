@@ -1051,3 +1051,16 @@ KK: I think it's alright. I can't do better now.
 Quiet and loud recitation in the five prayers and others
 
 [Margin error pg. 150]
+
+[Dua 2]
+K: Li Allāh
+
+“Allāh is the Greatest, Very Great,”
+
+K: inconsistency with the next occurence
+
+# Chapter Four (Opening Supplications)
+
+[Dua 8]
+
+K: Consider removing commas from the Arabic

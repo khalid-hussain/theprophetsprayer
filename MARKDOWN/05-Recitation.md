@@ -26,7 +26,7 @@ Then he would recite,
 
 Next, he would recite _al-Fātiḥah_ and divide his recitation, reciting one _āyah_ at a time. He would say:
 
-<div lang="ar">بِسْمِ hggiاللهِ الرَّحْمٰنِ الرَّحِيمِ</div>
+<div lang="ar">بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ</div>
 
 [Here he would pause, and then say:]
 
