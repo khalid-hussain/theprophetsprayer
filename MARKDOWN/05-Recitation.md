@@ -63,6 +63,7 @@ He \pbuh also used to say: “Allāh did not reveal in the Torah or the Gospel a
 He \pbuh commanded _the one who prayed badly_ to recite it in his prayer,[^136] but said to one who could not remember it to say:
 
 <div lang="ar">سُبْحَانَ اللهِ، وَالْحَمْدُ للهِ، وَلا إِلٰهَ إِلَّا اللهُ، وَاللهُ أَكْبَرُ، وَلا حَوْلَ وَلا قُوَّةَ إِلَّا بِاللهِ.</div>  
+
 “I declare Allāh free from all defects; all Praise be to Allāh; none has the right to be worshiped but Allāh; Allāh is the Greatest; there is no might or power except by Allāh.”[^137]
 
 He \pbuh also said to _the one who prayed badly_: “If you know some of the Quran, then recite it, otherwise praise Allāh, declare His Greatness and declare that none has the right to be worshiped but Allāh.”[^138]
@@ -129,28 +130,16 @@ One of the Anṣār used to lead them in the mosque of Qubā, and every time he 
 
 He \pbuh used to combine the pairs[^163] of the _mufaṣṣal_[^164] _sūrahs_, so he used to recite one of the following pairs of _sūrahs_ in one _rakʿah_[^165]:
 
-- _al-Raḥmān_ (Quran, 55)[^166] and _al-Najm_ (Quran, 53)
-- _al-Qamar_ (Quran, 54) and _al-Ḥāqqah_ (Quran, 69)
-- _al-Ṭūr_ (Quran, 52) and _al-Dhāriyāt_ (Quran, 51)
-- _al-Wāqiʿah_ (Quran, 56) and _al-Qalam_ (Quran, 68)
-- _al-Maʿārij_ (Quran, 70) and _al-Nāziʿāt_ (Quran, 79)
-- _al-Muṭaffifīn_ (Quran, 83) and _ʿAbasa_ (Quran, 80)
-- _al-Muddaththir_ (Quran, 74) and _al-Muzzammil_ (Quran, 73)
-- _al-Dahr/al-Insān_ (Quran, 76) and _al-Qiyāmah_ (Quran, 75)
-- _al-Nabā_ (Quran, 78) and _al-Mursalāt_ (Quran, 77)
-- _al-Dukhān_ (Quran, 44) and _al-Takwīr_ (Quran, 81)
-
-<!-- TODO double check number of ayahs -->
-<!-- - al-Raḥmān (55:{78})[^166] and al-Najm (53:{62});
-- al-Qamar (54:{55}) and al-Ḥāqqah (69:{52});
-- al-Ṭūr (52:{49}) and al-Dhāriyāt (51:{60});
-- al-Wāqiʿah (56:{96}) and al-Qalam (68:{52});
-- al-Maʿārij (70:{44}) and al-Nāziʿāt (79:{46});
-- al-Muṭaffifīn (83:{36}) and ʿAbasa (80:{42});
-- al-Muddaththir (74:{56}) and al-Muzzammil (73:{20});
-- al-Dahr (al-Insān) (76:{31}) and al-Qiyāmah (75:{40});
-- al-Nabāʾ (78:{40}) and al-Mursalāt (77:{50});
-- al-Dukhān (44:{59}) and al-Takwīr (81:{29}). -->
+- _al-Raḥmān_ (55:78)[^166] and _al-Najm_ (53:62)
+- _al-Qamar_ (54:55) and _al-Ḥāqqah_ (69:52)
+- _al-Ṭūr_ (52:49) and _al-Dhāriyāt_ (51:60)
+- _al-Wāqiʿah_ (56:96) and _al-Qalam_ (68:52)
+- _al-Maʿārij_ (70:44) and _al-Nāziʿāt_ (79:46)
+- _al-Muṭaffifīn_ (83:36) and _ʿAbasa_ (80:42)
+- _al-Muddaththir_ (74:56) and _al-Muzzammil_ (73:20)
+- _al-Dahr/al-Insān_ (76:31) and _al-Qiyāmah_ (75:40)
+- _al-Nabā_ (78:40) and _al-Mursalāt_ (77:50)
+- _al-Dukhān_ (44:59) and _al-Takwīr_ (81:29)
 
 Sometimes he would combine _sūrahs_ from the seven _ṭiwāl_ (long _sūrahs_), such as _al-Baqarah_, _al-Nisā_, and _Āl ʿImrān_ in one _rakʿah_ during night prayer (soon to follow). He used to say: “The most excellent prayer is one with long standing.”[^167]
 
@@ -170,7 +159,7 @@ Muʿādh ibn Jabal \mabpwhim used to pray _ʿIshā_ [the last] with the Messenge
 
 The narrator said: The young man \mabpwhim said, “But Muʿādh \mabpwhim will know (about me) on going to the people when they will have been informed that the enemy has arrived.” The narrator said: So the enemy came, and the young man attained _shahādah_ (martyrdom). So after that, the Messenger of Allāh \pbuh said to Muʿādh, “What did the one disputing with me and you do?” He said, “O Messenger of Allāh, he was true to Allāh, and I spoke falsely---he was martyred.”[^171]
 
-## Quiet and loud recitation in the five prayers and others
+## Mode of recitation in the five prayers and others
 
 He \pbuh used to recite loudly in the morning prayer and in the first two _rakʿahs_ of _Maghrib_ and _ʿIshā_, and quietly in _Ẓuhr_, _ʿAṣr_, the third _rakʿah_ of _Maghrib_ and the last two _rakʿahs_ of _ʿIshā_.[^172]
 
@@ -308,7 +297,7 @@ Also, one night he stood (in prayer) repeating one _āyah_ until it was dawn:
 
 > «If You do punish them, they are Your servants; if You do forgive them, You are indeed the Exalted in Power, the Wise.» (Quran, 5:118) [with it he bowed, with it he prostrated, and with it he supplicated], [so in the morning Abū Dharr \mabpwhim said to him: “O Messenger of Allāh, you did not stop reciting this _āyah_ until it was morning; you bowed with it and you prostrated with it][and you supplicated with it,][whereas Allāh has taught you the whole Quran;] [if one of us were to do this, we would be stern with him?]”[He \pbuh said: “Indeed I asked my Lord, the Mighty and Sublime, for intercession for my _Ummah_. He granted it to me, and it will be possible if Allāh wills for whoever does not associate any partners with Allāh.”][^266]
 
-A man \mabpwhim said to him \pbuh: “O Messenger of Allāh, I have a neighbor who stands (in prayer) at night and does not recite anything except «Say: He is Allāh the One and Only» (Quran, 112), [repeating it,] [not adding anything else,] as if he considers it little.” So the Prophet \pbuh said: “By Him in Whose Hand is my soul, it is worth a third of the Quran.”[^267]
+A man \mabpwhim said to him \pbuh: “O Messenger of Allāh, I have a neighbor who stands (in prayer) at night and does not recite anything except «Say: He is Allāh the One and Only» (Quran, 112), [repeating it,] [not adding anything else,]” as if he considered it little. So the Prophet \pbuh said: “By Him in Whose Hand is my soul, it is worth a third of the Quran.”[^267]
 
 ### _Witr_ Prayer
 

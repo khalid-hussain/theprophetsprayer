@@ -8,6 +8,7 @@ The āmīn, and the Imam’s saying it loudly
 K: Do we need the comma?
 KK: removed comma
 
+Musannaf-->Muṣannaf
 
 # Introduction
 
@@ -958,3 +959,95 @@ exultations -- (This is wrong, i.e. the word is wrong)
 
 K: extolments?
 KK: exaltation
+
+Should be: al-Laknawī
+
+ʿIbāḍiyyah
+
+K: ʿIbāḍīyyah
+
+but said to one who could not remember it to say: (Arabic after)
+
+K: Check spacing and indentation of the Arabic
+KK: It seems alright... but I'm still not really sure.
+
+O Messenger of Allāh, I have a neighbor who stands (in prayer) at night and does not recite anything except
+
+K: This paragraph seems weird. “as if he considers it little”
+
+The first number is that of the sūrah, while the second is the number of āyāt in the sūrah.
+
+K: This doesn't make sense now. Please change.
+
+Ibn Ḥajar said in his commentary on “āa”, “
+
+K: Comma inside quotes
+
+[Pg. 94, footnote 46 -- Musnad Aḥmad and Aḥmad]
+
+[Check the footnote 167 on page 78]
+
+[page 119 - margin error, consider hyphenating]
+
+Also, al-Marwazī quoted with a ṣaḥīḥ isnād, Imam al-Awzāʿī in his Masāʾil (1/147/1) as saying, “I found the people placing their hands before their knees.”
+
+K: check prose
+
+ʿAbd al-Raḥmān bin Mahdī said, “This is from the Sunnah,” it was practiced by the Imam of the Sunnah, Aḥmad bin Ḥanbal, and it has been quoted from Mālik and al-Shāfiʿī.
+
+K: check prose
+
+e.g. in the words of the Exalted, «Allāh has chosen Ādam, Nūḥ, the family of Ibrāhīm and the family of ʿImrān above all people.» (Quran, 3:33).
+
+K: Check Quran quotation reference styling
+
+modesty, just as he did not say صلى الله عليه وسلم on mention of his name, although his Ummah has been encouraged to do so”
+
+K: Can this be made clearer? Ask a couple of other guys
+
+send peace on you (i.e. in tashahhud), but how
+
+K: kerning d )
+
+(p. 28, 1st ed.; p. 62 2nd ed.—
+
+K: consistency
+
+74. Ibn Khuzaymah (1/119/2) and also Ibn Abī Shaybah etc. as for the last ḥadīth.
+
+K: meaning is not clear
+
+he should begin with the praise of his Lord, Sublime and Mighty, and his exultation, and
+
+K: exultation
+
+They used to gesture with their hands when saluting to
+
+K: Check quotations of this paragraph
+
+then he (ʿAbd Allāh bin Masʿūd 􀁉) said it (the tashahhud);
+
+K: kerning d )
+
+# _fm2_fn.md
+
+Once, when we were with the Messenger of Allāh صلى الله عليه وسلم on an expedition, the sky was cloudy, so we tried to find the qiblah but we differed, so each one of us
+
+K: consider revising
+
+---
+
+(Transmitted by al-Ṭabarānī in Muʿjam al-Awsaṭ, #2848, with a ṣaḥīḥ isnād.)
+
+K: remove redundancy
+
+K: Transliteration of Haq
+
+“Wonderful for it (the supplication) is that the doors of the heavens were opened for it.”
+
+K: Can this be phrased better?
+KK: I think it's alright. I can't do better now.
+
+Quiet and loud recitation in the five prayers and others
+
+[Margin error pg. 150]

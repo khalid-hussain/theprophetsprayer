@@ -72,7 +72,7 @@ This Khālid was described by Ibn Abī Ḥātim (1/2/355--366), but he did not i
 
 Hence, the most correct opinion in this issue appears to be the _madhhab_ of al-Shāfiʿī: that the Imam, but not those following, should say _āmīn_ loudly. Allāh knows best.
 
-But then, I saw that al-Bukhārī mentioned the text (only) of the narration about Ibn al-Zubayr in his _Ṣaḥīḥ_ (i.e. in _muʿallaq_ form), designating it with certainty. Ibn Ḥajar said in _Fatḥ al-Bārī_ (2/208), “The connecting _isnād_ has been provided by ʿAbd al-Razzāq from Ibn Jurayj from ʿAtā. He (i.e. Ibn Jurayj) said, ‘I said to him, “Did Ibn al-Zubayr say _āmīn_ at the end of the Mother of the Quran?” He said, “Yes, and those behind him also said _āmīn_, until the mosque echoed.” He then said, “Verily, _āmīn_ is a supplication.”’” This is found in the _Musannaf_ of ʿAbd al-Razzāq (2640/2), and from this route, in Ibn Ḥazm's _al-Muḥallā_ (3/364).
+But then, I saw that al-Bukhārī mentioned the text (only) of the narration about Ibn al-Zubayr in his _Ṣaḥīḥ_ (i.e. in _muʿallaq_ form), designating it with certainty. Ibn Ḥajar said in _Fatḥ al-Bārī_ (2/208), “The connecting _isnād_ has been provided by ʿAbd al-Razzāq from Ibn Jurayj from ʿAtā. He (i.e. Ibn Jurayj) said, ‘I said to him, “Did Ibn al-Zubayr say _āmīn_ at the end of the Mother of the Quran?” He said, “Yes, and those behind him also said _āmīn_, until the mosque echoed.” He then said, “Verily, _āmīn_ is a supplication.”’” This is found in the _Muṣannaf_ of ʿAbd al-Razzāq (2640/2), and from this route, in Ibn Ḥazm's _al-Muḥallā_ (3/364).
 
 <!-- TODO Move Abū Rāfī to the next section -->
 

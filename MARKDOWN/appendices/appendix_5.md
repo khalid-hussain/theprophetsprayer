@@ -12,7 +12,7 @@ He who recites behind the Imam, his mouth is filled with fire.
 
 _Mawḍūʿ_ ([Fabricated]{style="font-variant:small-caps;"}). Ibn Ṭāhir---after quoting it in _Tadhkirah al-Mawḍū\-ʿāt_ (p.\ 93)---said, “The _isnād_ contains Maʾmūn ibn Aḥmad al-Harawī, an utter liar who used to narrate fabrications.” More of his description is given in _ḥadīth_ in the following sub section. Ibn Ḥibbān mentioned this _ḥadīth_ under his name in _al-Ḍuʿafā_ (The Weak Narrators) and al-Dhahabī regarded it as one of his calamities!
 
-Some Ḥanafīs have been deceived by this _ḥadīth_, arguing on its basis that any recitation behind the Imam is totally _ḥarām_! Abū al-Ḥasanāt al-Luknowī said in _al-Taʿlīq al-Mumajjid ʿalā Muwaṭṭā Muḥammad_ (p.\ 99), “It was mentioned by the author of _al-Nihāyah_ and by others as _marfūʿ_ with the wording, ‘there is a burning coal in his mouth,’ and it is totally baseless.”
+Some Ḥanafīs have been deceived by this _ḥadīth_, arguing on its basis that any recitation behind the Imam is totally _ḥarām_! Abū al-Ḥasanāt al-Laknawī said in _al-Taʿlīq al-Mumajjid ʿalā Muwaṭṭā Muḥammad_ (p.\ 99), “It was mentioned by the author of _al-Nihāyah_ and by others as _marfūʿ_ with the wording, ‘there is a burning coal in his mouth,’ and it is totally baseless.”
 
 He had said before that, “In no _ṣaḥīḥ marfūʿ ḥadīth_ is there a forbiddance of reciting _al-Fātiḥah_ behind the Imam; all that they quote as _marfūʿ_ regarding this is either baseless or not authentic,” and had then mentioned this _ḥadīth_ with both wordings as an example.
 
@@ -22,7 +22,7 @@ The people of knowledge, both past and present, have differed regarding recitati
 2. That silence in loud and quiet prayers is obligatory.
 3. That there be recitation in quiet, but not in loud, prayers.
 
-This last view is the most balanced and closest to the truth, for in it, all the evidences can be accommodated such that none of them is rejected totally. It is the view of Mālik and Aḥmad, and has also been preferred after analysis by some Ḥanafīs, including Abū al-Ḥasanāt al-Luknowī in his aforementioned book.
+This last view is the most balanced and closest to the truth, for in it, all the evidences can be accommodated such that none of them is rejected totally. It is the view of Mālik and Aḥmad, and has also been preferred after analysis by some Ḥanafīs, including Abū al-Ḥasanāt al-Laknawī in his aforementioned book.
 
 <!-- Another example of Maʾmūn al-Harawī's inventions as follows. -->
 
@@ -36,7 +36,7 @@ Al-Dhahabī said about him, “He brought calamities and disgraceful reports. He
 
 It is clear to me from the _aḥādīth_ which Maʾmun al-Harawī has invented that he is a bigoted zealot of the Ḥanafī _Madhhab_, for all the _aḥādīth_ mentioned under his descriptions (in books of narrators) revolve around supporting Imam Abū Ḥanīfah and insulting Imam al-Shāfiʿī; amongst them is this one: a clear insult to the Shāfiʿī view, which approves the raising of the hands on going down into _rukūʿ_ and rising from it (which is the truth without doubt), while obviously backing the Ḥanafī view which says that this is _makrūh_. This disgusting man was not even satisfied with the position of his _Madhhab_ that raising the hands was _makrūh_: he even went to the extent of inventing this _ḥadīth_, in order to propagate amongst the people that raising the hands actually invalidates the prayer!
 
-Perhaps he also intended to support Makhūl's narration from Abū Ḥanīfah that he said, “He who raises his hands during prayer, his prayer is ruined,” a narration which deceived Amīr Kātib al-Itqāni, who compiled a treatise on the basis of it to argue the invalidation of the prayer by the raising of the hands! Similarly deceived was the one who trod his path and ruled that it was not permissible for Ḥanafīs to pray behind Shāfiʿīs because the latter raise their hands! While all along, this narration from Abū Ḥanīfah is utterly false, as ʿAllāmah Abū al-Ḥasanāt al-Luknowī has verified it in _al-Fawāʾid al-Bahiyyah fī Tarājum al-Ḥanafīyyah_ (pp.\ 116, 216--7).
+Perhaps he also intended to support Makhūl's narration from Abū Ḥanīfah that he said, “He who raises his hands during prayer, his prayer is ruined,” a narration which deceived Amīr Kātib al-Itqāni, who compiled a treatise on the basis of it to argue the invalidation of the prayer by the raising of the hands! Similarly deceived was the one who trod his path and ruled that it was not permissible for Ḥanafīs to pray behind Shāfiʿīs because the latter raise their hands! While all along, this narration from Abū Ḥanīfah is utterly false, as ʿAllāmah Abū al-Ḥasanāt al-Laknawī has verified it in _al-Fawāʾid al-Bahiyyah fī Tarājum al-Ḥanafīyyah_ (pp.\ 116, 216--7).
 
 Shaykh ʿAli al-Qārī quoted this _ḥadīth_ in _al-Mawḍūʿāt_ and then said (p.\ 81), “This _ḥadīth_ was fabricated by Muḥammad bin ʿUkāshah al-Kirmānī, may Allāh disgrace him.” Later (p.\ 129), he quoted Ibn al-Qayyim as saying, “It is fabricated.”
 

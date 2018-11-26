@@ -22,7 +22,7 @@ Next, he \pbuh would salute to his right:
 <div lang="ar">السَّلَامُ عَلَيْكَم.</div>  
 “Peace be on you,” [in front of his face, turning to his right side a bit (or a little)].[^i280]
 
-They used to gesture with their hands when saluting to the right and left; when the Messenger of Allāh \pbuh saw them, he said, “What is the matter with you, gesturing with your hands as if they are the tails of wild horses?! When one of you salutes, he should look towards his companion and not indicate with his hand. [So when they prayed with him, they did not gesture.] (In one narration: It is enough for each of you to place his hand on his thigh, and then salute his brothers who are on his right and left).”[^i281]
+They \mabpwthem used to gesture with their hands when saluting to the right and left; when the Messenger of Allāh \pbuh saw them, he said, “What is the matter with you, gesturing with your hands as if they are the tails of wild horses?! When one of you salutes, he should look towards his companion and not indicate with his hand.” [So when they prayed with him, they did not gesture.] (In one narration: “It is enough for each of you to place his hand on his thigh, and then salute his brothers who are on his right and left.”)[^i281]
 
 ## The obligation of the _taslīm_
 
