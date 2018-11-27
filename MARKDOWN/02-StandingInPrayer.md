@@ -67,7 +67,7 @@ He \pbuh used to say: “Do not pray except towards a _sutrah_, and do not let a
 
 He \pbuh would also say: “When one of you prays towards a _sutrah_, he should get close to it so that Shayṭān cannot break his prayer.”[^40]
 
-Sometimes, he \pbuh would seek to pray at the pillar which was in his mosque.[^41]
+Sometimes, he \pbuh sought to pray at the pillar which was in his mosque.[^41]
 
 When he \pbuh prayed [in an open space where there was nothing to use as _sutrah_] he would plant a spear in the ground in front of him and pray towards it with the people behind him;[^42] sometimes he would to set his mount sideways and pray towards it[^43] but this is not the same as prayer in the resting-place of camels,[^44] which he forbade,[^45] and sometimes he would take his saddle; set it lengthwise and pray towards its end.[^46]
 

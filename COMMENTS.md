@@ -5,6 +5,12 @@ Quran: al-Najm 28
 Quran: al-A‘rāf 3
 
 # General
+
+The Exalted
+The Sublime
+Other Titles should be capitalized too
+
+Capitalization after semi-colon
 All Quran references
 - Consider ... or .
 - (Quran, SurahNo: AyahNo)
@@ -54,23 +60,7 @@ K: Remove hyphenation
 
 <!-- TODO: END OF TOC -->
 
-# Chapter Four (Opening Supplications)
-
-[Dua 9]
-
-K: La Hawla wa la (add sukun)
-
-[Dua 12]
-
-K: Check brackets and comma
-
 # Chapter Five (Recitation)
-
-K: Check mini toc width (Can it be widened?)
-
-have bowed; in You I have believed
-
-K: Capitalization after semi-colon
 
 [The Third Dua is messed up]
 

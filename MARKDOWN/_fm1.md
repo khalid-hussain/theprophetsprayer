@@ -70,7 +70,7 @@ It is enough for me that I believe that this is the most upright way, which All�
 
 <!-- ## Sayings of the Imams regarding following the Sunnah and ignoring their views contradictory to it -->
 
-## The position of the Imams if their views contradict the Sunnah
+## The Imams' positions if their views contradict the Sunnah
 
 It would be beneficial if we gave some of these here, for perhaps this will admonish or remind those who follow the opinion of the Imams---nay, of those far below the Imams in rank---blindly,[^a18] sticking to their _madhahīb_ or views as if these had descended from the heavens! But Allāh, Almighty and Sublime, says:
 

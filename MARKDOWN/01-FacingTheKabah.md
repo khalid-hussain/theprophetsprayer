@@ -15,7 +15,7 @@ When he \pbuh intended to pray obligatory prayers, he would dismount and face th
 
 In prayer during severe fear, he \pbuh set the example for his _Ummah_ to pray on foot, standing on their feet, or mounted; facing the _qiblah_ or not facing it,[^c9] and he also said, “When they (the armies) meet, then it (i.e. the prayer) is _takbīr_ and indication with the head.”[^c10]
 
-He \pbuh also used to say: “What is between the east and the west is _qiblah_.”[^c11]
+He \pbuh also used to say, “What is between the east and the west is _qiblah_.”[^c11]
 
 Jābir \mabpwhim said:
 

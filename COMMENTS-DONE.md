@@ -1064,3 +1064,15 @@ K: inconsistency with the next occurence
 [Dua 8]
 
 K: Consider removing commas from the Arabic
+
+[Dua 9]
+
+K: La Hawla wa la (add sukun)
+
+[Dua 12]
+
+K: Check brackets and comma
+
+# Chapter Five (Recitation)
+
+K: Check mini toc width (Can it be widened?)

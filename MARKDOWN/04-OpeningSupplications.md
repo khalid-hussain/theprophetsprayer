@@ -58,23 +58,23 @@ Next, he \pbuh would commence his recitation with many kinds of supplications in
 
     “Praise be to Allāh, many, pure, blessed praises.” Another Companion \mabpwhim commenced with this, to which he \pbuh said: “I saw twelve angels competing as to which of them would take it up.”[^114]
 
-9. \begin{Arabicitem}اللّٰهُمَّ لَكَ الْحَمْدُ أَنْتَ نُورُ السَّمَاوَاتِ وَالأَرْضِ وَمَنْ فِيهِنَّ، وَلَكَ الْحَمْدُ أَنْتَ قَيِّمُ السَّمَاوَاتِ وَالأَرْضِ وَمَنْ فِيهِنَّ، [وَلَكَ الْحَمْدُ، أَنْتَ مَلِكُ السَّمَاوَاتِ وَالأَرْضِ وَمَنْ فِيهِنَّ،] وَلَكَ الْحَمْدُ، أَنْتَ الْحَقُّ، وَ وَعْدُكَ حَقٌّ، وَقَوْلُكَ حَقٌّ، وَلِقَاؤُكَ حَقٌّ، وَالْجَنَّةُ حَقٌّ، وَالنَّارُ حَقٌّ، وَالسَّاعَةُ حَقٌّ، وَالنَّبِيُّونَ حَقٌّ، وَمُحَمَّدٌ حَقٌّ، اللّٰهُمَّ لَكَ أَسْلَمْتُ، وَعَلَيْكَ تَوَكَّلْتُ، وَبِكَ آمَنْتُ، وَإِلَيْكَ أَنَبْتُ، وَبِكَ خَاصَمْتُ، وَإِلَيْكَ حَاكَمْتُ، [أَنْتَ رَبُّنَا وَإِلَيْكَ الْمَصِير، فاغْفِرْ لِي مَا قَدِمْتُ، وَمَا أَخَّرْتُ، وَمَا أَسْرَرْتُ وَمَا أَعْلَنْتُ،][وَمَا أَنْتَ أَعْلَمُ بِهِ مِنِّي،] أَنْتَ الْمُقَدِّمُ وَأَنْتَ الْمُؤَخِّرُ، [أَنْتَ إِلٰهِي،] لا إِلٰهَ إِلَّا أَنْتَ. [وَلا حَولَ وَلا قُوَّةَ إلَّا بِكَ.]\end{Arabicitem}
+9. \begin{Arabicitem}اللّٰهُمَّ لَكَ الْحَمْدُ أَنْتَ نُورُ السَّمَاوَاتِ وَالأَرْضِ وَمَنْ فِيهِنَّ، وَلَكَ الْحَمْدُ أَنْتَ قَيِّمُ السَّمَاوَاتِ وَالأَرْضِ وَمَنْ فِيهِنَّ، [وَلَكَ الْحَمْدُ أَنْتَ مَلِكُ السَّمَاوَاتِ وَالأَرْضِ وَمَنْ فِيهِنَّ،] وَلَكَ الْحَمْدُ أَنْتَ الْحَقُّ، وَوَعْدُكَ حَقٌّ وَقَوْلُكَ حَقٌّ وَلِقَاؤُكَ حَقٌّ وَالْجَنَّةُ حَقٌّ وَالنَّارُ حَقٌّ وَالسَّاعَةُ حَقٌّ وَالنَّبِيُّونَ حَقٌّ وَمُحَمَّدٌ حَقٌّ، اللّٰهُمَّ لَكَ أَسْلَمْتُ، وَعَلَيْكَ تَوَكَّلْتُ، وَبِكَ آمَنْتُ، وَإِلَيْكَ أَنَبْتُ، وَبِكَ خَاصَمْتُ، وَإِلَيْكَ حَاكَمْتُ، [أَنْتَ رَبُّنَا وَإِلَيْكَ الْمَصِير، فَاغْفِرْ لِي مَا قَدِمْتُ وَمَا أَخَّرْتُ، وَمَا أَسْرَرْتُ وَمَا أَعْلَنْتُ،][وَمَا أَنْتَ أَعْلَمُ بِهِ مِنِّي،] أَنْتَ الْمُقَدِّمُ وَأَنْتَ الْمُؤَخِّرُ، [أَنْتَ إِلٰهِي،] لا إِلٰهَ إِلَّا أَنْتَ. [وَلا حَوْلَ وَلا قُوَّةَ إلَّا بِكَ.]\end{Arabicitem}
 
     “O Allāh, to You belongs all Praise. You are the Light[^115] of the heavens and the earth and all those in them; To You belongs all Praise. You are the Maintainer[^116] of the heavens and the earth and all those in them; [To You belongs all Praise. You are the King of the heavens and the earth and all those in them.] To You belongs all Praise. You are the _Ḥaqq_;[^117] Your promise is _ḥaqq_; Your saying is _ḥaqq_; meeting You is _ḥaqq_; Paradise is _ḥaqq_; the Fire is _ḥaqq_; the Hour is _ḥaqq_; the Prophets are _ḥaqq_; Muḥammad is _ḥaqq_. O Allāh! To You I have submitted; in You I have placed my trust; in You I have believed; To You I have turned; for Your sake I have fought; To You I have referred for judgment; [You are our Lord and to You is the end of all journeys, so forgive me my earlier and later sins, what I have concealed and what I have showed][and whatever else You know about more than I.] You are the Bringer-Forward and You are the Delayer; [You are my deity;] and none has the right to worshiped but You.[^118][And there is no might nor power except with You.]”
 
     He \pbuh used to say this in prayer at night, as he did the following supplications:[^119]
 
-10. \begin{Arabicitem}اللّٰهُمَّ رَبَّ جَبْرَائِيلَ، وَمِيكَائِيلَ، وَإِسْرَافِيلَ، فَاطِرَ السَّمَاوَاتِ وَالأَرْضِ، عَالِمَ الْغَيْبِ وَالشَّهَادَةِ، أَنْتَ تَحْكُمُ بَيْنَ عِبَادِكَ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ، اِهْدِنِي لِمَا اخْتُلِفَ فِيهِ مِنَ الْحَقِّ بِإِذْنِكَ، إِنَّكَ تَهْدِي مَنْ تَشَاءُ إِلَى صِرَاطٍ مُسْتَقِيمٍ.\end{Arabicitem}
+10. \begin{Arabicitem}اللّٰهُمَّ رَبَّ جَبْرَائِيلَ وَمِيكَائِيلَ وَإِسْرَافِيلَ، فَاطِرَ السَّمَاوَاتِ وَالأَرْضِ، عَالِمَ الْغَيْبِ وَالشَّهَادَةِ، أَنْتَ تَحْكُمُ بَيْنَ عِبَادِكَ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ، اِهْدِنِي لِمَا اخْتُلِفَ فِيهِ مِنَ الْحَقِّ بِإِذْنِكَ، إِنَّكَ تَهْدِي مَنْ تَشَاءُ إِلَى صِرَاطٍ مُسْتَقِيمٍ.\end{Arabicitem}
 
     “O Allāh, Lord of Jabrāʾīl, Mīkāʾīl and Isrāfīl, Creator of the heavens and the earth, Knower of all that is hidden and open! It is You that will judge between Your servants in those matters about which they used to differ. Guide me by Your Grace to the Truth concerning that about which they differed, for indeed You guide whomsoever You wish to a path that is straight.”[^120]
 
-11. He would say _takbīr_, _taḥmīd_, _tasbīḥ_, _tahlīl_ and _istighfār_ [ten times]{style="font-variant:small-caps;"} each, and then say,
+11. He would say _takbīr_, _taḥmīd_, _tasbīḥ_, _tahlīl_, and _istighfār_ [ten times]{style="font-variant:small-caps;"} each, and then say,
 
-    <div lang="ar">اللّٰهُمَّ اغْفِرْ لِي وَارْحَمْنِي وَاهْدِنِي وَارْزُقْنِي [وَعَافِنِي]</div>
+    <div lang="ar">اللّٰهُمَّ اغْفِرْ لِي وَارْحَمْنِي وَاهْدِنِي وَارْزُقْنِي [وَعَافِنِي].</div>
 
     “O Allāh! Forgive me, have mercy on me, guide me, (and) give me sustenance [and overlook my sins]” [ten times]{style="font-variant:small-caps;"}, and then say:
 
-    <div lang="ar">اللّٰهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الضِّيقِ يَوْمَ الْحِسَابِ</div>
+    <div lang="ar">اللّٰهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الضِّيقِ يَوْمَ الْحِسَابِ.</div>
 
     “O Allāh! I seek refuge with You from the distress of the Day of Account,” [ten times]{style="font-variant:small-caps;"}.[^121]
 
