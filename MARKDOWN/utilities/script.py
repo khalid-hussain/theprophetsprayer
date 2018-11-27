@@ -24,4 +24,3 @@ if __name__ == '__main__':
             f.write(data)
     if copyfile(output_filename, args.filename):
         os.remove(output_filename)
-        print("Done.")
