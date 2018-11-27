@@ -1076,3 +1076,11 @@ K: Check brackets and comma
 # Chapter Five (Recitation)
 
 K: Check mini toc width (Can it be widened?)
+
+# Sujud
+
+[The Fourth Dua is missing a period]
+
+[Dua five, check comma of Arabic with English]
+
+[Duas of Sujud, add periods to all]

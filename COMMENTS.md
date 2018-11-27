@@ -4,6 +4,10 @@ Quran Nahl 44
 Quran: al-Najm 28
 Quran: al-A‘rāf 3
 
+Double check the section of Recitation
+full-stop in Quran quotations
+Mighty --> ALmighty
+
 # General
 
 The Exalted
@@ -60,18 +64,10 @@ K: Remove hyphenation
 
 <!-- TODO: END OF TOC -->
 
-# Chapter Five (Recitation)
-
-[The Third Dua is messed up]
-
-[The Fourth Dua is missing a period]
-
-[Dua five, check comma of Arabic with English]
-
-[Duas of Sujud, add periods to all]
-
 # 7.5 Forbiddance of reciting the Quran in sujūd
-[Check whole section]
+[Rephrase part of section]
+
+# Tashahhud
 
 [Fix Arabic of Tashahhud Duas, remove Kashida]
 
