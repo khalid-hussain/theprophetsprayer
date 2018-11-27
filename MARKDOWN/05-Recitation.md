@@ -141,14 +141,14 @@ He \pbuh used to combine the pairs[^163] of the _mufaṣṣal_[^164] _sūrahs_, 
 - _al-Nabā_ (78:40) and _al-Mursalāt_ (77:50)
 - _al-Dukhān_ (44:59) and _al-Takwīr_ (81:29)
 
-Sometimes he would combine _sūrahs_ from the seven _ṭiwāl_ (long _sūrahs_), such as _al-Baqarah_, _al-Nisā_, and _Āl ʿImrān_ in one _rakʿah_ during night prayer (soon to follow). He used to say, “The most excellent prayer is one with long standing.”[^167]
+Sometimes he \pbuh would combine _sūrahs_ from the seven _ṭiwāl_ (long _sūrahs_), such as _al-Baqarah_, _al-Nisā_, and _Āl ʿImrān_ in one _rakʿah_ during night prayer (soon to follow). He \pbuh used to say, “The most excellent prayer is one with long standing.”[^167]
 
-When he recited, «Does He not have the power to give life to the dead?» (Quran, 75:40), he would say,
+When he \pbuh recited, «Does He not have the power to give life to the dead?» (Quran, 75:40), he \pbuh would say,
 
 <div lang="ar">سُبْحَانَكَ فَبَلَى!</div>  
 “Glory be to You, of course!”
 
-and when he recited, «Glorify the name of your Lord Most High.» (Quran, 87:1), he would say,
+and when he \pbuh recited, «Glorify the name of your Lord Most High.» (Quran, 87:1), he \pbuh would say,
 
 <div lang="ar">سُبْحَانَ رَبِّيَ الْأَعْلَى</div>  
 “Glorified be my Lord Most High.”[^168]
@@ -157,7 +157,7 @@ and when he recited, «Glorify the name of your Lord Most High.» (Quran, 87:1),
 
 Muʿādh ibn Jabal \mabpwhim used to pray _ʿIshā_ [the last] with the Messenger of Allāh \pbuh, and then return and lead his people in prayer. One night when he returned and prayed with them, a young man [called Sulaym \mabpwhim, of the Banū Salamah] from his people prayed, but when it became too long for him, he [went away and] prayed [in the corner of the mosque,] then came out, took the reins of his camel and departed. When Muʿādh had prayed, this was mentioned to him, so he said, “He surely has some hypocrisy in him! I will surely tell the Messenger of Allāh \pbuh what he has done.” The young man said, “And I will tell the Messenger of Allāh \pbuh what he has done.” So in the morning they came to the Messenger of Allāh \pbuh, and Muʿādh informed him \pbuh of what the young man had done. The young man said, “O Messenger of Allāh! He stays a long time with you, and then he returns and lengthens it for us.” So the Messenger of Allāh \pbuh said, “Are you one who causes great trouble, Muʿādh?!” and he said to the young man,[^169] “What do you do when you pray, son of my brother?” He said, “I recite the opening chapter of the Book, then I ask Allāh for the Garden, and seek refuge with Him from the Fire. I know neither your _dandanah_[^170] nor the _dandanah_ of Muʿādh!” So the Messenger of Allāh \pbuh said, “I and Muʿādh are similar in this.”
 
-The narrator said, The young man \mabpwhim said, “But Muʿādh \mabpwhim will know (about me) on going to the people when they will have been informed that the enemy has arrived.” The narrator said, So the enemy came, and the young man attained _shahādah_ (martyrdom). So after that, the Messenger of Allāh \pbuh said to Muʿādh, “What did the one disputing with me and you do?” He said, “O Messenger of Allāh, he was true to Allāh, and I spoke falsely---he was martyred.”[^171]
+The narrator said: The young man \mabpwhim said, “But Muʿādh \mabpwhim will know (about me) on going to the people when they will have been informed that the enemy has arrived.” The narrator said: So the enemy came, and the young man attained _shahādah_ (martyrdom). So after that, the Messenger of Allāh \pbuh said to Muʿādh, “What did the one disputing with me and you do?” He said, “O Messenger of Allāh, he was true to Allāh, and I spoke falsely---he was martyred.”[^171]
 
 ## Mode of recitation in the five prayers and others
 
@@ -195,7 +195,7 @@ Once, he \pbuh recited «When the Earth is shaken.» (Quran, 99) in both _rakʿa
 
 Once, on a journey, he \pbuh recited, «Say: I seek refuge with the Lord of the Daybreak.» (Quran, 113) and «Say: I seek refuge with the Lord of Mankind.» (Quran, 114).[^191] He \pbuh also said to ʿUqbah ibn ʿĀmir \mabpwhim, “Recite the _muʿaw\-wadhatayn_[^192] in your prayer, for no seeker of refuge has sought refuge by means of anything like them.”[^193]
 
-Sometimes he \pbuh used to recite more than that: “he would recite sixty _āyāt_ or more”[^194]---one of the narrators said, “I do not know whether this was in each _rakʿah_ or in total.”
+Sometimes he \pbuh used to recite more than that: “He would recite sixty _āyāt_ or more”[^194]---one of the narrators said, “I do not know whether this was in each _rakʿah_ or in total.”
 
 He \pbuh used to recite _al-Rūm_ (Quran, 30)[^195] and sometimes _Yā Sīn_ (Quran, 36).[^196]
 
@@ -221,7 +221,7 @@ Sometimes he \pbuh would recite _al-Kāfirūn_ (Quran, 109) in the first _rakʿa
 
 He \pbuh used to recite _al-Fātiḥah_ and two _sūrahs_ in the first two _rakʿahs_, making the first one longer than the second.[^209]
 
-Sometimes he \pbuh would make lengthen it to the extent that the _Ẓuhr_ prayer would have started, and someone could go to a plain (_al-Baqī_), fulfill his need, [come back to his place,] make his ablution, and then come (to the mosque) while the Messenger of Allāh \pbuh was still in the first _rakʿah_; it was that long.[^210] Also, they used to think that he did it so that the people could catch the first _rakʿah_.[^211]
+Sometimes he \pbuh would make lengthen it to the extent that the _Ẓuhr_ prayer would have started, and someone could go to a plain (_al-Baqī_), fulfill his need, [come back to his place,] make his ablution, and then come (to the mosque) while the Messenger of Allāh \pbuh was still in the first _rakʿah_; it was that long.[^210] Also, they used to think that he \pbuh did it so that the people could catch the first _rakʿah_.[^211]
 
 He \pbuh used to recite in each of these two _rakʿah_ about thirty _āyāt_, such as _al-Fātiḥah_ followed by _al-Sajdah_ (Quran, 32).[^212]
 
@@ -251,7 +251,7 @@ He \pbuh used to recite about fifteen _āyāt_ in each of the first two _rakʿah
 
 He \pbuh used to recite _al-Fātiḥah_ in the last two.[^225] He \pbuh would let them hear an _āyah_ or so sometimes.[^226]
 
-He used to recite the _sūrahs_ mentioned under \hyperref[ux1e93uhr-prayer]{\textit{Ẓuhr Prayer}} above.
+He \pbuh used to recite the _sūrahs_ mentioned under \hyperref[ux1e93uhr-prayer]{\textit{Ẓuhr Prayer}}.
 
 ### _Maghrib_ Prayer
 
@@ -283,19 +283,19 @@ Also Hudhayfah ibn al-Yamān \mabpwthemtwo said,
 
 > I prayed with the Prophet \pbuh that night when he started _Sūrah al-Baqarah_ (Quran, 2). So I said (to myself), “He will make _rukūʿ_ after one hundred _āyāt_.” But he carried on, so I thought, “He will finish it (i.e. the _sūrah_) in two _rakʿahs_.” But he carried on, so I thought, “He will make _rukūʿ_ when he has finished it.” Then he started _Sūrah al-Nisā_ (Quran, 4) and recited it all, then he started _Sūrah Āl ʿImrān_ (Quran, 3)[^244] and recited it all. He was reciting slowly; when he came to an _āyah_ in which there was glorification of Allāh, he glorified Allāh; at an _āyah_ which had something to be asked for, he asked for it; at mention of seeking refuge, he sought refuge (with Allāh). Then he made _rukūʿ_...(to the end of the _ḥadīth_.)[^245]
 
-Also, one night when he \pbuh was ill he recited the Seven Long _Sūrahs_.[^246] Also, he \pbuh would (sometimes) recite one of these _surahs_ in each _rakʿah_.[^247]
+Also, one night when he \pbuh was ill he recited the Seven Long Sūrahs.[^246] Also, he \pbuh would (sometimes) recite one of these _surahs_ in each _rakʿah_.[^247]
 
-It was [totally] unknown for him \pbuh to recite the whole Quran in one night.[^248] In fact, he \pbuh did not recommend it for ʿAbd Allāh ibn ʿAmr \mabpwthemtwo when he said to him, “Recite the whole Quran in each month.” I said, “I have the power (to do more than that).” He said, “Recite it in twenty nights.” I said, “I have the power to do more.” He said, “Then recite it in seven days and do not go beyond that.”[^249] Then he allowed him to recite it in five days.[^250] Then he allowed him to recite it in three days.[^251] Further, he \pbuh forbade him from reciting it in less time than that,[^252] and he gave a reason for that by saying to him, “Whoever recites the Quran in less than three days does not understand it.”[^253] In another version: “He does not understand, the one who recites the Quran in less than three days.”[^254] Also when he said to him, “For every worshiper has a (period of) keenness[^255] and every (period of) keenness has a lapse,[^256] either towards a _sunnah_ or towards a _bidʿah_ (innovation); so he whose lapse is towards a _sunnah_ has found guidance, and he whose lapse is towards other than that has been destroyed.”[^257] For this reason, he \pbuh would not recite the whole Quran in less than three days.[^258]
+It was [totally] unknown for him \pbuh to recite the whole Quran in one night.[^248] In fact, he \pbuh did not recommend it for ʿAbd Allāh ibn ʿAmr \mabpwthemtwo when he said to him, “Recite the whole Quran in each month.” I said, “I have the power (to do more than that).” He \pbuh said, “Recite it in twenty nights.” I said, “I have the power to do more.” He \pbuh said, “Then recite it in seven days and do not go beyond that.”[^249] Then he \pbuh allowed him to recite it in five days.[^250] Then he \pbuh allowed him to recite it in three days.[^251] Further, he \pbuh forbade him from reciting it in less time than that,[^252] and he gave a reason for that by saying to him, “Whoever recites the Quran in less than three days does not understand it.”[^253] In another version: “He does not understand, the one who recites the Quran in less than three days.”[^254] Also when he \pbuh said to him, “For every worshiper has a (period of) keenness[^255] and every (period of) keenness has a lapse,[^256] either towards a _sunnah_ or towards a _bidʿah_ (innovation); so he whose lapse is towards a _sunnah_ has found guidance, and he whose lapse is towards other than that has been destroyed.”[^257] For this reason, he \pbuh would not recite the whole Quran in less than three days.[^258]
 
 He \pbuh used to say, “Whoever prays at night reciting two hundred _āyāt_ will be written down as one of the sincere devotees.”[^259] Also, he \pbuh used to recite _Banī Isrāʾīl_ (Quran, 17) and _al-Zumar_ (Quran, 39) every night.[^260] He \pbuh also used to say, “Whoever prays at night reciting a hundred _āyāt_ will not be written down as one of the heedless.”[^261] Sometimes he \pbuh would recite about fifty _āyāt_ or more in each _rakʿah_,[^262] or he would recite about as much as _al-Muzzammil_ (Quran, 73).[^263]
 
 He \pbuh would not pray all through the night[^264] except rarely, for once:
 
-> Khabbāb ibn al-Arat---who was present at (the Battle of) Badr with the Messenger of Allāh \pbuh---stayed up the whole night with the Messenger of Allāh \pbuh (in another version: a night when he prayed throughout it) until it was dawn. So when he \pbuh finished his prayer, Khabbāb \mabpwhim said to him, “O Messenger of Allāh, may my father and mother be sacrificed for you! Tonight, you have prayed a prayer the like of which I have never seen?” He \pbuh said, “Yes, it was a prayer of hope and fear; [indeed] I asked my Lord, Mighty and Sublime, three things; He granted me two, but refused me one. I asked my Lord that He would not destroy us the way the nations before us were (in another version: that He would not destroy my _Ummah_ with famine) and He granted me this; I asked my Lord, Mighty and Sublime, that He would not impose on us an enemy from outside us, and He granted me this; and I asked my Lord not to cover us with confusion in party strife, but He refused me this.”[^265]
+> Khabbāb ibn al-Arat---who was present at (the Battle of) Badr with the Messenger of Allāh \pbuh---stayed up the whole night with the Messenger of Allāh \pbuh (in another version: a night when he prayed throughout it) until it was dawn. So when he \pbuh finished his prayer, Khabbāb \mabpwhim said to him, “O Messenger of Allāh, may my father and mother be sacrificed for you! Tonight, you have prayed a prayer the like of which I have never seen?” He \pbuh said, “Yes, it was a prayer of hope and fear; [indeed] I asked my Lord, Almighty and Sublime, three things; He granted me two, but refused me one. I asked my Lord that He would not destroy us the way the nations before us were (in another version: that He would not destroy my _Ummah_ with famine) and He granted me this; I asked my Lord, Almighty and Sublime, that He would not impose on us an enemy from outside us, and He granted me this; and I asked my Lord not to cover us with confusion in party strife, but He refused me this.”[^265]
 
 Also, one night he stood (in prayer) repeating one _āyah_ until it was dawn:
 
-> «If You do punish them, they are Your servants; if You do forgive them, You are indeed The Exalted in Power, the Wise.» (Quran, 5:118) [with it he bowed, with it he prostrated, and with it he supplicated], [so in the morning Abū Dharr \mabpwhim said to him, “O Messenger of Allāh, you did not stop reciting this _āyah_ until it was morning; you bowed with it and you prostrated with it][and you supplicated with it,][whereas Allāh has taught you the whole Quran;] [if one of us were to do this, we would be stern with him?]”[He \pbuh said: “Indeed I asked my Lord, the Mighty and Sublime, for intercession for my _Ummah_. He granted it to me, and it will be possible if Allāh wills for whoever does not associate any partners with Allāh.”][^266]
+> «If You do punish them, they are Your servants; if You do forgive them, You are indeed The Exalted in Power, the Wise.» (Quran, 5:118) [with it he bowed, with it he prostrated, and with it he supplicated], [so in the morning Abū Dharr \mabpwhim said to him, “O Messenger of Allāh, you did not stop reciting this _āyah_ until it was morning; you bowed with it and you prostrated with it][and you supplicated with it,][whereas Allāh has taught you the whole Quran;] [if one of us were to do this, we would be stern with him?]”[He \pbuh said: “Indeed I asked my Lord, the Almighty and Sublime, for intercession for my _Ummah_. He granted it to me, and it will be possible if Allāh wills for whoever does not associate any partners with Allāh.”][^266]
 
 A man \mabpwhim said to him \pbuh, “O Messenger of Allāh, I have a neighbor who stands (in prayer) at night and does not recite anything except «Say: He is Allāh the One and Only» (Quran, 112), [repeating it,] [not adding anything else,]” as if he considered it little. So the Prophet \pbuh said, “By Him in Whose Hand is my soul, it is worth a third of the Quran.”[^267]
 
@@ -343,6 +343,6 @@ He \pbuh set the example of correcting the Imam when his recitation becomes mixe
 
 ## Seeking refuge and spitting lightly during prayer in order to repel temptation
 
-ʿUthmān ibn Abī al-ʿĀṣ \mabpwhim said to him \pbuh, “O Messenger of Allāh! The devil comes between me and my prayer and confuses me in my recitation!” So the Messenger of Allāh \pbuh said, “That is a devil called Khinzab, so when you sense his presence, seek refuge with Allāh from him, and spit lightly[^c19] on your left [three]{style="font-variant:small-caps;"} times.” He \mabpwhim said, “So when I did that, Allāh caused him to go away from me.”[^c20]
+ʿUthmān ibn Abī al-ʿĀṣ \mabpwhim said to him \pbuh, “O Messenger of Allāh! The devil comes between me and my prayer and confuses me in my recitation!” So the Messenger of Allāh \pbuh said, “That is a devil called Khinzab, so when you sense his presence, seek refuge with Allāh from him, and spit lightly[^c19] on your left [three times]{style="font-variant:small-caps;"}.” He \mabpwhim said, “So when I did that, Allāh caused him to go away from me.”[^c20]
 
 

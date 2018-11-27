@@ -46,7 +46,7 @@ He would say different types of remembrance of Allāh and supplication, any one 
 
     “How Perfect is my Lord, the Supreme!,” [three times]{style="font-variant:small-caps;"}.[^d44] But sometimes, he would repeat it more than that.[^d45] Once, in night prayer, he repeated it so much that his _rukūʿ_ became nearly as long as his standing before it, in which he had recited three of the Long Sūrahs: _al-Baqarah_, _al-Nisā_, and _Āl ʿImrān_. This prayer was full of supplication and seeking forgiveness, and the _ḥadīth_ has already been mentioned under \hyperref[tahajjud-prayer]{\textit{Recitation in Tahajjud Prayer}}.
 
-2.  \begin{Arabicitem}سُبْحَانَ رَبِّيَ الْعَظِيمِ وبِحَمْدِهِ\end{Arabicitem}
+2.  \begin{Arabicitem}سُبْحَانَ رَبِّيَ الْعَظِيمِ وبِحَمْدِهِ.\end{Arabicitem}
 
     “How Perfect is my Lord, the Supreme, and Praised be He,” [three times]{style="font-variant:small-caps;"}.[^d46]
 
@@ -58,15 +58,15 @@ He would say different types of remembrance of Allāh and supplication, any one 
 
     “How Perfect You are O Allāh, and Praises are for You. O Allāh, forgive me.” He would say it often in his _rukūʿ_ and _sujūd_, implementing (the order of\kern 1.6pt) the Quran.[^d49]
 
-5.  \begin{Arabicitem}اللّٰهُمَّ لَكَ رَكَعْتُ، وَبِكَ آمَنْتُ، وَلَكَ أَسْلَمْتُ، [أَنْتَ رَبِّي،] خَشَعَ لَكَ سَمْعِي وَبَصَرِي وَمُخِّي وَعَظْمِي (وَفِي رِوَايَة: وَعِظَامِي) وَعَصَبِي، [وَمَا اسْتَقَلَّتْ بِهِ قَدَمَيَّ للهِ رَبِّ الْعَالَمِينَ].\end{Arabicitem}
+5.  \begin{Arabicitem}اللّٰهُمَّ لَكَ رَكَعْتُ، وَبِكَ آمَنْتُ، وَلَكَ أَسْلَمْتُ، [أَنْتَ رَبِّي،] خَشَعَ لَكَ سَمْعِي وَبَصَرِي وَمُخِّي وَعَظْمِي (وَفِي رِوَايَة: وَعِظَامِي) وَعَصَبِي، [وَمَا اسْتَقَلَّتْ بِهِ قَدَمَيَّ لِلّٰهِ رَبِّ الْعَالَمِينَ].\end{Arabicitem}
 
     “O Allāh! To You I have bowed; in You I have believed; to You I have submitted; [You are my Lord]; humbled for You are my hearing, my seeing, my marrow, my bone (in one narration: my bones), my sinews, [and whatever my feet carry[^d50](are humbled) for Allāh, Lord of the Worlds].”[^d51]
 
-6.  \begin{Arabicitem}اللّٰهُمَّ لَكَ رَكَعْتُ، وَبِكَ آمَنْتُ، وَلَكَ أَسْلَمْتُ، وَعَلَيْكَ تَوَكَّلْتُ، أَنْتَ رَبِّي، خَشَعَ سَمْعِي وَبَصَرِي وَدَمِي وَلَحْمِي وَعَظْمِي وَعَصَبِي للهِ رَبِّ الْعَالَمِينَ.\end{Arabicitem}
+6.  \begin{Arabicitem}اللّٰهُمَّ لَكَ رَكَعْتُ، وَبِكَ آمَنْتُ، وَلَكَ أَسْلَمْتُ، وَعَلَيْكَ تَوَكَّلْتُ، أَنْتَ رَبِّي، خَشَعَ سَمْعِي وَبَصَرِي وَدَمِي وَلَحْمِي وَعَظْمِي وَعَصَبِي لِلّٰهِ رَبِّ الْعَالَمِينَ.\end{Arabicitem}
 
     “O Allāh! To You I have bowed; in You I have believed; to You I have submitted; in You I have placed my trust; You are my Lord; my hearing, my seeing, my blood, my flesh, my bones, and my sinews are humbled for Allāh, Lord of the Worlds.”[^d52]
 
-7.  \begin{Arabicitem}سُبْحَانَ ذِي الْجَبَرُوتِ وَالْمَلَكُوتِ وَالْكِبْرِيَاءِ وَالْعَظَمَةِ\end{Arabicitem}
+7.  \begin{Arabicitem}سُبْحَانَ ذِي الْجَبَرُوتِ وَالْمَلَكُوتِ وَالْكِبْرِيَاءِ وَالْعَظَمَةِ.\end{Arabicitem}
 
     “How Perfect is He Who has all Power, Kingdom, Magnificence, and Supremacy,” which he used to say in night prayer.
 
@@ -89,7 +89,7 @@ He \pbuh also ordered _the one who prayed badly_ to do that, when he said to him
 
 Next, he \pbuh would say while standing,
 
-<div lang="ar">رَبَّنَا وَلَكَ الْحَمْدُ.</div>  
+<div lang="ar">رَبَّنَا [وَ]لَكَ الْحَمْدُ.</div>  
 “Our Lord, [and] to You be all Praise.”[^d59]
 
 He \pbuh has commanded all worshipers, whether behind an Imam or not, to do the above on rising from _rukūʿ_, by saying “Pray as you have seen me praying.”[^d60]
@@ -117,7 +117,7 @@ Sometimes, he \pbuh would add at the beginning of either of these:
 
 Sometimes, he \pbuh would add either:
 
-4. \begin{Arabicitem}...مِلْءَ السَّمَاوَاتِ، وَمِلْءَ الأَرْضِ، وَمِلْءَ مَا شِئْتَ مِنْ شَيْءٍ بَعْدُ\end{Arabicitem}  
+4. \begin{Arabicitem}...مِلْءَ السَّمَاوَاتِ، وَمِلْءَ الأَرْضِ، وَمِلْءَ مَا شِئْتَ مِنْ شَيْءٍ بَعْدُ.\end{Arabicitem}  
     “...Filling the heavens, filling the earth, and filling whatever else You wish,”[^d68] or
 
 5. \begin{Arabicitem}...مِلْءَ السَّمَاوَاتِ، [وَمِلْءَ] الأَرْضِ، ومَا بَيْنَهُمَا وَمِلْءَ مَا شِئْتَ مِنْ شَيْءٍ بَعْدُ.\end{Arabicitem}  
@@ -135,7 +135,7 @@ Or, sometimes, the addition would be:
 
 Sometimes, he \pbuh would say the following during night prayer:
 
-8. \begin{Arabicitem}لِرَبِّيَ الْحَمْدُ، لِرَبِّيَ الْحَمْدُ\end{Arabicitem}
+8. \begin{Arabicitem}لِرَبِّيَ الْحَمْدُ، لِرَبِّيَ الْحَمْدُ.\end{Arabicitem}
     “To my Lord be all Praise, to my Lord be all Praise,” repeating it until his standing was about as long as his _rukūʿ_, which had been nearly as long as his first standing, in which he had recited _al-Baqarah_ (Quran, 2).[^d72]
 
 9. \begin{Arabicitem}رَبَّنَا وَلَكَ الْحَمْدُ حَمْداً كَثِيراً طَيِّباً مُبَارَكاً فِيهِ، [مُبَارَكاً عَلَيْهِ كَمَا يُحِبُّ رَبُّنَا وَيَرْضَى].\end{Arabicitem}  

@@ -42,8 +42,6 @@ He \pbuh also used to say, “Do not spread your arms [the way a beast of prey d
 
 He \pbuh used to command the completion of _rukūʿ_ and _sujūd_, comparing someone not doing so to the hungry man who eats one or two dates, which are of no use to him, and also saying about him, “he is indeed one of the worst thieves among the people.”
 
-<!-- the-rukux16bux2bf -->
-
 He also ruled that the prayer of one who does not straighten his spine fully in _rukūʿ_ and _sujūd_ is invalid, as has been mentioned under \hyperref[the-rukux16bux2bf]{\textit{Rukūʿ}} and ordered _the one who prayed badly_ to be at ease in his _sujūd_, as mentioned before.
 
 ## The _adhkār_ of _sujūd_
@@ -52,19 +50,19 @@ He \pbuh would say any one of the following remembrances of Allāh and supplicat
 
 <!-- TODO Check names of sections, as I've renamed some of the ones that have passed -->
 
-1. \begin{Arabicitem}سُبْحَانَ رَبِّيَ الْأَعْلَى\end{Arabicitem}  
+1. \begin{Arabicitem}سُبْحَانَ رَبِّيَ الْأَعْلَى.\end{Arabicitem}  
     “How Perfect is my Lord, the Most High,” [three times]{style="font-variant:small-caps;"}.[^e114] Sometimes, he would repeat it more times than that.[^e115] Once, he repeated it so much that his _sujūd_ were nearly as long as his standing, in which he had recited three of the Long Sūrahs: _al-Baqarah_, _al-Nisā_, and _Āl ʿImrān_. That prayer was full of supplication and seeking of forgiveness, as mentioned before under \hyperref[tahajjud-prayer]{\textit{Recitation in Tahajjud Prayer}}.
 
-2. \begin{Arabicitem}سُبْحَانَ رَبِّيَ الْأَعْلَى وبِحَمْدِهِ\end{Arabicitem}  
+2. \begin{Arabicitem}سُبْحَانَ رَبِّيَ الْأَعْلَى وبِحَمْدِهِ.\end{Arabicitem}  
      “How Perfect is my Lord, the Most High, and Praised be He,” [three times]{style="font-variant:small-caps;"}.[^e116]
 
 3. \begin{Arabicitem}سُبُّوحٌ قُدُّوسٌ، رَبُّ الْمَلَائِكَةِ وَالرُّوحِ.\end{Arabicitem}  
     “Perfect, Blessed, Lord of the Angels and the Spirit.”[^e117]
 
-4. \begin{Arabicitem}سُبْحَانَكَ اللّٰهُمَّ رَبَّنَا وَبِحَمْدِكَ اللّٰهُمَّ اغْفِرْ لِي\end{Arabicitem}  
+4. \begin{Arabicitem}سُبْحَانَكَ اللّٰهُمَّ رَبَّنَا وَبِحَمْدِكَ اللّٰهُمَّ اغْفِرْ لِي.\end{Arabicitem}  
     “How perfect You are O Allāh, our Lord, and Praised. O Allāh! Forgive me,” which he would say often in his _rukūʿ_ and _sujūd_, implementing the order of the Quran.[^e118]
 
-5. \begin{Arabicitem}اللّٰهُمَّ لَكَ سَجَدْتُ، وَبِكَ آمَنْتُ، وَلَكَ أَسْلَمْتُ، [وأَنْتَ رَبِّي]، سَجَدَ وَجْهِي لِلَّذِي خَلَقَهُ وَصَوَّرَهُ، [فَأَحْسَنَ صُوَرَهُ،] وشَقَّ سَمْعَهُ وَبَصَرَهُ، [فـ]تَبَارَكَ اللهُ أَحْسَنُ الْخَالِقِيْنَ!\end{Arabicitem}  
+5. \begin{Arabicitem}اللّٰهُمَّ لَكَ سَجَدْتُ، وَبِكَ آمَنْتُ، وَلَكَ أَسْلَمْتُ، [وأَنْتَ رَبِّي،] سَجَدَ وَجْهِي لِلَّذِي خَلَقَهُ وَصَوَّرَهُ، [فَأَحْسَنَ صُوَرَهُ،] وشَقَّ سَمْعَهُ وَبَصَرَهُ، [فـ]تَبَارَكَ اللهُ أَحْسَنُ الْخَالِقِيْنَ!\end{Arabicitem}  
     “O Allāh! For you I have prostrated; in You I have believed; to You I have submitted; [You are my Lord;] my face has prostrated for the One Who created it and shaped it, [shaped it excellently,] then brought forth its hearing and vision: [so] blessed be Allāh, the Best to Create!”[^e119]
 
 6. \begin{Arabicitem}اللّٰهُمَّ اغْفِرْ لِي ذَنْبِي كُلَّهُ، دِقَّهُ وَجِلَّهُ، وَأَوَّلَهُ وَآخِرَهُ، وَعَلَانِيَتَهُ وَسِرَّهُ.\end{Arabicitem}  
@@ -73,7 +71,7 @@ He \pbuh would say any one of the following remembrances of Allāh and supplicat
 7. \begin{Arabicitem}سَجَدَ لَكَ سَوَادِي وَخَيَالِي، وَآمَنَ بِكَ فُؤَادِي، أَبُوءُ بِنِعْمَتِكَ عَلَيَّ، هَذِهِ يَدَيَّ وَمَا جَنَيْتُ عَلَى نَفْسِي.\end{Arabicitem}  
     “My person and my shadow have prostrated to You; my heart has believed in You; I acknowledge Your favors towards me: here are my hands and whatever I have earned against myself.”[^e121]
 
-8.  \begin{Arabicitem}سُبْحَانَ ذِي الْجَبَرُوتِ وَالْمَلَكُوتِ وَالْكِبْرِيَاءِ وَالْعَظَمَةِ\end{Arabicitem}  
+8.  \begin{Arabicitem}سُبْحَانَ ذِي الْجَبَرُوتِ وَالْمَلَكُوتِ وَالْكِبْرِيَاءِ وَالْعَظَمَةِ.\end{Arabicitem}  
     “How Perfect is He Who has all Power, Kingdom, Magnificence, and Supremacy,”[^e122] which he would say in night prayer, as with the following ones:
 
 9.  \begin{Arabicitem}سُبْحَانَكَ [اللّٰهُمَّ] وَبِحَمْدِكَ، لا إلٰهَ إلَّا أَنْتَ.\end{Arabicitem}  
