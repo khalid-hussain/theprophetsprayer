@@ -3,9 +3,6 @@
 
 \minitoc
 
-<!-- TODO double check the Arabic -->
-<!-- TODO Fix the section hierarchy -->
-
 Next, he \pbuh would sit for _tashahhud_ after finishing the second _rakʿah_. In a two _rakʿah_ prayer such as _Fajr_, he \pbuh would sit _muftarishan_,[^g175] as he used to sit between the two _sajdahs_, and he \pbuh would sit in the first _tashahhud_ similarly[^g176] in a three- or four-_rakʿah_ prayer.
 
 He also ordered _the one who prayed badly_ thus, saying to him, “When you sit in the middle of the prayer, then be calm, spread your left thigh and perform _tashahhud_.”[^g177]
@@ -36,9 +33,9 @@ He \pbuh would recite the _Taḥiyyah_ after every two _rakʿahs_;[^g193] the fi
 
 When he \pbuh forgot to perform the _tashahhud_ after the first two _rakʿahs_, he would prostrate (twice) for forgetfulness.[^g195]
 
-He \pbuh used to order them to perform _tashahhud_, saying, “When you sit after every two _rakʿahs_, then say: ‘All compliments...’ and then each of you should select the supplication he likes best and supplicate to Allāh, Mighty and Sublime [with it];”[^g196] in another version: “Say, ‘All compliments...’ in every sitting,”[^g197] and he \pbuh also ordered _the one who prayed badly_ to do so, as has been mentioned.
+He \pbuh used to order them to perform _tashahhud_, saying, “When you sit after every two _rakʿahs_, then say: ‘All compliments...’ and then each of you should select the supplication he likes best and supplicate to Allāh, Almighty and Sublime [with it];”[^g196] in another version: “Say, ‘All compliments...’ in every sitting,”[^g197] and he \pbuh also ordered _the one who prayed badly_ to do so, as has been mentioned.
 
-He \pbuh would teach them the _tashahhud_ the way he taught them _Sūrahs_ of the Quran,[^g198] and the Sunnah is to say it quietly.[^g199]
+He \pbuh would teach them the _tashahhud_ the way he taught them _sūrahs_ of the Quran,[^g198] and the Sunnah is to say it quietly.[^g199]
 
 ## Manner of _tashahhud_
 
@@ -46,32 +43,51 @@ He taught several ways of _tashahhud_.
 
 1. The _tashahhud_ of Ibn Masʿūd \mabpwhim, who said, “The Messenger of Allāh \pbuh taught me the _tashahhud_, [with] my palm between his palms, the way he taught me _Sūrahs_ of the Quran:
 
-    <div lang="ar">التَّحِيَّـاتُ للهِ وَالصَّلَـوَاتُ وَالطَّيِّبَـاتُ، السَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ، السَّلَامُ عَلَيْنَا وَعَلَى عِبَادِ اللهِ الصَّالِحِينَ، أَشْهَدُ أَنْ لا إِلٰهَ إِلَّا اللهُ وَأَشْهَدُ أَنَّ مُحَمَّداً عَبْدُهُ وَرَسُولُهُ.</div>  
-    ‘All compliments,[^g200] prayers,[^g201] and pure words[^g202] are due to Allāh. Peace be on you,[^g203] O Prophet, and also the mercy of Allāh and His blessings.[^g204] Peace be on us, and on the righteous slaves of Allāh. [For when one says that, it includes every righteous slave in the heaven and the earth]. I bear witness that none has the right to be worshiped except Allāh, and I bear witness that Muḥammad is His slave and messenger.’
+    <div lang="ar">التَّحِيَّاتُ لِلّٰهِ وَالصَّلَوَاتُ وَالطَّيِّبَاتُ،  
+السَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ،  
+السَّلَامُ عَلَيْنَا وَعَلَى عِبَادِ اللهِ الصَّالِحِينَ،  
+أَشْهَدُ أَنْ لا إِلٰهَ إِلَّا اللهُ وَأَشْهَدُ أَنَّ مُحَمَّداً عَبْدُهُ وَرَسُولُهُ.</div>  
+    ‘All compliments,[^g200] prayers,[^g201] and pure words[^g202] are owed to Allāh. Peace be on you,[^g203] O Prophet, and also the mercy of Allāh and His blessings.[^g204] Peace be on us, and on the righteous slaves of Allāh. [For when one says that, it includes every righteous slave in the heaven and the earth.] I bear witness that none has the right to be worshiped except Allāh, and I bear witness that Muḥammad is His slave and messenger.’
 
     This was while he was among us, but after he was taken, we would say:
 
     <div lang="ar">السَّلَامُ عَلَى النَّبِيِّ.</div>  
     ‘Peace be on the Prophet.’\thinspace”[^g205]
 
-2. The _tashahhud_ of Ibn ʿAbbās \mabpwthemtwo: “The Messenger of Allāh \pbuh used to teach us the _tashahhud_ the way he taught us [_Sūrahs_ of] the Quran; he used to say,
+2. The _tashahhud_ of Ibn ʿAbbās \mabpwthemtwo: “The Messenger of Allāh \pbuh used to teach us the _tashahhud_ the way he taught us [_sūrahs_ of] the Quran; he used to say,
 
-    <div lang="ar">التَّحِيَّـاتُ الْمُبَارَكَاتُ، الصَّلَـوَاتُ الطَّيِّبَـاتُ للهِ، [الـ]سلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ، [الـ]سلَامُ عَلَيْنَا وَعَلَى عِبَادِ اللهِ الصَّالِحِينَ، أَشْهَدُ أَنْ لا إِلٰهَ إِلَّا اللهُ، وَ[أَشْهَدُ] أَنَّ مُحَمَّداً رَسُولُ اللهِ (وَفِي رِوَايَة: عَبْدُهُ وَرَسُولُهُ).</div>  
+    <div lang="ar">التَّحِيَّاتُ الْمُبَارَكَاتُ الصَّلَوَاتُ الطَّيِّبَاتُ لِلّٰهِ،  
+[الـ]سلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ،  
+[الـ]سلَامُ عَلَيْنَا وَعَلَى عِبَادِ اللهِ الصَّالِحِينَ،  
+أَشْهَدُ أَنْ لا إِلٰهَ إِلَّا اللهُ،  
+وَ[أَشْهَدُ] أَنَّ مُحَمَّداً رَسُولُ اللهِ (وَفِي رِوَايَة: عَبْدُهُ وَرَسُولُهُ).</div>  
     ‘All compliments, blessed words, prayers, and pure words are due to Allāh. Peace be on you, O Prophet, and also the mercy of Allāh and His blessings. Peace be on us and on the righteous slaves of Allāh. I bear witness that none has the right to be worshiped except Allāh, and [I bear witness] that Muḥammad is the Messenger of Allāh (in one narration: ...is His slave and messenger).’”[^g206]
 
 3. The _tashahhud_ of Ibn ʿUmar \mabpwthemtwo, who reported the Messenger of Allāh \pbuh as saying in the _tashahhud_:
 
-    <div lang="ar">التَّحِيَّاتُ للهِ [وَ]الصَّلَوَاتُ [وَ]الطَّيِّبَاتُ، السَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللهِ [وَبَرَكَاتُهُ] السَّلَامُ عَلَيْنَا وَعَلَى عِبَادِ اللهِ الصَّالِحِينَ، أَشْهَدُ أَنْ لَا إِلٰهَ إِلَّا اللهُ [وَحْدَهُ لَا شَرِيكَ لَهُ] وَأَشْهَدُ أَنَّ مُحَمَّداً عَبْدُهُ وَرَسُولُهُ.</div>  
+    <div lang="ar">التَّحِيَّاتُ لِلّٰهِ [وَ]الصَّلَوَاتُ [وَ]الطَّيِّبَاتُ،  
+السَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللهِ [وَبَرَكَاتُهُ]  
+السَّلَامُ عَلَيْنَا وَعَلَى عِبَادِ اللهِ الصَّالِحِينَ،  
+أَشْهَدُ أَنْ لَا إِلٰهَ إِلَّا اللهُ [وَحْدَهُ لَا شَرِيكَ لَهُ]  
+وَأَشْهَدُ أَنَّ مُحَمَّداً عَبْدُهُ وَرَسُولُهُ.</div>  
     “All compliments, prayers, and good words are due to Allāh. Peace be on you, O Prophet, and also the mercy of Allāh.”---Ibn ʿUmar \mabpwthemtwo said, “I add:[^g207] ‘...and His blessings.’” ---“Peace be on us and on the righteous slaves of Allāh. I bear witness that none has the right to be worshiped except Allāh”---Ibn ʿUmar \mabpwthemtwo said, “I add:[^g208] ‘...alone, He has no partner,’”---“and I bear witness that Muḥammad is His slave and messenger.”[^g209]
 
 4. The _tashahhud_ of Abū Mūsā al-Ashʿarī \mabpwhim, who said that the Messenger of Allāh \pbuh said, “...when you are sitting, the first thing each of you says should be:
 
-    <div lang="ar">التَّحِيَّاتُ الطَّيِّبَاتُ، الصَّلَوَاتُ للهِ، السَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ، السَّلَامُ عَلَيْنَا وَعَلَى عِبَادِ اللهِ الصَّالِحِينَ، أَشْهَدُ أَنْ لَا إِلٰهَ إِلَّا اللهُ [وَحْدَهُ لَا شَرِيكَ لَهُ]، وَأَشْهَدُ أَنَّ مُحَمَّداً عَبْدُهُ وَرَسُولُهُ.</div>  
+    <div lang="ar">التَّحِيَّاتُ الطَّيِّبَاتُ الصَّلَوَاتُ لِلّٰهِ،  
+السَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ،  
+السَّلَامُ عَلَيْنَا وَعَلَى عِبَادِ اللهِ الصَّالِحِينَ،  
+أَشْهَدُ أَنْ لَا إِلٰهَ إِلَّا اللهُ [وَحْدَهُ لَا شَرِيكَ لَهُ]،  
+وَأَشْهَدُ أَنَّ مُحَمَّداً عَبْدُهُ وَرَسُولُهُ.</div>  
     ‘All compliments, good words and prayers are due to Allāh. Peace be on you, O Prophet, and also the mercy of Allāh and His blessings. Peace be on us, and on the righteous slaves of Allāh. I bear witness that none has the right to be worshiped except Allāh [alone, He has no partner], and I bear witness that Muḥammad is His slave and messenger.’ ---seven phrases, and they are the greetings in the prayer.”[^g210]
 
 5. The _tashahhud_ of ʿUmar ibn al-Khaṭṭāb \mabpwhim, who would teach the people the _tashahhud_ while on the pulpit, saying, “Say:
 
-    <div lang="ar">التَّحِيَّاتُ للهِ، الزَّاكِيَاتُ للهِ، الطَّيِّبَاتُ للهِ، الصَّلَوَاتُ للهِ، السَّلَامُ عَلَيْكَ أَيَّهَا النَّبِيُّ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ، السَّلَامُ عَلَيْنَا وَعَلَى عِبَادُ اللهِ الصَّالِحِيْن أَشْهَدُ أَنْ لَا إِلٰهَ إِلَّا اللهُ، وَأَشْهَدُ أَنَّ مُحَمَّداً عَبْدُهُ وَرَسُولُهُ.</div>  
+    <div lang="ar">التَّحِيَّاتُ لِلّٰهِ، الزَّاكِيَاتُ لِلّٰهِ، الطَّيِّبَاتُ [لِلّٰهِ]، الصَّلَوَاتُ لِلّٰهِ،  
+السَّلَامُ عَلَيْكَ أَيَّهَا النَّبِيُّ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ،  
+السَّلَامُ عَلَيْنَا وَعَلَى عِبَادِ اللهِ الصَّالِحِيْنَ،  
+أَشْهَدُ أَنْ لَا إِلٰهَ إِلَّا اللهُ،  
+وَأَشْهَدُ أَنَّ مُحَمَّداً عَبْدُهُ وَرَسُولُهُ.</div>  
     ‘All compliments are due to Allāh; all pure titles are due to Allāh; all good words [are due to Allāh]; all prayers are due to Allāh. Peace be on you, O Prophet, and also the mercy of Allāh and His blessings. Peace be on us and on the righteous slaves of Allāh. I bear witness that none has the right to be worshiped except Allāh, and I bear witness that Muḥammad is His slave and messenger.’\thinspace”[^g211]
 
 ## Sending prayers on the Prophet \pbuh

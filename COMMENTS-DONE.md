@@ -1084,3 +1084,9 @@ K: Check mini toc width (Can it be widened?)
 [Dua five, check comma of Arabic with English]
 
 [Duas of Sujud, add periods to all]
+
+# Tashahhud
+
+[Fix Arabic of Tashahhud Duas, remove Kashida]
+
+[Compare Arabic and their translations (Tashahhud Duas)]

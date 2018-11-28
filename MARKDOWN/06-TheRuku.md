@@ -76,7 +76,7 @@ He \pbuh used to make his _rukūʿ_, his standing after _rukūʿ_, his _sujūd_,
 
 ## Forbiddance of reciting the Quran in _rukūʿ_
 
-He used to forbid recitation of the Quran in _rukūʿ_ and _sujūd_.[^d54] Further, he used to say, “Verily, I have indeed been forbidden from reciting the Quran in _rukūʿ_ or _sujūd_. In the _rukūʿ_, therefore, glorify the Supremacy of the Lord, Mighty and Sublime, in it; as for the _sujūd_, exert yourselves in supplication in it, for it is most likely that you will be answered.”[^d55]
+He used to forbid recitation of the Quran in _rukūʿ_ and _sujūd_.[^d54] Further, he used to say, “Verily, I have indeed been forbidden from reciting the Quran in _rukūʿ_ or _sujūd_. In the _rukūʿ_, therefore, glorify the Supremacy of the Lord, Almighty and Sublime, in it; as for the _sujūd_, exert yourselves in supplication in it, for it is most likely that you will be answered.”[^d55]
 
 ## Rising from _rukūʿ_ and what is to be said then
 

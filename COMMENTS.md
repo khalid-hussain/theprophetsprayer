@@ -67,11 +67,7 @@ K: Remove hyphenation
 # 7.5 Forbiddance of reciting the Quran in sujūd
 [Rephrase part of section]
 
-# Tashahhud
-
-[Fix Arabic of Tashahhud Duas, remove Kashida]
-
-[Compare Arabic and their translations (Tashahhud Duas)]
+# Sending blessings on the Prophet
 
 [First dua of sending blessings on the prophet has a discrepancy between translation and text]
 
