@@ -94,25 +94,45 @@ He taught several ways of _tashahhud_.
 
 He \pbuh used to send prayers on himself in the first _tashahhud_ as well as the other.[^g212] He also established it for his _Ummah_, ordering them to send prayers on him after sending peace on him,[^g213] and he taught them several ways of doing so:
 
-1. \begin{Arabicitem}اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ، وَعَلَى أَهْلِ بَيْتِهِ، وَعَلَى أَزْوَاجِهِ وَذُرِّيَّتِهِ، كَمَا صَلَّيْتَ عَلَى آلِ إِبرَاهِيمَ إِنَّكَ حَمِيدٌ، وَبارِكْ عَلَى مُحَمَّدٍ وَعَلَى أَهْلِ بَيْتِهِ، وَعَلَى أَزْوَاجِهِ وَذُرِّيَّتِهِ، كَمَا بارَكْتَ عَلَى آلِ إِبرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ.\end{Arabicitem}  
-    “O Allāh! Send prayers on Muḥammad,[^g214] and on his household, and on his wives and progeny, as you sent prayers on the family of Ibrāhīm; You are indeed Worthy of Praise, Full of Glory. And send blessings on Muḥammad,[^g215] and his household, and his wives and progeny, as you sent blessings on the family of Ibrāhīm; You are indeed Worthy of Praise, Full of Glory.” This supplication he would use himself.[^g216]
+1. \begin{Arabicitem}اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى أَهْلِ بَيْتِهِ وَعَلَى أَزْوَاجِهِ وَذُرِّيَّتِهِ،\\
+كَمَا صَلَّيْتَ عَلَى آلِ إِبرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ،\\
+وَبارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ بَيْتِهِ وَعَلَى أَزْوَاجِهِ وَذُرِّيَّتِهِ،\\
+كَمَا بارَكْتَ عَلَى آلِ إِبرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ.\end{Arabicitem}  
+    “O Allāh! Send prayers on Muḥammad,[^g214] and on his household, and on his wives and progeny, as you sent prayers on the family of Ibrāhīm; You are indeed Worthy of Praise, Full of Glory. And send blessings on Muḥammad,[^g215] and on his household, and on his wives and progeny, as you sent blessings on the family of Ibrāhīm; You are indeed Worthy of Praise, Full of Glory.” This supplication he \pbuh would use himself.[^g216]
 
-2. \begin{Arabicitem}اللّٰهُمَّ صَلِّ عَلَى مُحَمَّدٍ، وَعَلَى آلِ مُحَمَّدٍ، كَمَا صَلَّيْتَ عَلَى [إِبْرَاهِيمَ، وَعَلَى] آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ، اللّٰهُمَّ بَارِكْ عَلَى مُحَمَّدٍ، وَعَلَى آلِ مُحَمَّدٍ، كَمَا بَارَكْتَ عَلَى [إِبْرَاهِيمَ وَعَلَى] آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ.\end{Arabicitem}  
+2. \begin{Arabicitem}اللّٰهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ،\\
+كَمَا صَلَّيْتَ عَلَى [إِبْرَاهِيمَ وَعَلَى] آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ،\\
+اللّٰهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ،\\
+كَمَا بَارَكْتَ عَلَى [إِبْرَاهِيمَ وَعَلَى] آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ.\end{Arabicitem}  
     “O Allāh! Send prayers on Muḥammad, and on the family of Muḥammad, as you sent prayers on [Ibrāhīm, and on][^g217] the family of Ibrāhīm; You are indeed Worthy of Praise, Full of Glory. O Allāh! Send blessings on Muḥammad, and on the family of Muḥammad, as you sent blessings on [Ibrāhīm, and on][^g218] the family of Ibrāhīm; You are indeed Worthy of Praise, Full of Glory.”[^g219]
 
-3. \begin{Arabicitem}اللّٰهُمَّ صَلِّ عَلَى مُحَمَّدٍ، وَعَلَى آلِ مُحَمَّدٍ، كَمَا صَلَّيْتَ عَلَى [إِبْرَاهِيمَ، وَعَلَى] آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ، اللّٰهُمَّ بَارِكْ عَلَى مُحَمَّدٍ، وَعَلَى آلِ مُحَمَّدٍ، كَمَا بَارَكْتَ عَلَى [إِبْرَاهِيمَ وَعَلَى] آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ.\end{Arabicitem}  
+3. \begin{Arabicitem}اللّٰهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ،\\
+كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ [وَآلِ إِبْرَاهِيمَ] إِنَّكَ حَمِيدٌ مَجِيدٌ،\\
+وَبَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ،\\
+كَمَا بَارَكْتَ عَلَى [إِبْرَاهِيمَ وَ] آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ.\end{Arabicitem}  
     “O Allāh! Send prayers on Muḥammad, and on the family of Muḥammad, as you sent prayers on Ibrāhīm, [and the family of Ibrāhīm]; You are indeed Worthy of Praise, Full of Glory. And send blessings on Muḥammad, and on the family of Muḥammad, as you sent blessings on [Ibrāhīm, and] the family of Ibrāhīm; You are indeed Worthy of Praise, Full of Glory.”[^g220]
 
-4. \begin{Arabicitem}اللّٰهُمَّ صَلِّ عَلَى مُحَمَّدٍ [النَّبِيِّ الْأُمِّيِّ]، وَعَلَى آلِ مُحَمَّدٍ، كَمَا صَلَّيْتَ عَلَى [آلِ] إِبْرَاهِيمَ، وَبَارِكْ عَلَى مُحَمَّدٍ [النَّبِيِّ الْأُمِّيِّ]، كَمَا بَارَكْتَ عَلَى [آلِ] إِبْرَاهِيمَ فِي العَالَمِينَ، إِنَّكَ حَمِيدٌ مَجِيدٌ.\end{Arabicitem}  
+4. \begin{Arabicitem}اللّٰهُمَّ صَلِّ عَلَى مُحَمَّدٍ [النَّبِيِّ الْأُمِّيِّ] وَعَلَى آلِ مُحَمَّدٍ،\\
+كَمَا صَلَّيْتَ عَلَى [آلِ] إِبْرَاهِيمَ،\\
+وَبَارِكْ عَلَى مُحَمَّدٍ [النَّبِيِّ الْأُمِّيِّ] وَعَلَى آلِ مُحَمَّدٍ،\\
+كَمَا بَارَكْتَ عَلَى [آلِ] إِبْرَاهِيمَ فِي العَالَمِينَ، إِنَّكَ حَمِيدٌ مَجِيدٌ.\end{Arabicitem}  
     “O Allāh! Send prayers on Muḥammad [the Unlettered Prophet], and on the family of Muḥammad, as you sent prayers on [the family of] Ibrāhīm; and send blessings on Muḥammad [the Unlettered Prophet] and the family of Muḥammad, as you sent blessings on [the family of] Ibrāhīm among the nations; You are indeed Worthy of Praise, Full of Glory.”[^g221]
 
-5. \begin{Arabicitem}اللّٰهُمَّ صَلِّ عَلَى مُحَمَّدٍ عَبْدِكَ وَرَسُولِكَ، كَمَا صَلَّيْتَ عَلَى [آلِ] إِبْرَاهِيْمَ، وَبَارِكْ عَلَى مُحَمَّدٍ [عَبْدِكَ وَرَسُولِكَ]، كَمَا بَارَكْتَ عَلَى إِبْرَاهِيْمَ [وَعَلَى آلِ إِبْرَاهِيْمَ].\end{Arabicitem}  
-    “O Allāh! Send prayers on Muḥammad, Your slave and messenger, as You sent prayers on [the family of] Ibrāhīm. And send blessings on Muḥammad [Your slave and messenger], as you sent blessings on Ibrāhīm [and on the family of Ibrāhīm].”[^g222]
+5. \begin{Arabicitem}اللّٰهُمَّ صَلِّ عَلَى مُحَمَّدٍ عَبْدِكَ وَرَسُولِكَ،\\
+كَمَا صَلَّيْتَ عَلَى [آلِ] إِبْرَاهِيْمَ،\\
+وَبَارِكْ عَلَى مُحَمَّدٍ [عَبْدِكَ وَرَسُولِكَ]، [وَعَلَى آلِ مُحَمَّدٍ،]\\
+كَمَا بَارَكْتَ عَلَى إِبْرَاهِيْمَ [وَعَلَى آلِ إِبْرَاهِيْمَ].\end{Arabicitem}  
+    “O Allāh! Send prayers on Muḥammad, Your slave and messenger, as You sent prayers on [the family of] Ibrāhīm. And send blessings on Muḥammad, [Your slave and messenger], [and on the family of Muḥammad] as you sent blessings on Ibrāhīm [and on the family of Ibrāhīm].”[^g222]
 
-6. \begin{Arabicitem}اللّٰهُمَّ صَلِّ عَلَى مُحَمَّدٍ، وَ[عَلَى] أَزْوَاجِهِ وَذُرِّيَّتِهِ، كَمَا صَلَّيْتَ عَلَى [آلِ] إِبْرَاهِيمَ، وَبَارِكْ عَلَى مُحَمَّدٍ وَ[عَلَى] أَزْوَاجِهِ وَذُرِّيَّتِهِ، كَمَا بَارَكْتَ عَلَى [آلِ] إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ.\end{Arabicitem}  
+6. \begin{Arabicitem}اللّٰهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَ[عَلَى] أَزْوَاجِهِ وَذُرِّيَّتِهِ،\\
+كَمَا صَلَّيْتَ عَلَى [آلِ] إِبْرَاهِيمَ،\\
+وَبَارِكْ عَلَى مُحَمَّدٍ وَ[عَلَى] أَزْوَاجِهِ وَذُرِّيَّتِهِ،\\
+كَمَا بَارَكْتَ عَلَى [آلِ] إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ.\end{Arabicitem}  
     “O Allāh! Send prayers on Muḥammad, his wives and his progeny, as You sent prayers on [the family of] Ibrāhīm. And send blessings on Muḥammad, his wives and his progeny, as You sent blessings on [the family of] Ibrāhīm; You are indeed Worthy of Praise, Full of Glory.”[^g223]
 
-7. \begin{Arabicitem}اللّٰهُمَّ صَلِّ عَلَى مُحَمَّدٍ، وَعَلَى آلِ مُحَمَّدٍ، وبَارِكْ عَلَى مُحَمَّدٍ، وَعَلَى آلِ مُحَمَّدٍ، كَمَا صَلَّيْتَ وبَارَكْتَ عَلَى إِبْرَاهِيمَ، وَآلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ.\end{Arabicitem}  
+7. \begin{Arabicitem}اللّٰهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ،\\
+وبَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ،\\
+كَمَا صَلَّيْتَ وبَارَكْتَ عَلَى إِبْرَاهِيمَ وَآلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ.\end{Arabicitem}  
     “O Allāh! Send prayers on Muḥammad and on the family of Muḥammad, and send blessings on Muḥammad and on the family of Muḥammad, as you sent prayers and sent blessings on Ibrāhīm and the family of Ibrāhīm; You are indeed Worthy of Praise, Full of Glory.”[^g224]
 
 ## Notes about sending prayers on the Prophet \pbuh
@@ -220,13 +240,17 @@ He \pbuh would recite _al-Fātiḥah_ in both these _rakʿahs_, and he ordered _
 
 When he \pbuh wanted to supplicate against someone, or supplicate for someone, he would perform _qunūt_[^g236] in the last _rakʿah_, after _rukūʿ_; after having said: “Allāh listens to the one who praises Him.”[^g237] He \pbuh would supplicate loudly,[^g238] raise his hands,[^g239] and those behind him would say: _āmīn_.[^g240]
 
-He \pbuh was known to perform _qunūt_ in all five prayers,[^g241] although he would only perform _qunūt_ in them when he supplicated for a people or supplicated against a people.[^g242] For example, he \pbuh once said, “O Allāh! Rescue al-Walīd ibn al-Walīd, and Salamah ibn Hishām, and ʿAyyāsh ibn Abī Rabīʿah. O Allāh! Harden Your penalty on (the tribe of) Mudar, and cause for it years (of famine) like the years of Yūsuf. [O Allāh! Curse Lahyān, and Ruʾl, and Dhakwān, and ʿUsayyah, who disobeyed Allāh and His Messenger!]”[^g243] Then, he \pbuh would say: “Allāh is the Greatest” when he had finished _qunūt_ and prostrate.[^g244]
+He \pbuh was known to perform _qunūt_ in all five prayers,[^g241] although he would only perform _qunūt_ in them when he supplicated for a people or supplicated against a people.[^g242] For example, he \pbuh once said, “O Allāh! Rescue al-Walīd ibn al-Walīd, and Salamah ibn Hishām, and ʿAyyāsh ibn Abī Rabīʿah. O Allāh! Harden Your penalty on (the tribe of) Mudar, and cause for it years (of famine) like the years of Yūsuf. [O Allāh! Curse Lahyān; and Ruʾl; and Dhakwān; and ʿUsayyah, who disobeyed Allāh and His Messenger!]”[^g243] Then, he \pbuh would say: “Allāh is the Greatest” when he had finished _qunūt_ and prostrate.[^g244]
 
 ## _Qunūt_ in the _Witr_ Prayer
 
 He \pbuh used to perform _qunūt_ in the (odd) _rakʿah_ of the _Witr_ prayer"[^g245] sometimes,[^g246] and he would perform it before _rukūʿ_.[^g247] He taught al-Ḥasan ibn ʿAlī \mabpwthemtwo to say [after finishing his recitation in _Witr_]:
 
-<div lang="ar">اللّٰهُمَّ اهْدِنِي فِيمَنْ هَدَيْتَ، وَعَافِنِي فِيمَنْ عَافَيْتَ، وَتَوَلَّنِي فِيمَنْ تَوَلَّيْتَ، وَبَارِكْ لِي فِيمَا أَعْطَيْتَ، وَقِنِي شَرَّ مَا قَضَيْتَ، [فَـ]إِنَّكَ تَقْضِي وَلَا يُقْضَى عَلَيْكَ، [وَ]إِنَّهُ لَا يَذِلُّ مَنْ وَالَيْتَ، [وَلَا يَعِزُّ مَنْ عَادَيْتَ]، تَبَارَكْتَ رَبَّنَا وَتَعَالَيْتَ، [لَا مَنْجَا مِنْكَ إِلَّا إِلَيْكَ].</div>
+<div lang="ar">اللّٰهُمَّ اهْدِنِي فِيمَنْ هَدَيْتَ، وَعَافِنِي فِيمَنْ عَافَيْتَ،  
+وَتَوَلَّنِي فِيمَنْ تَوَلَّيْتَ، وَبَارِكْ لِي فِيمَا أَعْطَيْتَ،  
+وَقِنِي شَرَّ مَا قَضَيْتَ، [فَـ]إِنَّكَ تَقْضِي وَلَا يُقْضَى عَلَيْكَ،  
+[وَ]إِنَّهُ لَا يَذِلُّ مَنْ وَالَيْتَ، [وَلَا يَعِزُّ مَنْ عَادَيْتَ]،  
+تَبَارَكْتَ رَبَّنَا وَتَعَالَيْتَ، [لَا مَنْجَا مِنْكَ إِلَّا إِلَيْكَ].</div>
 
 “O Allāh! Guide me among those whom You have guided; and pardon me among those who You have pardoned; and turn on me in friendship among those on whom You have turned in friendship; and bless me in what You have bestowed; and save me from the evil of what You have decreed; [for] indeed You decree, and none can influence You; [and] he is not humiliated whom You have befriended; [nor is he honored who is Your enemy.] Blessed are You, O Lord, and Exalted. [There is no place of safety from You except towards You.]”[^g248]
 

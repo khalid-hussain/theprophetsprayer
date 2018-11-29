@@ -8,7 +8,7 @@ Next, he \pbuh would salute to his right:
 “Peace and Allāh's Mercy be on you [such that the whiteness of his right cheek was visible],” and on his left:
 
 <div lang="ar">السَّلَامُ عَلَيْكَم وَرَحْمَةُ اللّٰهِ.</div>  
-“Peace and Allāh's Mercy be on you [such that the whiteness of his left cheek was visible].”[^i277] Sometimes, he would add to the greeting on the right:
+“Peace and Allāh's Mercy be on you [such that the whiteness of his left cheek was visible].”[^i277] Sometimes, he \pbuh added to the greeting on the right:
 
 <div lang="ar">وَبَرَكَاتُهُ.</div>  
 “...and His blessings (be on you).”[^i278] When he \pbuh said:

@@ -141,7 +141,7 @@ He \pbuh used to combine the pairs[^163] of the _mufaṣṣal_[^164] _sūrahs_, 
 - _al-Nabā_ (78:40) and _al-Mursalāt_ (77:50)
 - _al-Dukhān_ (44:59) and _al-Takwīr_ (81:29)
 
-Sometimes he \pbuh would combine _sūrahs_ from the seven _ṭiwāl_ (long _sūrahs_), such as _al-Baqarah_, _al-Nisā_, and _Āl ʿImrān_ in one _rakʿah_ during night prayer (soon to follow). He \pbuh used to say, “The most excellent prayer is one with long standing.”[^167]
+Sometimes he \pbuh combined _sūrahs_ from the seven _ṭiwāl_ (long _sūrahs_), such as _al-Baqarah_, _al-Nisā_, and _Āl ʿImrān_ in one _rakʿah_ during night prayer (soon to follow). He \pbuh used to say, “The most excellent prayer is one with long standing.”[^167]
 
 When he \pbuh recited, «Does He not have the power to give life to the dead?» (Quran, 75:40), he \pbuh would say,
 
@@ -327,7 +327,7 @@ He \pbuh used to prolong his recitation (at a letter which can be prolonged), su
 
 He \pbuh used to stop at the end of an _āyah_, as has already been explained.[^c6]
 
-Sometimes he \pbuh would recite in an attractive vibrating tone,[^c7] as he did on the Day of the Conquest of Makkah, when, while on his she-camel, he recited _al-Fatḥ_ (Quran, 48) [very softly],[^c8] and ʿAbd Allāh ibn Mughaffal \mabpwhim narrated this attractive tone thus: _aaa_.[^c9]
+Sometimes he \pbuh would recite in an attractive vibrating tone,[^c7] as he did on the Day of the Conquest of Makkah, when, while on his she-camel, he recited _al-Fatḥ_ (Quran, 48) [very softly],[^c8] and ʿAbd Allāh ibn Mughaffal \mabpwhim narrated this attractive tone thus: \textarabic{\amirifont{آ آ آ}}.[^c9]
 
 He \pbuh used to command making one's voice beautiful when reciting the Quran, saying, “Beautify the Quran with your voices [for a fine voice increases the Quran in beauty]”[^c10] and, “Truly, the one who has one of the finest voices among the people for reciting the Quran is the one whom you think fears Allāh when you hear him recite.”[^c11]
 

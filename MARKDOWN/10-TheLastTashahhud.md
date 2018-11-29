@@ -20,7 +20,8 @@ Also, he \pbuh heard a man glorifying and praising Allāh, and sending prayers o
 
 He \pbuh used to say, “When one of you has finished the [last] _tashahhud_, he should seek refuge with Allāh from four things; saying:
 
-<div lang="ar">اللّٰهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ عَذَابِ جَهَنَّمَ، وَمِنْ عَذَابِ الْقَبْرِ، وَمِنْ فِتْنَةِ الْمَحْيَا وَالْمَمَاتِ، وَمِنْ شَرِّ [فِتْنَةِ] الْمَسِيحِ الدَّجَّالِ.</div>
+<div lang="ar">اللّٰهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ عَذَابِ جَهَنَّمَ، وَمِنْ عَذَابِ الْقَبْرِ،  
+وَمِنْ فِتْنَةِ الْمَحْيَا وَالْمَمَاتِ، وَمِنْ شَرِّ [فِتْنَةِ] الْمَسِيحِ الدَّجَّالِ.</div>
 ‘O Allāh! I truly seek refuge with You from the punishment of Hellfire, and from the punishment of the grave, and from the trials of living and dying, and from the evil [trials] of the False Christ.’ [Then he should supplicate for himself with what occurs to him.]”[^h257]---He \pbuh would supplicate with it in his own _tashahhud_.[^h258]
 
 Also, he \pbuh used to teach the Companions \mabpwthem this the way he taught them _Sūrahs_ of the Quran.[^h259]
@@ -63,11 +64,11 @@ He \pbuh used to use different supplications in his prayer,[^h260] supplicating 
 9.  He \pbuh heard another man say in his _tashahhud_:
 
     <div lang="ar">اللّٰهُمَّ إِنِّي أَسْأَلُكَ بِأَنَّ لَكَ الْحَمْدُ، لَا إِلٰهَ إِلَّا أَنْتَ [وَحْدَكَ لَا شَرِيكَ لَكَ] [الْمَنَّانُ]، [يَا] بَدِيعَ السَّمَوَاتِ وَالْأَرْضِ، يَا ذَا الْجَلَالِ وَالْإِكْرَامِ، يَا حَيُّ يَا قَيُّومُ [إِنِّي أَسْأَلُكَ] [الْجَنَّةَ وَأَعُوذُ بِكَ مِنَ النَّارِ].</div>  
-    “O Allāh! Indeed, I ask of You, by the fact that to You belongs all Praise; there is no (true) god except You, [You alone, You have no partners;] the Bestower of Favors; [O] Originator of the Heavens and the Earth; O One that is Full of Majesty and Honor; O Living One, O Eternal One; [Indeed I ask of You][the Garden, and I seek refuge with You from the Fire].” [So the Prophet \pbuh said to his Companions, “Do you know with what he has supplicated?” They said, “Allāh and His Messenger know best.” He said, “By Him in Whose Hand is my soul, he has supplicated Allāh with His Mighty (in one narration: Mightiest) name,[^h274] with which if He is supplicated, He answers, and with which if He is asked, He gives.”][^h275]
+    “O Allāh! Indeed I ask of You by the fact that to You belongs all Praise; there is no (true) god except You, [You alone, You have no partners;] [the Bestower of Favors;] [O] Originator of the Heavens and the Earth; O One that is Full of Majesty and Honor; O Living One, O Eternal One; [Indeed I ask of You][the Garden, and I seek refuge with You from the Fire].” [So the Prophet \pbuh said to his Companions, “Do you know with what he has supplicated?” They said, “Allāh and His Messenger know best.” He \pbuh said, “By Him in Whose Hand is my soul, he has supplicated Allāh with His Mighty (in one narration: Mightiest) name,[^h274] with which if He is supplicated, He answers, and with which if He is asked, He gives.”][^h275]
 
 10. One of the last things he would say between the _tashahhud_ and the _taslīm_ would be:
 
     <div lang="ar">اللّٰهُمَّ اغْفِرْ لِي مَا قَدَّمْتُ وَمَا أَخَّرْتُ، وَمَا أَسْرَرْتُ وَمَا أَعْلَنْتُ، وَمَا أَسْرَفْتُ، وَمَا أَنْتَ أَعْلَمُ بِهِ مِنِّي، أَنْتَ الْمُقَدِّمُ، وَأَنْتَ الْمُؤَخِّرُ، لَا إِلٰهَ إِلَّا أَنْتَ.</div>  
-    “O Allāh! Forgive me what I have done in the past, and what I will do in the future, and what I have concealed, and what I have done openly, and what I have exceeded in, whatever You know about more know than I. You are the Bringer-Forward, and You are the Delayer, there is no (true) god except You.”[^h276]
+    “O Allāh! Forgive me what I have done in the past; and what I will do in the future; and what I have concealed and what I have done openly; and what I have exceeded in; and whatever You know about more know than I. You are the Bringer-Forward and You are the Delayer; there is no (true) god except You.”[^h276]
 
 

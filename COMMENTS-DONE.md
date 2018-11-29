@@ -1090,3 +1090,53 @@ K: Check mini toc width (Can it be widened?)
 [Fix Arabic of Tashahhud Duas, remove Kashida]
 
 [Compare Arabic and their translations (Tashahhud Duas)]
+
+# Sending blessings on the Prophet
+
+[First dua of sending blessings on the prophet has a discrepancy between translation and text]
+
+[Compare Arabic and their translations (Sending Salutations on the Prophet)]
+- Third dua looks weird
+
+# Qunut
+
+[O Allāh! Curse Lahyān, and Ruʾl, and Dhakwān, and ʿUsayyah, who disobeyed Allāh and His Messenger!]”
+
+K: Phrasing of “and” (ask others)
+
+---
+
+[“But what is the reward for those among you who behave like this except…”] What does this mean?
+
+(see al-Marwazī’s Masāʾil, p. 23).
+
+K: Check consistency of referencing style
+
+[Dua 9 has some discrepancy between the text and its translation]
+
+[Page 162, check Arabic]
+
+[Dua 10 is a disaster]
+
+that of Abū al-ʿĀliyah (with reference to Sūrah al-Aḥzāb, 33:56):
+
+K: consider consistency of italicizing
+
+[Chapter on Taslim. Sort out the paragraphs]
+
+[footnote 6 on page 176 is missing hyperlink]
+
+
+
+
+# Tahseeniyaat
+
+## ToC
+
+Lengthening this standing and the obligation to be at ease in it
+
+K: Can this be made shorter?
+
+The obligation to seek refuge from four things before supplicating
+
+K: Remove hyphenation.
