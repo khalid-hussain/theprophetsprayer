@@ -41,7 +41,7 @@ As for the saying of al-Shaʿrānī in _al-Mīzān_ (1/28), “This _ḥadīth_,
 
 Similar narrations to this follow.
 
-\begin{mdframed}[style=narration, frametitle={Narration 438}]
+\begin{mdframed}[style=narration, frametitle={Narration \#438}]
 The example of my Companions is that of the stars: he who follows any of them will be rightly-guided.
 \end{mdframed}
 
@@ -55,7 +55,7 @@ One of the _Muḥaddithīn_, either Ibn al-Muḥibb or al-Dhahabī, wrote in the
 Whatever you are given from the Book of Allāh is to be acted upon; there is no excuse for anyone to leave it. If it is not in the Book of Allāh, then (act upon) a previous example (\textit{sunnah}) of mine. If there is no previous example (\textit{sunnah}) of mine, then (act upon) what my Companions say; Verily, my Companions are of the station of the stars in the sky, so whichever of them you take, you will be guided, and the disagreement of my Companions is a mercy for you.
 \end{mdframed}
 
-_Mawḍūʿ_ ([Fabricated]{style="font-variant:small-caps;"}). Collected by al-Khaṭīb in _al-Kifāyah fī ʿIlm al-Riwāyah_ (p.\ 48) and also by Abū al-ʿAbbās al-Aṣam in the his _Ḥadīth_ (#142), and Ibn ʿAsākir (7/315/2) by way of:
+_Mawḍūʿ_ ([Fabricated]{style="font-variant:small-caps;"}). Collected by al-Khaṭīb in _al-Kifāyah fī ʿIlm al-Riwāyah_ (p.\ 48) and also by Abū al-ʿAbbās al-Aṣam in his _Ḥadīth_ (#142), and Ibn ʿAsākir (7/315/2) by way of:
 
 Sulaymān ibn Abī Karīmah from Juwaybir from al-Ḍaḥḥāk from Ibn ʿAbbās \mabpwthemtwo from The Prophet \pbuh.
 
@@ -67,7 +67,7 @@ Juwaybir is Ibn Saʿīd al-Azadī, and is _matrūk_ (abandoned) as al-Dāraquṭ
 
 Al-Ḍaḥḥāk is Ibn Muzāḥim al-Hilālī, and he did not meet Ibn ʿAbbās \mabpwthemtwo.
 
-Al-ʿIrāqī quoted the last part of the _ḥadīth_ in his _Takhrīj of al-Ghazzāli's Iḥyā ʿUlūm al-Dīn_ (1/25) and then said, “Its _isnād_ is _ḍaʿīf_.”
+Al-ʿIrāqī quoted the last part of the _ḥadīth_ in his _Takhrīj Iḥyā ʿUlūm al-Dīn_ (1/25) and then said, “Its _isnād_ is _ḍaʿīf_.”
 
 The _isnād_ is actually very weak due to what we have mentioned about Juwaybir, as al-Sakhāwī said in _al-Maqāṣid_. In meaning, however, the _ḥadīth_ is fabricated, as is clear from what has preceded and what will follow.
 
@@ -75,12 +75,12 @@ Al-Suyūṭī quoted the _ḥadīth_ in its entirety at the beginning of his tre
 
 It could be said to him, “first establish the throne, and then sit.” What he has mentioned about the choice is false. It is not possible for the Muslim to cling to it and act upon its generality, since it leads to breaking away from the restrictions of the Sharīʿah, as is not hard to see.
 
-\begin{mdframed}[style=narration, frametitle={Narration}]
+\begin{mdframed}[style=narration, frametitle={Narration \#60}]
 I asked my Lord about that which my Companions would disagree about after me, so Allāh inspired me: “O Muḥammad! Your Companions are to Me like the station of the stars in the sky---some are brighter than others; so whoever takes from any of them in those matters where they have differed, then to Me, he is upon guidance.”
 \end{mdframed}
 
-_Mawḍūʿ_ ([Fabricated]{style="font-variant:small-caps;"}). Reported by Ibn Baṭṭah in _al-Ibānah_ (4/11/2), al-Khaṭīb, Niẓām al-Malik in _al-Amālī_ (13/2), al-Ḍiyā in _al-Muntaqā ʿan Masmūʿātihi bimā rawa_ (116/2), and Ibn ʿAsākir (6/303/1) by way of:
-Nuʿaym ibn Ḥammād, who said, “ʿAbd al-Raḥīm ibn Zayd narrated to us from his father from Saʿīd ibn al-Musayyib from ʿUmar ibn al-Khaṭṭāb \mabpwhim from the Prophet \pbuh.”
+_Mawḍūʿ_ ([Fabricated]{style="font-variant:small-caps;"}). Reported by Ibn Baṭṭah in _al-Ibānah_ (4/11/2), al-Khaṭīb, Niẓām al-Malik in _al-Amālī_ (13/2), al-Daylamī in his _Musnad_ (2/190), al-Ḍiyā in _al-Muntaqā ʿan Masmūʿātihi bimā rawa_ (116/2), and Ibn ʿAsākir (6/303/1) by way of:
+Nuʿaym ibn Ḥammād, who said, “ʿAbd al-Raḥīm ibn Zayd al-ʿAmmī narrated to us from his father from Saʿīd ibn al-Musayyib from ʿUmar ibn al-Khaṭṭāb \mabpwhim from the Prophet \pbuh.”
 
 This _isnād_ is _mawḍūʿ_.
 
@@ -90,13 +90,11 @@ About ʿAbd al-Raḥīm ibn Zayd al-ʿAmmī, al-Bukhārī said, “He was abando
 
 About his father, Zayd al-ʿAmmī ibn al-Hawārī, Ibn Saʿd said, “He was weak in _ḥadīth_.”
 
-<!-- Check the person called al-Sijīzzī -->
-
 Al-Suyūṭī recorded this _ḥadīth_ in _al-Jāmiʿ al-Ṣaghīr_ through the narration of al-Sijīzzī in _al-Ibānah_ and Ibn ʿAsākir from ʿUmar \mabpwhim; al-Manāwī said in his commentary on _al-Jāmiʿ al-Ṣaghīr_:
 
 > Ibn al-Jawzī said in his _al-ʿIlal_, “This is not authentic. Nuʿaym has been disparaged; Ibn Maʿīn has described ʿAbd al-Raḥīm as an utter liar; it says in _al-Mīzān_: This _ḥadīth_ is false.”
 
-\begin{mdframed}[style=narration, frametitle={Narration}]
+\begin{mdframed}[style=narration, frametitle={Narration \#61}]
 Verily, my Companions are like the stars: so if you accept any of their sayings, you will be guided.
 \end{mdframed}
 
@@ -114,8 +112,6 @@ This Ḥamzah is Ibn Abī Ḥamzah; al-Dāraquṭnī said about him, “_Matrūk
 
 Ibn Ḥazm said in _al-Iḥkām_ (6/83)---after declaring that this _ḥadīth_ (#2, with all its versions) is undoubtedly a lie since it also contradicts many _āyāt_ of the Quran, e.g. _al-Najm_ (53:3--4), _al-Nisā_ (4:82), _al-Anfāl_ (8:46)---the following:
 
-<!-- Check the spelling of Samurah ibn Jundub -->
-
 > ...therefore, it is absurd that the Messenger \pbuh would command us to follow every view expressed by the Companions, may Allāh be pleased with them all, for there were among them those who permitted something while others prohibited it. If the above were the case, trading in intoxicants would be permissible if one followed Samurah ibn Jundub; it would be permissible for someone fasting to eat snow if one followed Abū Ṭalḥah, but prohibited by following others beside him; to not take a bath due to incomplete intercourse would be obligatory if one followed ʿAli, ʿUthmān, Ṭalḥah, Abū Ayyūb, and Ubayy ibn Kaʿb, but prohibited if one followed ʿĀʾishah and Ibn ʿUmar; all these examples have been related to us with authentic chains of narration.
 
 He then went on to explain at length some opinions expressed by Companions in which they were wrong about the Sunnah, both during the lifetime of the Prophet \pbuh and after his death. He then said (6/86),
@@ -128,7 +124,7 @@ i. It is not authentic with regard to its chain of narration.
 
 ii. The Prophet \pbuh could not have commanded us to follow something which he himself had declared erroneous at times; e.g. he pointed out Abū Bakr's \mabpwhim mistake in interpreting a dream, ʿUmar's \mabpwhim error in another interpretation, and Abū al-Sanābil's \mabpwhim going wrong in a verdict he gave; hence, it is not possible for him to order us to follow someone mistaken.
 
-iii. The Prophet \pbuh never spoke falsehood; his words were always truth: the comparison with the stars is clearly flawed, since for example, if someone intends to travel a certain route directed by the stars in the constellation of Capricorn, but instead follows the stars in Cancer, he will not be correctly-guided, but will stray far away from the correct path and err tremendously; therefore, it is obviously false to say that following any star will guide one correctly.
+iii. The Prophet \pbuh never spoke falsehood; his words were always truth. The comparison with the stars is clearly flawed, since for example, if someone intends to travel a certain route directed by the stars in the constellation of Capricorn, but instead follows the stars in Cancer, he will not be correctly-guided, but will stray far away from the correct path and err tremendously; therefore, it is obviously false to say that following any star will guide one correctly.
 
 Ibn al-Mulaqqin gave a summarized version of Ibn Ḥazm's words in his _al-Khulāṣah_ (2/175), endorsed it and ended his discussion of the _ḥadīth_ saying: Ibn Ḥazm said,“This is an invented, fabricated, false narration, not correct at all.”
 
