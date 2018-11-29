@@ -1,6 +1,6 @@
 
 
-# The weakness of the narrations condemning recitation behind the Imam
+# Weakness of narrations condemning recitation behind the Imam
 
 \chaptermark{The narrations condemning recitation behind the Imam}
 
@@ -10,7 +10,7 @@ From: _Silsilah al-Aḥādīth al-Ḍaʿīfah wa al-Mawḍūʿah_ (568--570) by 
 He who recites behind the Imam, his mouth is filled with fire.
 \end{mdframed}
 
-_Mawḍūʿ_ ([Fabricated]{style="font-variant:small-caps;"}). Ibn Ṭāhir---after quoting it in _Tadhkirah al-Mawḍū\-ʿāt_ (p.\ 93)---said, “The _isnād_ contains Maʾmūn ibn Aḥmad al-Harawī, an utter liar who used to narrate fabrications.” More of his description is given in _ḥadīth_ in the following sub section. Ibn Ḥibbān mentioned this _ḥadīth_ under his name in _al-Ḍuʿafā_ (The Weak Narrators) and al-Dhahabī regarded it as one of his calamities!
+_Mawḍūʿ_ ([Fabricated]{style="font-variant:small-caps;"}). Ibn Ṭāhir---after quoting it in _Tadhkirah al-Maw\-ḍūʿāt_ (p.\ 93)---said, “The _isnād_ contains Maʾmūn ibn Aḥmad al-Harawī, an utter liar who used to narrate fabrications.” More of his description is given in _ḥadīth_ in the following sub section. Ibn Ḥibbān mentioned this _ḥadīth_ under his name in _al-Ḍuʿafā_ (The Weak Narrators) and al-Dhahabī regarded it as one of his calamities!
 
 Some Ḥanafīs have been deceived by this _ḥadīth_, arguing on its basis that any recitation behind the Imam is totally _ḥarām_! Abū al-Ḥasanāt al-Laknawī said in _al-Taʿlīq al-Mumajjid ʿalā Muwaṭṭā Muḥammad_ (p.\ 99), “It was mentioned by the author of _al-Nihāyah_ and by others as _marfūʿ_ with the wording, ‘there is a burning coal in his mouth,’ and it is totally baseless.”
 
