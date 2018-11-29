@@ -1,7 +1,7 @@
 
 # Weakness of narrations endorsing ikhtilāf
 
-From: _Silsilah al-Aḥādīth al-Ḍaʿīfah wa al-Mawḍūʿah_ (#57--62, #438).
+From: _Silsilah al-Aḥādīth al-Ḍaʿīfah wa al-Mawḍūʿah_ (#57--61, #438).
 
 \begin{mdframed}[style=narration, frametitle={Narration \#57}]
 The disagreement among my \textit{Ummah} is a mercy.
