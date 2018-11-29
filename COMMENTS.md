@@ -72,3 +72,5 @@ Surah [Fulan]
 K: Consider NOT using italics since it's a name
 
 
+
+(Stopped at Appendix D)
