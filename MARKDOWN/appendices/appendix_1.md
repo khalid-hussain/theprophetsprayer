@@ -15,7 +15,7 @@ i. _Lā aṣla lahu_ ([Baseless]{style="font-variant:small-caps;"}). The _Muḥa
 
     Further, the meaning of this _ḥadīth_ is also incorrect as shown by the verifying scholars, hence Ibn Ḥazm says in _al-Iḥkām fī Uṣūl al-Aḥkām_ (5/64) after indicating that it is not a _ḥadīth_, “This is one of the most incorrect sayings possible, since if _ikhtilāf_ were a mercy, then agreement would be a punishment, something which no Muslim would say, because there can only be agreement or disagreement, and there can only be mercy or punishment.”
 
-    More of Ibn Ḥazm's words are quoted below.
+    ...
 
 ii. It [contradicts]{style="font-variant:small-caps;"} the Quran, which condemns _ikhtilāf_ in many places.
 
