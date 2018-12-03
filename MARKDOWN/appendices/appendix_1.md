@@ -7,17 +7,19 @@ From: _Silsilah al-Aḥādīth al-Ḍaʿīfah wa al-Mawḍūʿah_ (#57--61, #438
 The disagreement among my \textit{Ummah} is a mercy.
 \end{mdframed}
 
-i. _Lā aṣla lahu_ ([Baseless]{style="font-variant:small-caps;"}). The _Muḥaddithīn_ have tried to find an _isnād_ for it but have not found one, to the extent that al-Suyūṭī said in his _al-Jāmiʿ al-Ṣaghīr_, “Perhaps it was collected in one of the books of the _ḥuffāẓ_ which did not reach us”!
+_Lā aṣla lahu_ ([Baseless]{style="font-variant:small-caps;"}). The _Muḥaddithīn_ have tried to find an _isnād_ for it but have not found one, to the extent that al-Suyūṭī said in his _al-Jāmiʿ al-Ṣaghīr_, “Perhaps it was collected in one of the books of the _ḥuffāẓ_ which did not reach us”!
 
-    This suggestion is very far-fetched, since it would mean that some of the sayings of the Prophet \pbuh have been lost to the _Ummah_ forever, something which is not permissible for a Muslim to believe.
+This suggestion is very far-fetched, since it would mean that some of the sayings of the Prophet \pbuh have been lost to the _Ummah_ forever, something which is not permissible for a Muslim to believe.
 
-    Al-Manāwī quoted al-Subkī as saying, “It (i.e. the saying) is unknown to the _Muḥaddithīn_ and I cannot find any _isnād_ for it, whether _ṣaḥīḥ_, _daʿīf_, or _mawḍūʿ_,” and this was endorsed by Shaykh Zakariyyah al-Anṣārī in his notes on _Tafsīr al-Bayḍāwī_ (92/2).
+Al-Manāwī quoted al-Subkī as saying, “It (i.e. the saying) is unknown to the _Muḥaddithīn_ and I cannot find any _isnād_ for it, whether _ṣaḥīḥ_, _daʿīf_, or _mawḍūʿ_,” and this was endorsed by Shaykh Zakariyyah al-Anṣārī in his notes on _Tafsīr al-Bayḍāwī_ (92/2).
 
-    Further, the meaning of this _ḥadīth_ is also incorrect as shown by the verifying scholars, hence Ibn Ḥazm says in _al-Iḥkām fī Uṣūl al-Aḥkām_ (5/64) after indicating that it is not a _ḥadīth_, “This is one of the most incorrect sayings possible, since if _ikhtilāf_ were a mercy, then agreement would be a punishment, something which no Muslim would say, because there can only be agreement or disagreement, and there can only be mercy or punishment.”
+Further, the meaning of this _ḥadīth_ is also incorrect as shown by the verifying scholars, hence Ibn Ḥazm says in _al-Iḥkām fī Uṣūl al-Aḥkām_ (5/64) after indicating that it is not a _ḥadīth_,
 
-    ...
+> This is one of the most incorrect sayings possible, since if _ikhtilāf_ were a mercy, then agreement would be a punishment, something which no Muslim would say, because there can only be agreement or disagreement, and there can only be mercy or punishment.
 
-ii. It [contradicts]{style="font-variant:small-caps;"} the Quran, which condemns _ikhtilāf_ in many places.
+...
+
+It [contradicts]{style="font-variant:small-caps;"} the Quran, which condemns _ikhtilāf_ in many places.
 
 \begin{mdframed}[style=narration, frametitle={Narration \#58}]
 My Companions are like the stars: whichever of them you follow, you will be rightly-guided.
@@ -25,21 +27,19 @@ My Companions are like the stars: whichever of them you follow, you will be righ
 
 _Mawḍūʿ_ ([Fabricated]{style="font-variant:small-caps;"}). Related by Ibn ʿAbd al-Barr in _Jāmiʿ Bayān al-ʿIlm_ (2/91) and Ibn Ḥazm in _al-Iḥkām_ (6/82) via the route:
 
-Sallām ibn Sulaym, who said, “Al-Ḥārith ibn Ghiṣṣīn narrated to us from al-Aʿmash from Abū Sufyān from Jābir from the Prophet \pbuh.”
+Sallām bin Sulaym, who said, “Al-Ḥārith bin Ghiṣṣīn narrated to us from al-Aʿmash from Abū Sufyān from Jābir from the Prophet \pbuh.”
 
-Ibn ʿAbd al-Barr said, “Proof cannot be established with this _isnād_ because Al-Ḥārith ibn Ghiṣṣīn is _majhūl_ (unknown)”; Ibn Ḥazm said, “This is a fallen narration. Abū Sufyān is weak; Al-Ḥārith ibn Ghiṣṣīn is Abū Wahb al-Thaqafī; Sallām ibn Sulaymān narrated fabricated _aḥādīth_---this is one of them without a doubt.”
+Ibn ʿAbd al-Barr said, “Proof cannot be established with this _isnād_ because al-Ḥārith bin Ghiṣṣīn is _majhūl_ (unknown)”; Ibn Ḥazm said, “This is a fallen narration. Abū Sufyān is weak; al-Ḥārith bin Ghiṣṣīn is Abū Wahb al-Thaqafī; Sallām bin Sulaymān narrated fabricated _aḥādīth_---this is one of them without a doubt.”
 
-To judge this _ḥadīth_ on Sallām ibn Sulaym---also known as Sallām ibn Sulaymān---is better, for he is agreed to be _ḍaʿīf_; in fact, Ibn Khirāsh said about him, “An utter liar,” and Ibn Ḥibbān said, “He narrated fabricated _aḥādīth_.”
+To judge this _ḥadīth_ on Sallām bin Sulaym---also known as Sallām bin Sulaymān---is better, for he is agreed to be _ḍaʿīf_; in fact, Ibn Khirāsh said about him, “An utter liar,” and Ibn Ḥibbān said, “He narrated fabricated _aḥādīth_.”
 
 As for Abū Sufyān, he is not weak as Ibn Ḥazm said, but rather he is reliable as Ibn Ḥajar has said in _al-Taqrīb_, and Muslim narrates from him in his _Ṣaḥīḥ_.
 
-Al-Ḥārith ibn Ghiṣṣīn is unknown as Ibn Ḥazm said, as did Ibn ʿAbd al-Barr, even though Ibn Ḥibbān does mention him in _al-Thiqāt (The Reliable Narrators)_.
+Al-Ḥārith bin Ghiṣṣīn is unknown as Ibn Ḥazm said, as did Ibn ʿAbd al-Barr, even though Ibn Ḥibbān does mention him in _al-Thiqāt (The Reliable Narrators)_.
 
 Hence, Imam Aḥmad said, “This _ḥadīth_ is not authentic,” as quoted in _al-Muntakhab_ (10/199/2) of Ibn Qudāmah.
 
 As for the saying of al-Shaʿrānī in _al-Mīzān_ (1/28), “This _ḥadīth_, although debatable in the eyes of the _Muḥaddithīn_, is nevertheless authentic in the eyes of the people of _Kashf_,\kern 0.9pt” it is completely false and whimsical, and is not to be given any significance! This is because authenticating _aḥādīth_ by way of _Kashf_ (“unveiling,” while in a state of trance) is a wicked innovation of the _Ṣūfīs_, and depending upon it leads to the authentication of false, baseless _aḥādīth_ such as this one. This is because, even at the best of times, _Kashf_ is like opinion, which is sometimes correct and sometimes wrong---and that is if no personal desires enter into it! We ask Allāh to save us from it and from everything He is not pleased with.
-
-Similar narrations to this follow.
 
 \begin{mdframed}[style=narration, frametitle={Narration \#438}]
 The example of my Companions is that of the stars: he who follows any of them will be rightly-guided.
@@ -47,9 +47,9 @@ The example of my Companions is that of the stars: he who follows any of them wi
 
 _Mawḍūʿ_ ([Fabricated]{style="font-variant:small-caps;"}). Related by al-Quḍāʿī (109/2) via:
 
-Jaʿfar ibn ʿAbd al-Wāḥid, who said, “Wahb ibn Jarīr ibn Ḥāzim informed us from his father from al-Aʿmash from Abū Ṣāliḥ from Abū Hurayrah \mabpwhim from The Prophet \pbuh.”
+Jaʿfar bin ʿAbd al-Wāḥid, who said, “Wahb bin Jarīr bin Ḥāzim informed us from his father from al-Aʿmash from Abū Ṣāliḥ from Abū Hurayrah \mabpwhim from The Prophet \pbuh.”
 
-One of the _Muḥaddithīn_, either Ibn al-Muḥibb or al-Dhahabī, wrote in the margin, “This _ḥadīth_ is not at all authentic,” i.e. it is fabricated: the flaw in it is Jaʿfar here, about whom al-Dāraquṭnī said, “He used to fabricate _aḥādīth_;” Abū Zurʿah said, “He narrated baseless _aḥādīth_”; Al-Dhahabī gave some _ḥadīth_ because of which he disparaged him, among them being this one, and then said, “This is one of his calamities!”
+One of the _Muḥaddithīn_, either Ibn al-Muḥibb or al-Dhahabī, wrote in the margin, “This _ḥadīth_ is not at all authentic,” i.e. it is fabricated: the flaw in it is Jaʿfar here, about whom al-Dāraquṭnī said, “He used to fabricate _aḥādīth_.” Abū Zurʿah said, “He narrated baseless _aḥādīth_”; Al-Dhahabī gave some _ḥadīth_ because of which he disparaged him, among them being this one, and then said, “This is one of his calamities!”
 
 \begin{mdframed}[style=narration, frametitle={Narration \#59}]
 Whatever you are given from the Book of Allāh is to be acted upon; there is no excuse for anyone to leave it. If it is not in the Book of Allāh, then (act upon) a previous example (\textit{sunnah}) of mine. If there is no previous example (\textit{sunnah}) of mine, then (act upon) what my Companions say; Verily, my Companions are of the station of the stars in the sky, so whichever of them you take, you will be guided, and the disagreement of my Companions is a mercy for you.
@@ -69,9 +69,7 @@ Al-Ḍaḥḥāk is Ibn Muzāḥim al-Hilālī, and he did not meet Ibn ʿAbbās
 
 Al-ʿIrāqī quoted the last part of the _ḥadīth_ in his _Takhrīj Iḥyā ʿUlūm al-Dīn_ (1/25) and then said, “Its _isnād_ is _ḍaʿīf_.”
 
-The _isnād_ is actually very weak due to what we have mentioned about Juwaybir, as al-Sakhāwī said in _al-Maqāṣid_. In meaning, however, the _ḥadīth_ is fabricated, as is clear from what has preceded and what will follow.
-
-Al-Suyūṭī quoted the _ḥadīth_ in its entirety at the beginning of his treatise _Jazīl al-Mawāhib fī Ikhtilāf al-Madhāhib_ from the narration of al-Bayhaqī in _al-Madkhal_, and al-Daylamī related it from this route, as occurs in _al-Mawḍūʿāt_ of ʿAli al-Qārī (p.\ 19). Once you know this, then the saying of al-Suyūṭī in his aforementioned treatise is very strange: “...and this _ḥadīth_ contains several points to note; among them his \pbuh informing of the disagreements between the _madhāhib_ in non-fundamental matters, and that is one of his miracles, since it is information about the Unseen; also, his being pleased with that and approving of it, since he described it as a mercy, and that the burdened person may choose whichever of them he wishes.”
+Al-Suyūṭī quoted the _ḥadīth_ in its entirety at the beginning of his treatise _Jazīl al-Mawāhib fī Ikhtilāf al-Madhāhib_ from the narration of al-Bayhaqī in _al-Madkhal_, and al-Daylamī related it from this route, as occurs in _al-Mawḍūʿāt_ of ʿAli al-Qārī (p.\ 19). The _isnād_ is actually very weak due to what we have mentioned about Juwaybir, as al-Sakhāwī said in _al-Maqāṣid_. In meaning, however, the _ḥadīth_ is fabricated, as is clear from what has preceded and what will follow. Once you know this, then the saying of al-Suyūṭī in his aforementioned treatise is very strange: “...and this _ḥadīth_ contains several points to note; among them his \pbuh informing of the disagreements between the _madhāhib_ in non-fundamental matters, and that is one of his miracles, since it is information about the Unseen; also, his being pleased with that and approving of it, since he described it as a mercy, and that the burdened person may choose whichever of them he wishes.”
 
 It could be said to him, “first establish the throne, and then sit.” What he has mentioned about the choice is false. It is not possible for the Muslim to cling to it and act upon its generality, since it leads to breaking away from the restrictions of the Sharīʿah, as is not hard to see.
 
