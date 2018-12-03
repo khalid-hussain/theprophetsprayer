@@ -1,4 +1,6 @@
 Check all appendix links
+Change ibn if it appears in the middle of two names to bin.
+
 
 # Quran
 
@@ -74,3 +76,7 @@ K: Consider NOT using italics since it's a name
 
 
 (Stopped at Appendix D)
+
+bi Marū
+
+##### #### #### #### ### 
