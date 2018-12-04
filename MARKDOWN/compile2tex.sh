@@ -41,7 +41,7 @@ echo '[DONE] 11-TheTaslim'
 
 # Back matter
 echo 'Processing Backmatter...'
-pandoc -t latex -o ../_pdf/appendix1.tex appendices/appendix_1.md --top-level-division=chapter
+pandoc -t latex -o ../_pdf/appendix1.tex appendices/appendix_1.md --top-level-division=chapter &&
 pandoc -t latex -o ../_pdf/appendix2.tex appendices/appendix_2.md --top-level-division=chapter
 pandoc -t latex -o ../_pdf/appendix3.tex appendices/appendix_3.md --top-level-division=chapter
 pandoc -t latex -o ../_pdf/appendix4.tex appendices/appendix_4.md --top-level-division=chapter
@@ -50,6 +50,10 @@ pandoc -t latex -o ../_pdf/appendix6.tex appendices/appendix_6.md --top-level-di
 pandoc -t latex -o ../_pdf/appendix7.tex appendices/appendix_7.md --top-level-division=chapter
 pandoc -t latex -o ../_pdf/appendix8.tex appendices/appendix_8.md --top-level-division=chapter
 pandoc -t latex -o ../_pdf/addendum.tex appendices/addendum.md --top-level-division=chapter
+
+## The following is for: Ibn Ḥazm said in \emph{al-Iḥkām} (6/83)...(Appendix A)
+sed -i -e 's/\\textbackslash{}/\\/g' -e 's/\\}/}/g' -e 's/\\{/{/g' ../_pdf/appendix1.tex
+## END
 
 # https://github.com/jgm/pandoc/issues/1762
 echo 'Processing Appendices...'
