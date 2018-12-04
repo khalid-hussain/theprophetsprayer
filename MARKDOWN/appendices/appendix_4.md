@@ -4,7 +4,7 @@
 
 \chaptermark{The narration about placing the hands below the navel}
 
-From _Irwā al-Ghalīl_ (#353) and _Aḥkām al-Janāʾiz_ (p.\ 118, Maktabah Islāmī, 1986), both by Shaykh al-Albānī.
+From _Irwā al-Ghalīl_ (#353) and _Aḥkām al-Janāʾiz_ (p.\ 118, al-Maktab Islāmī, 1986), both by Shaykh al-Albānī.
 
 Imam Aḥmad bin Ḥanbal in his son, ʿAbd Allāh's _Masāʾil_ (62/2) and also in _Zawāʾid al-Musnad_ (1/110), Abū Dāwūd (756), al-Dāraquṭnī (107), al-Bayhaqi (2/310), and Ibn Abī Shaybah (1/156/1) reported:
 
