@@ -65,11 +65,11 @@ About Sulaymān ibn Abī Karīmah, Ibn Abī Ḥātim (2/1/138) reported from his
 
 Juwaybir is Ibn Saʿīd al-Azadī, and is _matrūk_ (abandoned) as al-Dāraquṭnī, al-Nasāʾī, and others have said, and Ibn al-Madīnī declared him to be very weak.
 
-Al-Ḍaḥḥāk is Ibn Muzāḥim al-Hilālī, and he did not meet Ibn ʿAbbās \mabpwthemtwo.
+Al-Ḍaḥḥāk is Ibn Muzāḥim al-Hilālī, and he did not meet Ibn ʿAbbās \mabpwthemtwo. \textcolor{MidnightBlue}{Al-Bayhaqī said, “There is a problem; although the text of this \emph{ḥadīth} is well-known---its various chains are weak; it is not established through this chain.”}
 
-Al-ʿIrāqī quoted the last part of the _ḥadīth_ in his _Takhrīj Iḥyā ʿUlūm al-Dīn_ (1/25) and then said, “Its _isnād_ is _ḍaʿīf_.”
+Al-ʿIrāqī quoted the last part of the _ḥadīth_ in his _Takhrīj Iḥyā ʿUlūm al-Dīn_ (1/25) \textcolor{RoyalPurple}{{\ding{110}} and then (al-ʿIrāqī) said, “Its \emph{isnād} is \emph{ḍaʿīf}.\kern 0.9pt”}
 
-Al-Suyūṭī quoted the _ḥadīth_ in its entirety at the beginning of his treatise _Jazīl al-Mawāhib fī Ikhtilāf al-Madhāhib_ from the narration of al-Bayhaqī in _al-Madkhal_, and al-Daylamī related it from this route, as occurs in _al-Mawḍūʿāt_ of ʿAli al-Qārī (p.\ 19). The _isnād_ is actually very weak due to what we have mentioned about Juwaybir, as al-Sakhāwī said in _al-Maqāṣid_. In meaning, however, the _ḥadīth_ is fabricated, as is clear from what has preceded and what will follow. Once you know this, then the saying of al-Suyūṭī in his aforementioned treatise is very strange: “...and this _ḥadīth_ contains several points to note; among them his \pbuh informing of the disagreements between the _madhāhib_ in non-fundamental matters, and that is one of his miracles, since it is information about the Unseen; also, his being pleased with that and approving of it, since he described it as a mercy, and that the burdened person may choose whichever of them he wishes.”
+Al-Suyūṭī quoted the _ḥadīth_ in its entirety at the beginning of his treatise _Jazīl al-Mawāhib fī Ikhtilāf al-Madhāhib_ from the narration of al-Bayhaqī in _al-Madkhal_\textcolor{Maroon}{, and al-Daylamī related it from this route, as occurs in \emph{al-Mawḍūʿāt} of ʿAli al-Qārī (p.~19)}. \textcolor{RoyalPurple}{{\ding{110}}} The _isnād_ is actually very weak due to what we have mentioned about Juwaybir, as al-Sakhāwī said in _al-Maqāṣid_. In meaning, however, the _ḥadīth_ is fabricated, as is clear from what has preceded and what will follow. Once you know this, then the saying of al-Suyūṭī in his aforementioned treatise is very strange: “...and this _ḥadīth_ contains several points to note; among them his \pbuh informing of the disagreements between the _madhāhib_ in non-fundamental matters, and that is one of his miracles, since it is information about the Unseen; also, his being pleased with that and approving of it, since he described it as a mercy, and that the burdened person may choose whichever of them he wishes.”
 
 It could be said to him, “first establish the throne, and then sit.” What he has mentioned about the choice is false. It is not possible for the Muslim to cling to it and act upon its generality, since it leads to breaking away from the restrictions of the Sharīʿah, as is not hard to see.
 
@@ -77,20 +77,20 @@ It could be said to him, “first establish the throne, and then sit.” What he
 I asked my Lord about that which my Companions would disagree about after me, so Allāh inspired me: “O Muḥammad! Your Companions are to Me like the station of the stars in the sky---some are brighter than others; so whoever takes from any of them in those matters where they have differed, then to Me, he is upon guidance.”
 \end{mdframed}
 
-_Mawḍūʿ_ ([Fabricated]{style="font-variant:small-caps;"}). Reported by Ibn Baṭṭah in _al-Ibānah_ (4/11/2), al-Khaṭīb, Niẓām al-Malik in _al-Amālī_ (13/2), al-Daylamī in his _Musnad_ (2/190), al-Ḍiyā in _al-Muntaqā ʿan Masmūʿātihi bimā rawa_ (116/2), and Ibn ʿAsākir (6/303/1) by way of:
-Nuʿaym ibn Ḥammād, who said, “ʿAbd al-Raḥīm ibn Zayd al-ʿAmmī narrated to us from his father from Saʿīd ibn al-Musayyib from ʿUmar ibn al-Khaṭṭāb \mabpwhim from the Prophet \pbuh.”
+_Mawḍūʿ_ ([Fabricated]{style="font-variant:small-caps;"}). Reported by Ibn Baṭṭah in _al-Ibānah_ (4/11/2), al-Khaṭīb, Niẓām al-Malik in _al-Amālī_ (13/2), al-Daylamī in his _Musnad_ (2/190), al-Ḍiyā in _al-Muntaqā ʿan Masmūʿātihi bi Marū_ (116/2), and Ibn ʿAsākir (6/303/1) by way of:
+Nuʿaym bin Ḥammād, who said, “ʿAbd al-Raḥīm bin Zayd al-ʿAmmī narrated to us from his father from Saʿīd bin al-Musayyib from ʿUmar bin al-Khaṭṭāb \mabpwhim from the Prophet \pbuh.”
 
 This _isnād_ is _mawḍūʿ_.
 
-Nuʿaym ibn Ḥammād is weak; Ibn Ḥajar said, “He makes many mistakes.”
+Nuʿaym bin Ḥammād is weak; Ibn Ḥajar said, “He makes many mistakes.”
 
-About ʿAbd al-Raḥīm ibn Zayd al-ʿAmmī, al-Bukhārī said, “He was abandoned;” Abū Ḥātim said, “His _aḥādīth_ are abandoned; he is unacceptable in _ḥadīth_---he used to undermine his father by narrating disasters from him;” Ibn Maʿīn said, “He was an utter, filthy liar.”
+\textcolor{Maroon}{About ʿAbd al-Raḥīm bin Zayd al-ʿAmmī, al-Bukhārī said, “He was abandoned;” Abū Ḥātim said, “His \emph{aḥādīth} are abandoned; he is unacceptable in \emph{ḥadīth}---he used to undermine his father by narrating disasters from him;” Ibn Maʿīn said, “He was an utter, filthy liar.”}
 
-About his father, Zayd al-ʿAmmī ibn al-Hawārī, Ibn Saʿd said, “He was weak in _ḥadīth_.”
+\textcolor{Maroon}{About his father, Zayd al-ʿAmmī bin al-Hawārī, Ibn Saʿd said, “He was weak in \emph{ḥadīth}.”}
 
-Al-Suyūṭī recorded this _ḥadīth_ in _al-Jāmiʿ al-Ṣaghīr_ through the narration of al-Sijīzzī in _al-Ibānah_ and Ibn ʿAsākir from ʿUmar \mabpwhim; al-Manāwī said in his commentary on _al-Jāmiʿ al-Ṣaghīr_:
+Al-Suyūṭī recorded this _ḥadīth_ in _al-Jāmiʿ al-Ṣaghīr_ through the narration of al-Sijizzī in _al-Ibānah_ and Ibn ʿAsākir from ʿUmar \mabpwhim; al-Manāwī said in his commentary on _al-Jāmiʿ al-Ṣaghīr_:
 
-> Ibn al-Jawzī said in his _al-ʿIlal_, “This is not authentic. Nuʿaym has been disparaged; Ibn Maʿīn has described ʿAbd al-Raḥīm as an utter liar; it says in _al-Mīzān_: This _ḥadīth_ is false.”
+> Ibn al-Jawzī said in _al-ʿIlal_, “This is not authentic. Nuʿaym has been disparaged; Ibn Maʿīn has described ʿAbd al-Raḥīm as an utter liar; it says in _al-Mīzān_: This _ḥadīth_ is false.”
 
 \begin{mdframed}[style=narration, frametitle={Narration \#61}]
 Verily, my Companions are like the stars: so if you accept any of their sayings, you will be guided.
@@ -98,9 +98,9 @@ Verily, my Companions are like the stars: so if you accept any of their sayings,
 
 <!-- Check the person called ʿAbd ibn Ḥumayd -->
 
-_Mawḍūʿ_ ([Fabricated]{style="font-variant:small-caps;"}). Ibn ʿAbd al-Barr reports it in _muʿallaq_ (suspended, i.e. an incomplete chain of narrators at the collector's end) form and Ibn Ḥazm reports it from him; the complete chain was provided by ʿAbd ibn Ḥumayd in _al-Muntakhab min al-Musnad_ (86/1):
+_Mawḍūʿ_ ([Fabricated]{style="font-variant:small-caps;"}). Ibn ʿAbd al-Barr reports it in _muʿallaq_ (suspended, i.e. an incomplete chain of narrators at the collector's end) form and Ibn Ḥazm reports it from him; the complete chain was provided by ʿAbd bin Ḥumayd in _al-Muntakhab min al-Musnad_ (86/1):
 
-> Aḥmad ibn Yūnus informed me: Abū Shihāb al-Ḥannāt narrated to us, from Ḥamzah al-Jazrī, from Nāfiʿ, from Ibn ʿUmar \mabpwthemtwo from the Prophet \pbuh.
+> Aḥmad bin Yūnus informed me: Abū Shihāb al-Ḥannāt narrated to us, from Ḥamzah al-Jazrī, from Nāfiʿ, from Ibn ʿUmar \mabpwthemtwo from the Prophet \pbuh.
 
 Also, Ibn Baṭṭah narrated it in _al-Ibānah_ (4/11/2) by another chain from Abū Shihāb.
 
@@ -108,7 +108,7 @@ Ibn ʿAbd al-Barr said, “This _isnād_ is not authentic; no one acceptable as 
 
 This Ḥamzah is Ibn Abī Ḥamzah; al-Dāraquṭnī said about him, “_Matrūk_ (abandoned);” Ibn ʿAdī said, “His narrations are mostly fabricated;” Ibn Ḥibbān said, “He would be alone in narrating things which are fabricated from reliable narrators, to such an extent that it is as if he did so deliberately---it is not permissible to narrate from him;” al-Dhahabī quoted some of his fabricated _aḥādīth_ in _al-Mīzān_, this being one of them.
 
-Ibn Ḥazm said in _al-Iḥkām_ (6/83)---after declaring that this _ḥadīth_ (#2, with all its versions) is undoubtedly a lie since it also contradicts many _āyāt_ of the Quran, e.g. _al-Najm_ (53:3--4), _al-Nisā_ (4:82), _al-Anfāl_ (8:46)---the following:
+Ibn Ḥazm said in \emph{al-Iḥkām} (6/83) \textcolor{Maroon}{—after declaring that this \emph{ḥadīth} (#2, with all its versions) is undoubtedly a lie since it also contradicts many \emph{āyāt} of the Quran, e.g. \emph{al-Najm} (53:3--4), \emph{al-Nisā} (4:82), \emph{al-Anfāl} (8:46)—}the following:
 
 > ...therefore, it is absurd that the Messenger \pbuh would command us to follow every view expressed by the Companions, may Allāh be pleased with them all, for there were among them those who permitted something while others prohibited it. If the above were the case, trading in intoxicants would be permissible if one followed Samurah ibn Jundub; it would be permissible for someone fasting to eat snow if one followed Abū Ṭalḥah, but prohibited by following others beside him; to not take a bath due to incomplete intercourse would be obligatory if one followed ʿAli, ʿUthmān, Ṭalḥah, Abū Ayyūb, and Ubayy ibn Kaʿb, but prohibited if one followed ʿĀʾishah and Ibn ʿUmar; all these examples have been related to us with authentic chains of narration.
 
@@ -120,7 +120,7 @@ Before this, he explained under the heading _Differing Condemned_ (5/64), the er
 
 i. It is not authentic with regard to its chain of narration.
 
-ii. The Prophet \pbuh could not have commanded us to follow something which he himself had declared erroneous at times; e.g. he pointed out Abū Bakr's \mabpwhim mistake in interpreting a dream, ʿUmar's \mabpwhim error in another interpretation, and Abū al-Sanābil's \mabpwhim going wrong in a verdict he gave; hence, it is not possible for him to order us to follow someone mistaken.
+ii. The Prophet \pbuh could not have commanded us to follow something which he himself had declared erroneous at times; e.g. he pointed out Abū Bakr's \mabpwhim mistake in interpreting a dream, ʿUmar's \mabpwhim error in another interpretation, and Abū al-Sanābil's \mabpwhim going wrong in a verdict he gave. Hence, it is not possible for him \pbuh to order us to follow someone mistaken.
 
 iii. The Prophet \pbuh never spoke falsehood; his words were always truth. The comparison with the stars is clearly flawed, since for example, if someone intends to travel a certain route directed by the stars in the constellation of Capricorn, but instead follows the stars in Cancer, he will not be correctly-guided, but will stray far away from the correct path and err tremendously; therefore, it is obviously false to say that following any star will guide one correctly.
 
