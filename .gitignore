@@ -28,6 +28,7 @@ _pdf/*.synctex.gz
 _pdf/*.toc
 _pdf/*.pdf
 _pdf/*.ent
+_pdf/fm0.tex
 _pdf/fm1.tex
 _pdf/fm2.tex
 _pdf/chapter1.tex
@@ -56,6 +57,8 @@ _pdf/AGaramondPro-Regular.otf
 _pdf/AGaramondPro-Bold.otf
 _pdf/AGaramondPro-Italic.otf
 _pdf/AGaramondPro-BoldItalic.otf
+
+MARKDOWN/_fm0.md
 
 _pdf/*.maf
 _pdf/*.mtc
