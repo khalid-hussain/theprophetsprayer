@@ -1,38 +1,37 @@
 # بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ
 
+All praise belongs to Allāh, Lord of all the worlds. May peace and blessings be upon our Prophet Muḥammad, upon his family, his companions and all those who follow his guidance until theDay of Judgment.
+
 # About
 
-This repository is about creating a crisp PDF copy of Shaykh Al-Albani's book, "Ṣifah Ṣalāh al-Nabī."
+This repository is about creating a crisp PDF copy of Shaykh Al-Albani's (May Allah forgive his mistakes and have mercy on him) book, "Ṣifah Ṣalāh al-Nabī." This repository is intended for my personal use and therefore I did not exert effort in making sure another person would be able to compile it successfully. If for some reason, you need to compile this project but run into problems, please open an issue detailing what you've tried.
+
+## Note
+
+Knowledge of text files, `make` files, and XeLaTeX is required to compile the project. I will not entertain any queries regarding this; there are a lot of places to learn online. Do not open issues regarding compilation if you don't know what you're doing.
+
+# How to compile
+
+1. Run `compile2tex.sh` in the `MARKDOWN` folder.
+2. Compile `_pdf\prophetsPrayer.tex` using XeLaTeX.
+
+## Considerations
+
+My copy uses the Adobe Garamond Pro font, which is not included in the repository for obvious reasons. I've made modifications keeping this in mind. Things such as discretionary hyphens will need to be edited if a different font and/or different margins are used. The cover page and other frontmatter content is not included for obvious reasons.
 
 # To Do
 
-I've highlight things which I would like to get back to as TODO comments in the text files. If you know the answer or verifications required, please do contact me or open an issue or send in a pull request.
+## Frontmatter
 
-## Front matter
-
+- (Maybe) Add a Preface
 - Add Typesetter's Note
-
-## Main matter
-- ~~Ayahs quoted as block use a different reference compared to inline quotations. Is this a problem?~~
-- ~~Add proper dua symbols for Prophets, Scholars and Companions.~~
-  - ~~Prophets (ʿalayh al-Salām)~~
-  - ~~Male~~
-  - ~~Female~~
-  - ~~Two people~~
-  - ~~Them~~
-- Come up with a consistent title case
-- Remove hamza transliteration if it comes at the end of a word. Example: _Irwāʾ al-Ghalīl_ --> _Irwā al-Ghalīl_.
-- Unify all references to Quranic chapters and verses. Clean the reference style used to mention the number of verses.
-- ~~Create short titles for the Appendices since headers touch the page numbers~~
+- Add Editor's Note
+- Add permission letter
 
 ## Back matter
 
-- ~~Quran Chapter list~~
+- Change font of Quran chapter list
 - References to Quranic ayat which have been translated in the text
-
-## Cover
-
-- Use golden ratio
 
 ## Final Checks
 
