@@ -2,7 +2,7 @@
 
 # Misconceptions Cleared
 
-The preceding introduction was written ten years ago, during which time it has become apparent to us that our words have had a positive effect on Muslim youth in guiding them towards the obligation in matters of their _Dīn_ and worship to return to the pure sources of Islam: the Book and the Sunnah. Among them, there was an increase in the ranks of of those who practiced the Sunnah and devoted themselves to it---Praise be to Allāh---such that they became conspicuous for it. However, I still found among some of them a steadfastness in failing to practice the Sunnah: not due to any doubt about its obligation after reading the Quranic verses and narrations from the Imams about going back to the Sunnah, but because of some objections and misconceptions which they had heard from some _muqallid shaykhs_. Therefore, I decided to mention these incorrect notions and refute them, so that perhaps this would encourage more people to practice the Sunnah and thus be among the Saved Sect, Allāh Willing.
+The preceding introduction was written ten years ago, during which time it has become apparent to us that our words have had a positive effect on Muslim youth in guiding them towards the obligation in matters of their _Dīn_ and worship to return to the pure sources of Islam: the Book and the Sunnah. Among them, there was an increase in the ranks of of those who practiced the Sunnah and devoted themselves to it---Praise be to Allāh---such that they became conspicuous for it. However, I still found among some of them a steadfastness in failing to practice the Sunnah: not due to any doubt about its obligation after reading the Quranic verses and narrations from the Imams about going back to the Sunnah, but because of some objections and misconceptions which they had heard from some _muqallid shaykhs_. Therefore, I decided to mention these incorrect notions and refute them, so that perhaps this would encourage more people to practice the Sunnah and thus be among the Saved Sect, _in-shā-Allāh_.
 
 ## Misconception One {.unnumbered}
 
@@ -140,7 +140,7 @@ Our answer to this is from many angles, which have already been discussed at len
 
 The Imam of your _Madhhab_ is not the only one who was more learned about the Sunnah than you: there are dozens, nay, hundreds, of Imams who too were more knowledgeable about the Sunnah than you. Therefore, if an authentic _sunnah_ happens to differ from your _madhhab_, and it was taken by one of these other Imams, it is definitely essential that you accept this _sunnah_ in this circumstance. This is because your aforementioned argument is of no use here, for the one opposing you will reply, “We have accepted this _sunnah_ trusting in our Imam, who accepted it”---in this instance, to follow the latter Imam is preferable to following the Imam who has differed from the Sunnah.
 
-This is clear and not confusing to anyone, in-shā-Allāh.
+This is clear and not confusing to anyone, _in-shā-Allāh_.
 
 Because of all of the above, I am able to say:
 
