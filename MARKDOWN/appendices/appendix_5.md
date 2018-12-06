@@ -24,9 +24,11 @@ Shaykh ʿAli al-Qārī quoted this _ḥadīth_ in _al-Mawḍūʿāt_ and then sa
 
 This is contrary to what has been established (above) that the fabricator was al-Harawī; if it is proved, than perhaps one of them stole it from the other!
 
-<!-- TODO consider revising this -->
+<!-- Original -->
+<!-- We can see from all this what lack of heed to the Sunnah, and abandonment of verification of narrations from the Prophet \pbuh and the Imams, can do! -->
 
-We can see from all this what lack of heed to the Sunnah, and abandonment of verification of narrations from the Prophet \pbuh and the Imams, can do!
+<!-- Zahid's version -->
+We can see from all this, what not adhering to the Sunnah, and not authenticating narrations from the Prophet and the Imams, can result in!
 
 [Note:]{style="font-variant:small-caps;"} About raising the hands on going into _rukūʿ_ and rising from it, many many _aḥādīth_ have been narrated from the Prophet \pbuh: they are actually _mutawātir_ in the eyes of the scholars; in fact, raising the hands with every _takbīr_ is proven on his authority in many _aḥādīth_; whereas not raising the hands is not authentically related from him except once via ʿAbd Allāh ibn Masʿūd \mabpwhim, but this is not suitable for putting into practice, for it is _nafī_ (negatory). It is firmly established, in the eyes of the Ḥanafīs and others, that the _muthbit_ (affirmatory) takes precedence over the _nafī_ (negatory); this is even when the affirmatory is on its own, let alone the case when it is a multitude of narrations, as in this issue! On the basis of this principle, and in the absence of anything contrary, this renders it binding on them to adopt the raising of the hands, and not to stick zealously to the _Madhhab_ after the establishment of proof. However, it is a pity that only a handful of the earlier or later ones have adopted it, so much so that not raising the hands has become a landmark for them!
 
