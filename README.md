@@ -1,6 +1,6 @@
 # بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ
 
-All praise belongs to Allāh, Lord of all the worlds. May peace and blessings be upon our Prophet Muḥammad, upon his family, his companions and all those who follow his guidance until theDay of Judgment.
+All praise belongs to Allāh, Lord of all the worlds. May peace and blessings be upon our Prophet Muḥammad, upon his family, his companions and all those who follow his guidance until the Day of Judgment.
 
 # About
 
