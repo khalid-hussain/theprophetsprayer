@@ -5,39 +5,33 @@
 
 \chaptermark{The saying of āmīn by the Imam and the Congregation}
 
-From: _Silsilah al-Aḥādīth al-Ḍaʿīfah_ (951--2) by Shaykh al-Albānī
+From: _Silsilah al-Aḥādīth al-Ḍaʿīfah_ (#951--#952) by Shaykh al-Albānī.
 
-\begin{mdframed}[style=narration, frametitle={Narration}]
+\begin{mdframed}[style=narration, frametitle={Narration \#951}]
 When he said \textit{āmīn}, those behind him would say \textit{āmīn}, such that there was a lot of noise in the mosque.
 \end{mdframed}
 
-There is [no basis]{style="font-variant:small-caps;"} for the _ḥadīth_ with this wording as far as we know. Ibn Ḥajr said in _Talkhīs al-Habīr_ (p.\ 90), “I do not find it with this wording, but its meaning is related by Ibn Mājah in the _ḥadīth_ of Bishr ibn Rāfi”:
-
-<!-- TODO check if the last part of the previous paragraph can be shifted into the next section. -->
+There is [no basis]{style="font-variant:small-caps;"} for the _ḥadīth_ with this wording as far as we know. Ibn Ḥajr said in _al-Talkhīṣ al-Ḥabīr_ (p.\ 90), “I do not find it with this wording, but its meaning is related by Ibn Mājah in the _ḥadīth_ of Bishr ibn Rāfiʿ”:
 
 \begin{mdframed}[style=narration, frametitle={Narration}]
-When he recited “Not of those who received Your anger, nor of those who go astray,” he said \textit{āmīn}, such that those close to him in the first row could hear and the mosque trembled with it.
+When he recited “Not of those who received Your anger, nor of those who go astray,” he said \textit{āmīn}, such that those close to him in the first row could hear (and the mosque trembled with it).
 \end{mdframed}
 
 _Ḍaʿīf_ ([Weak]{style="font-variant:small-caps;"}). Related by Ibn Mājah (1/281) and Abū Dāwūd without the addition (1/148), both via:
 
-Bishr ibn Rāfī from Abū ʿAbd Allāh, cousin of Abū Hurayrah \mabpwhim, from Abū Hurayrah \mabpwhim from the Prophet \pbuh.
+Bishr ibn Rāfiʿ from Abū ʿAbd Allāh, cousin of Abū Hurayrah \mabpwhim, from Abū Hurayrah \mabpwhim from the Prophet \pbuh.
 
-Ibn Ḥajar said in _al-Talkhīs_ (p.\ 90), “Bishr ibn Rāfī is weak; the cousin of Abū Hurayrah \mabpwhim has been said to be unknown, but Ibn Ḥibbān has declared him reliable.”
+Ibn Ḥajar said in _al-Talkhīṣ_ (p.\ 90), “Bishr ibn Rāfī is weak; the cousin of Abū Hurayrah \mabpwhim has been said to be unknown, but Ibn Ḥibbān has declared him reliable.”
 
-<!-- TODO check whether we need al-Būsayrī -->
-
-Būsayrī said in _al-Zawāʾid_ (56/1), “This is a weak _isnād_; Abū ʿAbd Allāh's condition is not known; Bishr was declared weak by Aḥmad, and Ibn Ḥibbān said, ‘He narrated fabrications.’”
+Al-Būṣayrī said in _al-Zawāʾid_ (56/1), “This is a weak _isnād_; Abū ʿAbd Allāh's condition is not known; Bishr was declared weak by Aḥmad, and Ibn Ḥibbān said, ‘He narrated fabrications.’”
 
 This _ḥadīth_ only gives a part of the meaning of the one before it, i.e. the saying of _āmīn_ by the Imam alone. As for the _āmīn_ of those behind, this could be the reason for the phrase “the mosque trembled with it (the sound),” but the _ḥadīth_ literally implies that the _āmīn_ of the Prophet \pbuh was the reason for this.
 
-\begin{mdframed}[style=narration, frametitle={Narration}]
+\begin{mdframed}[style=narration, frametitle={Narration \#}]
 When he finished reciting the Mother of the Quran, he raised his voice and said \textit{āmīn}.
 \end{mdframed}
 
-_Ḍaʿīf_ ([Weak]{style="font-variant:small-caps;"}). Related by al-Dāraquṭnī, al-Ḥākim and al-Bayhaqī.
-
-<!-- TODO check the spelling of Wāʾil -->
+_Ḍaʿīf_ ([Weak]{style="font-variant:small-caps;"}). Related by al-Dāraquṭnī, al-Ḥākim, and al-Bayhaqī.
 
 All the above sources contain Isḥāq ibn Ibrāhīm ibn al-ʿAlā al-Zubaydī, also known as Ibn Zibrīq, who is weak: Abū Ḥātim said, “An old man, no harm in him;” Ibn Maʿīn described him in good terms; al-Nasāʾī said, “Not reliable;” Muḥammad ibn ʿAwf said, “I have no doubt that Isḥāq ibn Zibrīq used to lie.” However, this wording is correct in meaning, for it has a supporting _ḥadīth_ of Wāʾil ibn Ḥajar with a _ṣaḥīḥ sanad_.
 
@@ -59,8 +53,8 @@ This has two defects:
 
 <!-- TODO reorganize the following to conclude sections at their end -->
 
-(i) The weakness of Muslim ibn Khālid al-Zanjī; Ibn Ḥajar said, “He was truthful, but made many errors.”
-(ii) The _ʿanʿanah_ of Ibn Jurayj, who was a _mudallis_; perhaps he actually took it from Khālid ibn Abī Anūf, who narrated it from ʿAtā as follows:
+i. The weakness of Muslim ibn Khālid al-Zanjī; Ibn Ḥajar said, “He was truthful, but made many errors.”
+ii. The _ʿanʿanah_ of Ibn Jurayj, who was a _mudallis_; perhaps he actually took it from Khālid ibn Abī Anūf, who narrated it from ʿAtā as follows:
 
 \begin{mdframed}[style=narration, frametitle={Narration}]
 I came across two hundred Companions of the Messenger of Allāh \pbuh in this mosque (i.e. Masjid al-Ḥarām, Makkah): when the Imam had said “Nor of those who go astray,” they raised their voices in \textit{āmīn} (in one narration: I heard the thundering sound of their \textit{āmīn}).

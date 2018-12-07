@@ -1,10 +1,10 @@
 
 
-# The weakness of the narrations mentioning wiping the face with the hands after duʿā
+# The weakness of narrations mentioning wiping the face with hands after duʿā
 
-\chaptermark{Narrations mentioning wiping the face with the hands after duʿā}
+\chaptermark{Narrations mentioning wiping the face with hands after duʿā}
 
-From Irwā al-Ghalīl (2/178--182) by Shaykh al-Albānī
+From _Irwā al-Ghalīl_ (2/178--182) by Shaykh al-Albānī.
 
 \begin{mdframed}[style=narration, frametitle={Narration}]
 The Prophet \pbuh, when he raised his hands in \textit{duʿā}, he would not put them down until he had wiped his face with them.
@@ -36,7 +36,7 @@ This _ḥadīth_ cannot be strengthened by the two routes of narration together 
 When you call upon Allāh, then supplicate with the palms of your hands, and do not supplicate with their backs, and when you finish, wipe your face with them.
 \end{mdframed}
 
-_Ḍaʿīf_ ([Weak]{style="font-variant:small-caps;"}). Related by Ibn Mājah (1181, 3866), Ibn Naṣr in _Qiyām al-Layl_ (p.\ 137), al-Tabarānī in _al-Muʿjam al-Kabīr_ (3/98/1) and al-Ḥākim (1/536), from Ṣāliḥ ibn Ḥassān from Muḥammad ibn Kaʿb from Ibn ʿAbbās (May Allāh be pleased with him) as _marfūʿ_.
+_Ḍaʿīf_ ([Weak]{style="font-variant:small-caps;"}). Related by Ibn Mājah (1181, 3866), Ibn Naṣr in _Qiyām al-Layl_ (p.\ 137), al-Ṭabarānī in _al-Muʿjam al-Kabīr_ (3/98/1), and al-Ḥākim (1/536), from Ṣāliḥ ibn Ḥassān from Muḥammad ibn Kaʿb from Ibn ʿAbbās \mabpwhim as _marfūʿ_.
 
 This is a weak _sanad_ due to Ibn Ḥassān, who is _munkar_ in _ḥadīth_, as al-Bukhārī said; al-Nasāʾī said, “He is abandoned in _ḥadīth_;” Ibn Ḥibbān said, “He used to have female singers and listen to music, and he used to narrate fabricated reports on the authority of trustworthy narrators;” Ibn Abī Ḥātim said in _Kitāb al-ʿIlal_ (2/351), “I asked my father (i.e. Abū Hātim al-Rāzī) about this _ḥadīth_, to which he said: ‘_Munkar_.’”
 
