@@ -12,7 +12,7 @@ Answer: The answer is from two angles:
 
 Firstly: This _ḥadīth_ is [not authentic]{style="font-variant:small-caps;"}; in fact, it is false and without foundation. ʿAllāmah al-Subkī said, “I have not come across an authentic or weak or fabricated chain of narration for it,” i.e. no chain of narrators exists for this “_ḥadīth_”!
 
-It has also been related with the wordings: “...the difference of opinion among my Companions is a mercy for you,” and “My Companions are like the stars, so whichever of them you follow, you will be guided.” Both of these are not authentic: the former is very feeble; the latter is fabricated. (See \hyperref[the-weakness-of-the-narrations-endorsing-ikhtilux101f]{\textit{Appendix A}})
+It has also been related with the wordings: “...the difference of opinion among my Companions is a mercy for you,” and “My Companions are like the stars, so whichever of them you follow, you will be guided.” Both of these are not authentic: the former is very feeble; the latter is fabricated. (See \hyperref[weakness-of-narrations-endorsing-ikhtilux101f]{\textit{Appendix A}})
 
 Secondly: This _ḥadīth_ [contradicts]{style="font-variant:small-caps;"} the Glorious Quran, for the _āyāt_ forbidding division in the _Dīn_ and enjoining unity are too well-known to need reminding. However, there is no harm in giving some of them by way of example: Allāh says,
 
