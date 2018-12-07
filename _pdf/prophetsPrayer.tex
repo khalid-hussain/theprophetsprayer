@@ -1,3 +1,4 @@
+% !TeX program = xelatex
 \documentclass[ebook, oneside]{memoir}
 
 \overfullrule=2mm
@@ -74,7 +75,7 @@
 % ******************************
 %       QURAN AYAH ENV
 % ********************
-\newcommand{\ayahSize}{0.05}
+\newcommand{\ayahSize}{0.5}
 \def\signed #1{{\leavevmode\unskip\nobreak\hfil\penalty50\hskip2em
     \hbox{}\nobreak\hfil(#1)%
     \parfillskip=0pt \finalhyphendemerits=0 \endgraf}}
@@ -117,7 +118,7 @@
 }
 \makeatother
 
-\AtBeginDocument{\globalcolor{myBlack}}
+%\AtBeginDocument{\globalcolor{myBlack}}
 %% End of CMYK Black options
 \usepackage{xspace}
 \usepackage{pdfpages}
