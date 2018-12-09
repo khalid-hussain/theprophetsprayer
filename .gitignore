@@ -57,9 +57,12 @@ _pdf/AGaramondPro-Regular.otf
 _pdf/AGaramondPro-Bold.otf
 _pdf/AGaramondPro-Italic.otf
 _pdf/AGaramondPro-BoldItalic.otf
+_pdf/editors-note.tex
+_pdf/preface.tex
 
 MARKDOWN/_fm0.md
 MARKDOWN/_preface.md
+MARKDOWN/_editors-note.md
 
 _pdf/*.maf
 _pdf/*.mtc
