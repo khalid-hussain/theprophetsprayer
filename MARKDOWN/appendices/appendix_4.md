@@ -8,23 +8,23 @@ From _Irwā al-Ghalīl_ (#353) and _Aḥkām al-Janāʾiz_ (p.\ 118, al-Maktab I
 
 Imam Aḥmad bin Ḥanbal in his son, ʿAbd Allāh's _Masāʾil_ (62/2) and also in _Zawāʾid al-Musnad_ (1/110), Abū Dāwūd (756), al-Dāraquṭnī (107), al-Bayhaqi (2/310), and Ibn Abī Shaybah (1/156/1) reported:
 
-_ʿAn_ ʿAbd al-Raḥmān ibn Isḥāq _ʿan_ Ziyād ibn Zayd al-Siwāʾī _ʿan_ Abū Juḥayfah _ʿan_ ʿAli \mabpwhim who said, “It is from the Sunnah during the prayer to place one palm on the other, below the navel.”
+_ʿAn_ ʿAbd al-Raḥmān bin Isḥāq _ʿan_ Ziyād bin Zayd al-Siwāʾī _ʿan_ Abū Juḥayfah _ʿan_ ʿAli \mabpwhim who said, “It is from the Sunnah during the prayer to place one palm on the other, below the navel.”
 
 <!-- TODO Check _iḍṭarab_ -->
 
-This is a _ḍaʿīf_ (weak) _sanad_ due to ʿAbd al-Raḥmān ibn Isḥāq (al-Wāsiṭī al-Kūfī), who is weak (see below). On top of that, it has _iḍṭarab_ (shakiness) in it, for he has narrated it:
+This is a _ḍaʿīf_ (weak) _sanad_ due to ʿAbd al-Raḥmān bin Isḥāq (al-Wāsiṭī al-Kūfī), who is weak (see below). On top of that, it has _iḍṭarab_ (shakiness) in it, for he has narrated it:
 
 i. Once _ʿan_ Ziyād _ʿan_ Abū Juḥayfah _ʿan_ ʿAlī \mabpwhim (as above);
-ii. Once _ʿan_ al-Nuʿmān ibn Saʿd _ʿan_ ʿAlī (reported by al-Dāraquṭnī and al-Bayhaqī); and
+ii. Once _ʿan_ al-Nuʿmān bin Saʿd _ʿan_ ʿAlī (reported by al-Dāraquṭnī and al-Bayhaqī); and
 iii. Once _ʿan_ Siyār Abū al-Ḥakam _ʿan_ Abū Wāʾil, who said, “Abū Hurayrah \mabpwhim said, ‘It is from the Sunnah...’” (reported by Abū Dāwūd [758] and al-Dāraquṭnī).
 
-## The Weakness of ʿAbd al-Raḥmān ibn Isḥāq al-Kūfī in the eyes of the Imams of Ḥadīth {.unnumbered}
+## The Weakness of ʿAbd al-Raḥmān bin Isḥāq al-Kūfī in the eyes of the Imams of Ḥadīth {.unnumbered}
 
-Abū Dāwūd said, “I heard Aḥmad ibn Ḥanbal declaring ʿAbd al-Raḥmān ibn Isḥāq al-Kūfī _daʿīf_ (weak).” This is why Imam Aḥmad did not accept this _ḥadīth_ of his, for his son ʿAbd Allāh said, “I saw that when praying, my father placed his hands, one on the other, above the navel.”
+Abū Dāwūd said, “I heard Aḥmad ibn Ḥanbal declaring ʿAbd al-Raḥmān bin Isḥāq al-Kūfī _daʿīf_ (weak).” This is why Imam Aḥmad did not accept this _ḥadīth_ of his, for his son ʿAbd Allāh said, “I saw that when praying, my father placed his hands, one on the other, above the navel.”
 
-Al-Nawawī said in _al-Majmūʿ_ (3/313), and also in _Sharḥ Ṣaḥīḥ Muslim_ and elsewhere, “They (i.e. the scholars of _ḥadīth_) agree in declaring this _ḥadīth_ weak, because it is a narration of ʿAbd al-Raḥmān ibn Isḥāq al-Wāsiṭī, who is a _daʿīf_ (weak) narrator, as agreed upon by the Imams of _Jarḥ wa Taʿdīl_ (Authentication and Disparagement [of reporters]).”
+Al-Nawawī said in _al-Majmūʿ_ (3/313), and also in _Sharḥ Ṣaḥīḥ Muslim_ and elsewhere, “They (i.e. the scholars of _ḥadīth_) agree in declaring this _ḥadīth_ weak, because it is a narration of ʿAbd al-Raḥmān bin Isḥāq al-Wāsiṭī, who is a _daʿīf_ (weak) narrator, as agreed upon by the Imams of _Jarḥ wa Taʿdīl_ (Authentication and Disparagement [of reporters]).”
 
-Al-Zaylaʿī said in _Naṣb al-Rāyah_ (1/314), “Al-Bayhaqī said in _al-Maʿri\-fah_: ‘Its _isnād_ is not firm, for it is a unique narration of ʿAbd ar-Raḥmān ibn Isḥāq al-Wāsiṭī, who is _matrūk_ (abandoned).’”
+Al-Zaylaʿī said in _Naṣb al-Rāyah_ (1/314), “Al-Bayhaqī said in _al-Maʿri\-fah_: ‘Its _isnād_ is not firm, for it is a unique narration of ʿAbd al-Raḥmān bin Isḥāq al-Wāsiṭī, who is _matrūk_ (abandoned).’”
 
 Ibn Ḥajar said in _Fatḥ al-Bārī_ (2/186), “It is a weak _ḥadīth_.”
 
