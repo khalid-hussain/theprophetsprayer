@@ -1,7 +1,7 @@
 % !TeX program = xelatex
 \documentclass[ebook, oneside]{memoir}
 
-\overfullrule=2mm
+%\overfullrule=2mm
 
 % Colors
 \usepackage[svgnames, dvipsnames]{xcolor}
@@ -168,6 +168,7 @@
 %       FONTS
 % ********************
 \usepackage{realscripts} % Superior fonts - footnote markers
+\setmonofont[Scale=0.95]{Inconsolata}
 \newfontfamily\arsymbols[
 Scale=1.2%
 ]{KFGQPC Arabic Symbols 01}
@@ -192,6 +193,8 @@ Numbers=OldStyle,
 BoldFont={AGaramondPro-Bold.otf},
 ItalicFont={AGaramondPro-Italic.otf},
 BoldItalicFont={AGaramondPro-BoldItalic.otf},
+SmallCapsFont={AGaramondPro-Regular.otf},
+SmallCapsFeatures={Letters=SmallCaps},
 UprightFeatures = { SizeFeatures= {
     {Size=-10, OpticalSize=8 },
     {Size= 10-14, OpticalSize=10},
@@ -241,8 +244,12 @@ Raḥ-mān
 \pdfbookmark{Cover}{Cover}
 \includepdf[fitpaper]{cover/cover}
 
+\includepdf{preview-release-note}
+
 \pdfbookmark[0]{Transliteration Key}{TransliterationKey}
 \includepdf{transliteration_key}
+
+\include{permission}
 
 % ******************************
 \frontmatter
@@ -250,6 +257,18 @@ Raḥ-mān
 \pdfbookmark{\contentsname}{Contents}
 \dominitoc
 \tableofcontents*
+
+%\input{note}
+%\cleardoublepage
+
+%\input{preface}
+%\cleardoublepage
+
+%\input{editors-note}
+%\cleardoublepage
+
+\input{author-biography}
+\cleardoublepage
 
 \input{fm1}
 \cleardoublepage
