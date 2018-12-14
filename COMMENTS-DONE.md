@@ -1140,3 +1140,20 @@ K: Can this be made shorter?
 The obligation to seek refuge from four things before supplicating
 
 K: Remove hyphenation.
+
+Do Arabic translations in the footnotes need to be:
+Arabic [Arabic word in italics]: [Definition of said word]
+
+[Sūrahs of the Quran] seems like a title, avoid italics
+
+# ToC
+
+(Appendix) The weakness of the narrations condemning recitation behind the Imam
+
+K: Remove hyphenation
+
+(Appendix) The weakness of the narrations mentioning wiping the face with the hands after duʿā
+
+K: Remove hyphenation
+
+<!-- TODO: END OF TOC -->
