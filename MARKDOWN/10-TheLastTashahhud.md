@@ -24,7 +24,7 @@ He \pbuh used to say, “When one of you has finished the [last] _tashahhud_, he
 وَمِنْ فِتْنَةِ الْمَحْيَا وَالْمَمَاتِ، وَمِنْ شَرِّ [فِتْنَةِ] الْمَسِيحِ الدَّجَّالِ.</div>
 ‘O Allāh! I truly seek refuge with You from the punishment of Hellfire, and from the punishment of the grave, and from the trials of living and dying, and from the evil [trials] of the False Christ.’ [Then he should supplicate for himself with what occurs to him.]”[^h257]---He \pbuh would supplicate with it in his own _tashahhud_.[^h258]
 
-Also, he \pbuh used to teach the Companions \mabpwthem this the way he taught them _Sūrahs_ of the Quran.[^h259]
+Also, he \pbuh used to teach the Companions \mabpwthem this the way he taught them _sūrahs_ of the Quran.[^h259]
 
 ## Supplication before _taslīm_ and its various types
 
@@ -52,7 +52,7 @@ He \pbuh used to use different supplications in his prayer,[^h260] supplicating 
     <div lang="ar">اللّٰهُمَّ إِنِّي أَسْأَلُكَ مِنَ الْخَيْرِ كُلِّهِ، [عَاجِلِهِ وَآجِلِهِ]، مَا عَلِمْتُ مِنْهُ وَمَا لَمْ أَعْلَمْ، وَأَعُوذُ بِكَ مِنَ الشَّرِّ كُلِّهِ، [عَاجِلِهِ وَآجِلِهِ]، مَا عَلِمْتُ مِنْهُ وَمَا لَمْ أَعْلَمْ، وَ أَسْأَلُكَ (وَفِي رِوَايَة: اللّٰهُمَّ إِنِّي أَسْأَلُكَ) الْجَنَّةَ، وَمَا قَرَّبَ إِلَيْهَا مِنْ قَوْلٍ أَوْ عَمَلٍ، وَأَعُوذُ بِكَ مِنَ النَّارِ، وَمَا قَرَّبَ إِلَيْهَا مِنْ قَوْلٍ أَوْ عَمَلٍ، وَأَسْأَلُكَ (وَفِي رِوَايَة: اللّٰهُمَّ إِنِّي أَسْأَلُكَ) مِنْ [الْـ]خَيْرِ مَا سَأَلَكَ عَبْدُكَ وَرَسُولُكَ [مُحَمَّدٌ، وَأَعُوذُ بِكَ مِنْ شَرِّ مَا اسْتَعَاذَكَ مِنْهُ عَبْدُكَ وَرَسُولُكَ مُحَمَّدٌ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ]، [ وَأَسْأَلُكَ] مَا قَضَيْتَ لِي مِنْ أَمْرٍ أَنْ تَجْعَلَ عَاقِبَتَهُ [لِي] رُشْداً.</div>  
     “O Allāh! Indeed I ask of You all Good, [the imminent and the far-off,] that of it which I know and that which I do not know. I seek refuge with You from all Evil, [the imminent and the far-off,] that of it which I know and that which I do not know. I ask of You (in one narration: O Allāh! Indeed I ask of You) the Garden, and whatever saying or deed which brings one near to it; I seek refuge with You from the Fire, and (from) whatever saying or deed which brings one near to it. I ask of You (in one narration: O Allāh! Indeed I ask of You) [the] good of what was asked of You by Your slave and messenger [Muḥammad; and I seek refuge with You from evil of what Your slave and messenger Muḥammad \pbuh sought refuge with You]. [I ask of You] that whatever You have decreed for me, its result [for me] be beneficial.”[^h270]
 
-7.  He \pbuh said to a man, “What do you say during the prayer?” He replied, “I bear witness (i.e. do the _tashahhud_), then I ask Allāh for the Garden, and I seek refuge with Him from the Fire. However, by Allāh, there is no murmuring[^h271] as good as yours or that of Muʿādh.” So he \pbuh said, “Our murmuring is like yours.”[^h272]
+7.  He \pbuh said to a man, “What do you say during the prayer?” He replied, “I bear witness (i.e. do the \emph{tashahhud}\kern 0.9pt), then I ask Allāh for the Garden, and I seek refuge with Him from the Fire. However, by Allāh, there is no murmuring[^h271] as good as yours or that of Muʿādh.” So he \pbuh said, “Our murmuring is like yours.”[^h272]
 
 
 8.  He \pbuh heard a man saying in his _tashahhud_:

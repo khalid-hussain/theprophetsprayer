@@ -5,7 +5,7 @@ When the Messenger of Allāh \pbuh stood for prayer, he would face the _Kaʿbah_
 
 During a journey, he \pbuh would pray voluntary prayers and _witr_ on his mount, wherever it faced carrying him [east or west].[^c4]
 
-The saying of Allāh, the Exalted, «Wherever you turn, there is the Face of Allāh» (Quran, 2:115) applies to this.[^c5]
+The saying of Allāh, The Exalted, «Wherever you turn, there is the Face of Allāh» (Quran, 2:115) applies to this.[^c5]
 
 [Sometimes] when he \pbuh intended to pray non-obligatory prayers on his she-camel, he would make it face the _qiblah_, say _takbīr_, and pray towards wherever his mount turned its face.[^c6]
 

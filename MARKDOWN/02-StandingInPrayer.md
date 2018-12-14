@@ -3,7 +3,7 @@
 
 \minitoc
 
-He \pbuh used to stand in prayer for both obligatory and voluntary prayers, carrying out the command of the Exalted: «And stand before Allāh devoutly.» (Quran, 2:238)
+He \pbuh used to stand in prayer for both obligatory and voluntary prayers, carrying out the command of The Exalted: «And stand before Allāh devoutly.» (Quran, 2:238)
 
 As for during a journey, he \pbuh would pray voluntary prayers on his riding beast.
 
@@ -21,9 +21,9 @@ He \pbuh prayed sitting during the illness of which he died.[^15] He \pbuh also 
 
 ## The prayer of a sick person in a sitting position
 
-ʿImrān ibn Ḥusayn \mabpwthemtwo said, “I was suffering from hemorrhoids (piles), so I asked the Messenger of Allāh \pbuh and he said, ‘Pray standing; if you are not able, then sitting down; if you are not able to do so, then pray lying down.’”[^17]
+ʿImrān bin Ḥuṣayn \mabpwthemtwo said, “I was suffering from hemorrhoids (piles), so I asked the Messenger of Allāh \pbuh and he said, ‘Pray standing; if you are not able, then sitting down; if you are not able to do so, then pray lying down.’”[^17]
 
-ʿImrān ibn Ḥusayn \mabpwthemtwo also said, “I asked him \pbuh about the prayer of a man while sitting, so he said: ‘He who prays standing, that is better; he who prays sitting, his reward is half that of the former. He who prays lying down (and in another narration: reclining), has half the reward of the one who sits.’”[^18] This applies to the sick person, for Anas \mabpwhim said, “The Messenger of Allāh \pbuh came out to the people while they were praying sitting due to illness, so he said: ‘Verily, the prayer of one who sits is (worth) half of the prayer of the one who stands.’”[^19]
+ʿImrān bin Ḥuṣayn \mabpwthemtwo also said, “I asked him \pbuh about the prayer of a man while sitting, so he said: ‘He who prays standing, that is better; he who prays sitting, his reward is half that of the former. He who prays lying down (and in another narration: reclining), has half the reward of the one who sits.’”[^18] This applies to the sick person, for Anas \mabpwhim said, “The Messenger of Allāh \pbuh came out to the people while they were praying sitting due to illness, so he said: ‘Verily, the prayer of one who sits is (worth) half of the prayer of the one who stands.’”[^19]
 
 Once he \pbuh visited a sick person and saw him praying (leaning) on a pillow, so he took it and cast it aside. So the man took a stick to pray (leaning) on it, but he took it and cast it aside and said: “Pray on the ground if you can, but otherwise make movements with your head, making your _sujūd_ lower than your _rukūʿ_.”[^20]
 

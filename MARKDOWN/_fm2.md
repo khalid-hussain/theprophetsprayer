@@ -24,8 +24,6 @@ Secondly: This _ḥadīth_ [contradicts]{style="font-variant:small-caps;"} the G
 ...and do not fall into disputes, lest you lose heart and your power depart.
 \end{aquote}
 
-<!-- [^b1] -->
-
 \begin{aquote}{\quran: \ruum{} 31--32}
 \begin{center}
   \includegraphics[scale = \ayahSize]{images/30_31-32}
@@ -34,8 +32,6 @@ Secondly: This _ḥadīth_ [contradicts]{style="font-variant:small-caps;"} the G
 And do not be among those who join deities with Allāh, those who split up their religion and become sects---each party rejoicing with what it has!
 \end{aquote}
 
-<!-- [^b2] -->
-
 \begin{aquote}{\quran: \hud{} 118--119}
 \begin{center}
   \includegraphics[scale = \ayahSize]{images/11_118-119}
@@ -43,8 +39,6 @@ And do not be among those who join deities with Allāh, those who split up their
 
 But they will not cease to differ, except those on whom your Lord bestows His Mercy.
 \end{aquote}
-
-<!-- [^b3] -->
 
 Therefore, if those on whom your Lord has mercy do not differ, and the people of falsehood differ, how can it make sense that differing is a mercy?!
 
@@ -72,7 +66,7 @@ Ashhab said,
 
 Imam al-Muzanī, a companion of Imam al-Shāfiʿī said,
 
-> The Companions of the Messenger of Allāh \pbuh indeed differed, and some of them corrected others. Some scrutinized others' views and found fault with them. If all their views had been correct, they would not have done so. ʿUmar ibn al-Khaṭṭāb \mabpwhim became angry at the dispute between Ubayy ibn Kaʿb and Ibn Masʿūd \mabpwthem about prayer in a single garment. Ubayy said, “Prayer in one garment is good and fine.” Ibn Masʿūd said, “That is only if one does not have many clothes.” So ʿUmar came out in anger, saying, “Two men from among the Companions of the Messenger of Allāh \pbuh, who are looked up to and learned from, disputing? Ubayy has spoken the truth and not cared about Ibn Masʿūd. But if I hear anyone disputing about it after this I will do such-and-such to him.”[^b8]
+> The Companions of the Messenger of Allāh \pbuh indeed differed, and some of them corrected others. Some scrutinized others' views and found fault with them. If all their views had been correct, they would not have done so. ʿUmar bin al-Khaṭṭāb \mabpwhim became angry at the dispute between Ubayy bin Kaʿb and Ibn Masʿūd \mabpwthem about prayer in a single garment. Ubayy said, “Prayer in one garment is good and fine.” Ibn Masʿūd said, “That is only if one does not have many clothes.” So ʿUmar came out in anger, saying, “Two men from among the Companions of the Messenger of Allāh \pbuh, who are looked up to and learned from, disputing? Ubayy has spoken the truth and not cared about Ibn Masʿūd. But if I hear anyone disputing about it after this I will do such-and-such to him.”[^b8]
 
 \newpage
 
@@ -82,7 +76,7 @@ Imam al-Muzanī also said,
 
 If it is said further: “What you have quoted from Imam Mālik that truth is only one, not plural, is contradicted by what is found in _al-Madkhal al-Fiqhī_ (1/89) by Shaykh Zarqā: ‘The Caliphs Abū Jaʿfar al-Manṣūr and later al-Rashīd proposed to select the _madhhab_ of Imam Mālik and his book _Muwaṭṭā_ as the official code of Law for the Abbasid empire, but Imam Mālik forbade them from this, saying, “Indeed, the Companions of the Messenger of Allāh \pbuh differed in the subsidiary issues and were scattered in various towns, [but each of them was correct]{style="font-variant:small-caps;"}.”’”
 
-I say: This incident of Imam Mālik is well-known, but his saying at the end, “but each of them was correct” is one for which I find no basis in any of the narrations or sources I have come across,[^b10] by Allāh, except for one narration collected by Abū Nuʿaym in _Ḥilyah al-Awliyā_ (6/332), but with a chain of narrators which includes al-Miqdām ibn Dāwūd who is classified among the weak narrators by al-Dhahabi in _al-Ḍuʿafā_; not only this, but the wording of it is, “...but each of them was correct in his own eyes.” Hence the phrase “in his own eyes” shows that the narration in _al-Madkhal_ is fabricated; indeed, how could it be otherwise, when it contradicts what has been reported on reliable authority from Imam Mālik that truth is only one and not plural, as we have mentioned, and this is agreed on by all the Imams of the Companions and the Successors as well as the four _Mujtahid_ Imams and others. Ibn ʿAbd al-Barr says, “If the conflicting views could both be right, the _Salaf_ would not have corrected each other's _ijtihād_, judgments, and verdicts. Simple reasoning forbids that something and its opposite can both be correct; as the fine saying goes,
+I say: This incident of Imam Mālik is well-known, but his saying at the end, “but each of them was correct” is one for which I find no basis in any of the narrations or sources I have come across,[^b10] by Allāh, except for one narration collected by Abū Nuʿaym in _Ḥilyah al-Awliyā_ (6/332), but with a chain of narrators which includes al-Miqdām bin Dāwūd who is classified among the weak narrators by al-Dhahabi in _al-Ḍuʿafā_; not only this, but the wording of it is, “...but each of them was correct in his own eyes.” Hence the phrase “in his own eyes” shows that the narration in _al-Madkhal_ is fabricated; indeed, how could it be otherwise, when it contradicts what has been reported on reliable authority from Imam Mālik that truth is only one and not plural, as we have mentioned, and this is agreed on by all the Imams of the Companions and the Successors as well as the four _Mujtahid_ Imams and others. Ibn ʿAbd al-Barr says, “If the conflicting views could both be right, the _Salaf_ would not have corrected each other's _ijtihād_, judgments, and verdicts. Simple reasoning forbids that something and its opposite can both be correct; as the fine saying goes,
 
 > To prove two opposites simultaneously is the most hideous absurdity.”[^b11]
 

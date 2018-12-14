@@ -2,7 +2,7 @@
 
 # Opening Supplications
 
-Next, he \pbuh would commence his recitation with many kinds of supplications in which he would praise Allāh the Exalted, and glorify and extol Him. He in fact ordered _the one who prayed badly_ to do so, saying to him: “No person's prayer is complete unless he says _takbīr_, praises Allāh, Almighty and Sublime, and extols Him, recites of the Quran what is easy for him...”[^98] He \pbuh would say any one of the following supplications:
+Next, he \pbuh would commence his recitation with many kinds of supplications in which he would praise Allāh The Exalted, and glorify and extol Him. He in fact ordered _the one who prayed badly_ to do so, saying to him: “No person's prayer is complete unless he says _takbīr_, praises Allāh, Almighty and Sublime, and extols Him, recites of the Quran what is easy for him...”[^98] He \pbuh would say any one of the following supplications:
 
 1. \begin{Arabicitem}اللّٰهُمَّ بَاعِدْ بَيْنِي وَبَيْنَ خَطَايَايَ، كَمَا بَاعَدْتَ بَيْنَ الْمَشْرِقِ وَالْمَغْرِبِ،\\اللّٰهُمَّ نَقِّنِي مِنْ خَطَايَايَ، كَمَا يُنَقَّى الثَّوْبُ الأَبْيَضُ مِنَ الدَّنَسِ،\\اللّٰهُمَّ اغْسِلْنِي مِنْ خَطَايَايَ بِالثَّلْجِ وَالْمَاءِ وَالْبَرَدِ.\end{Arabicitem}
 

@@ -27,7 +27,7 @@ He \pbuh would also say: “When the Imam says: ‘Allāhu Akbar,’ then say, �
 
 He \pbuh would raise his hands sometimes with the _takbīr_,[^66] sometimes after the _takbīr_,[^67] and sometimes before it.[^68]
 
-He \pbuh would raise them with fingers apart [not spaced out, nor together],[^69] and he would put them level with his shoulders,[^70] although occasionally, he would raise them until they were level with [the tops of] his ears.[^71]
+He \pbuh would raise them with fingers apart [not spaced out completely, nor together],[^69] and he would put them level with his shoulders,[^70] although occasionally, he would raise them until they were level with [the tops of] his ears.[^71]
 
 ## The command to place the right arm on the left
 

@@ -48,8 +48,6 @@ He also ruled that the prayer of one who does not straighten his spine fully in 
 
 He \pbuh would say any one of the following remembrances of Allāh and supplications in this posture.
 
-<!-- TODO Check names of sections, as I've renamed some of the ones that have passed -->
-
 1. \begin{Arabicitem}سُبْحَانَ رَبِّيَ الْأَعْلَى.\end{Arabicitem}  
     “How Perfect is my Lord, the Most High,” [three times]{style="font-variant:small-caps;"}.[^e114] Sometimes, he would repeat it more times than that.[^e115] Once, he repeated it so much that his _sujūd_ were nearly as long as his standing, in which he had recited three of the Long Sūrahs: _al-Baqarah_, _al-Nisā_, and _Āl ʿImrān_. That prayer was full of supplication and seeking of forgiveness, as mentioned before under \hyperref[tahajjud-prayer]{\textit{Recitation in Tahajjud Prayer}}.
 
@@ -69,7 +67,7 @@ He \pbuh would say any one of the following remembrances of Allāh and supplicat
     “O Allāh! Forgive me all my sins: the minor and the major, the first and the last, the open and the hidden.”[^e120]
 
 7. \begin{Arabicitem}سَجَدَ لَكَ سَوَادِي وَخَيَالِي، وَآمَنَ بِكَ فُؤَادِي، أَبُوءُ بِنِعْمَتِكَ عَلَيَّ، هَذِهِ يَدَيَّ وَمَا جَنَيْتُ عَلَى نَفْسِي.\end{Arabicitem}  
-    “My person and my shadow have prostrated to You; my heart has believed in You; I acknowledge Your favors towards me: here are my hands and whatever I have earned against myself.”[^e121]
+    “My person and my shadow have prostrated to You; my heart has believed in You; I acknowledge Your favors towards me: here are my hands and whatever I have earned against myself.”[^e121] \[\textcolor{Maroon}{It later became clear to Shaykh al-Albānī that this narration is actually \textsc{weak}. See \emph{Silsilah al-Aḥādīth al-Ḍaʿīfah} (\#2145, \#6579).}\]
 
 8.  \begin{Arabicitem}سُبْحَانَ ذِي الْجَبَرُوتِ وَالْمَلَكُوتِ وَالْكِبْرِيَاءِ وَالْعَظَمَةِ.\end{Arabicitem}  
     “How Perfect is He Who has all Power, Kingdom, Magnificence, and Supremacy,”[^e122] which he would say in night prayer, as with the following ones:
