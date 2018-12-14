@@ -1,5 +1,10 @@
 # Frontmatter
 echo 'Processing Frontmatter...'
+pandoc -t latex -o ../_pdf/permission.tex _permission.md --top-level-division=chapter
+pandoc -t latex -o ../_pdf/note.tex _note.md --top-level-division=chapter
+pandoc -t latex -o ../_pdf/author-biography.tex author-biography.md --top-level-division=chapter
+# pandoc -t latex -o ../_pdf/preface.tex _preface.md --top-level-division=chapter/
+# pandoc -t latex -o ../_pdf/editors-note.tex _editors-note.md --top-level-division=chapter
 pandoc -t latex -o ../_pdf/fm1.tex _fm1.md _fm1_fn.md --top-level-division=chapter
 pandoc -t latex -o ../_pdf/fm2.tex _fm2.md _fm2_fn.md --top-level-division=chapter
 
