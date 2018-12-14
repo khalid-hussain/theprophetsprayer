@@ -19,8 +19,9 @@ Thumbs.db
 *.ent
 
 _pdf/cover/test.pdf
-_pdf/cover/*.*
 _pdf/cover/cover.pdf
+_pdf/cover/*.*
+_pdf/cover/
 
 _pdf/workspace/
 _pdf/workspace/*.*
