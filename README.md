@@ -17,7 +17,7 @@ Knowledge of text files, `make` files, and XeLaTeX is required to compile the pr
 
 ## Considerations
 
-My copy uses the Adobe Garamond Pro font, which is not included in the repository for obvious reasons. I've made modifications keeping this in mind. Things such as discretionary hyphens will need to be edited if a different font and/or different margins are used. The cover page and other frontmatter content is not included for obvious reasons.
+My copy uses the Adobe Garamond Pro font, which is not included in the repository for obvious reasons. I've made modifications keeping this in mind. Things such as discretionary hyphens will need to be edited if a different font and/or different margins are used. The cover is not included for obvious reasons.
 
 # To Do
 
