@@ -20,7 +20,7 @@ It is clear to me from the _aḥādīth_ which Maʾmūn al-Harawī has invented 
 
 Perhaps he also intended to support Makḥūl's narration from Abū Ḥanīfah that he said, “He who raises his hands during prayer, his prayer is ruined,” a narration which deceived Amīr Kātib al-Itqāni, who compiled a treatise on the basis of it to argue the invalidation of the prayer by the raising of the hands! Similarly deceived was the one who trod his path and ruled that it was not permissible for Ḥanafīs to pray behind Shāfiʿīs because the latter raise their hands! While all along, this narration from Abū Ḥanīfah is utterly false, as ʿAllāmah Abū al-Ḥasanāt al-Laknawī has verified it in _al-Fawāʾid al-Bahiyyah fī Tarājim al-Ḥanafīyyah_ (pp.\ 116, 216--217).
 
-Shaykh ʿAli al-Qārī quoted this _ḥadīth_ in _al-Mawḍūʿāt_ and then said (p.\ 81), “This _ḥadīth_ was fabricated by Muḥammad bin ʿUkāshah al-Kirmānī, may Allāh disgrace him.” Later (p.\ 129), he quoted Ibn al-Qayyim as saying, “It is fabricated.”
+Shaykh ʿAlī al-Qārī quoted this _ḥadīth_ in _al-Mawḍūʿāt_ and then said (p.\ 81), “This _ḥadīth_ was fabricated by Muḥammad bin ʿUkāshah al-Kirmānī, may Allāh disgrace him.” Later (p.\ 129), he quoted Ibn al-Qayyim as saying, “It is fabricated.”
 
 This is contrary to what has been established (above) that the fabricator was al-Harawī; if it is proved, than perhaps one of them stole it from the other!
 
