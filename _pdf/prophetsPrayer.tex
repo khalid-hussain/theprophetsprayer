@@ -164,7 +164,6 @@
 \setmainlanguage{english}
 \setotherlanguage[numerals=maghrib]{arabic}
 
-
 % ******************************
 %       FONTS
 % ********************
@@ -245,12 +244,12 @@ Raḥ-mān
 \pdfbookmark{Cover}{Cover}
 \includepdf[fitpaper]{cover/cover}
 
-\includepdf{preview-release-note}
+\includepdf[fitpaper]{bismillah-page}
+
+%\includepdf{preview-release-note}
 
 \pdfbookmark[0]{Transliteration Key}{TransliterationKey}
 \includepdf{transliteration_key}
-
-\include{permission}
 
 % ******************************
 \frontmatter
@@ -259,14 +258,13 @@ Raḥ-mān
 \dominitoc
 \tableofcontents*
 
-%\input{note}
-%\cleardoublepage
+\include{permission}
 
 %\input{preface}
 %\cleardoublepage
 
-%\input{editors-note}
-%\cleardoublepage
+\input{editors-note}
+\cleardoublepage
 
 \input{author-biography}
 \cleardoublepage
