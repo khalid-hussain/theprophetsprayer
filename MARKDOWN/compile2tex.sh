@@ -4,7 +4,7 @@ pandoc -t latex -o ../_pdf/permission.tex _permission.md --top-level-division=ch
 pandoc -t latex -o ../_pdf/note.tex _note.md --top-level-division=chapter
 pandoc -t latex -o ../_pdf/author-biography.tex author-biography.md --top-level-division=chapter
 # pandoc -t latex -o ../_pdf/preface.tex _preface.md --top-level-division=chapter/
-pandoc -t latex -o ../_pdf/editors-note.tex _editors-note.md --top-level-division=chapter
+# pandoc -t latex -o ../_pdf/editors-note.tex _editors-note.md --top-level-division=chapter
 pandoc -t latex -o ../_pdf/fm1.tex _fm1.md _fm1_fn.md --top-level-division=chapter
 pandoc -t latex -o ../_pdf/fm2.tex _fm2.md _fm2_fn.md --top-level-division=chapter
 
@@ -61,20 +61,21 @@ sed -i -e 's/\\textbackslash{}/\\/g' -e 's/\\}/}/g' -e 's/\\{/{/g' ../_pdf/appen
 ## END
 
 # https://github.com/jgm/pandoc/issues/1762
+myPython="/c/Users/Khalid/AppData/Local/Programs/Python/Python36-32/python.exe"
 echo 'Processing Appendices...'
-python utilities/script.py ../_pdf/appendix1.tex
+$myPython utilities/script.py ../_pdf/appendix1.tex
 echo '[DONE] Appendix A'
-python utilities/script.py ../_pdf/appendix2.tex
+$myPython utilities/script.py ../_pdf/appendix2.tex
 echo '[DONE] Appendix B'
-python utilities/script.py ../_pdf/appendix3.tex
+$myPython utilities/script.py ../_pdf/appendix3.tex
 echo '[DONE] Appendix C'
-python utilities/script.py ../_pdf/appendix4.tex
+$myPython utilities/script.py ../_pdf/appendix4.tex
 echo '[DONE] Appendix D'
-python utilities/script.py ../_pdf/appendix5.tex
+$myPython utilities/script.py ../_pdf/appendix5.tex
 echo '[DONE] Appendix E'
-python utilities/script.py ../_pdf/appendix6.tex
+$myPython utilities/script.py ../_pdf/appendix6.tex
 echo '[DONE] Appendix F'
-python utilities/script.py ../_pdf/appendix7.tex
+$myPython utilities/script.py ../_pdf/appendix7.tex
 echo '[DONE] Appendix G'
-python utilities/script.py ../_pdf/appendix8.tex
+$myPython utilities/script.py ../_pdf/appendix8.tex
 echo '[DONE] Appendix H'
