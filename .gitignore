@@ -73,3 +73,4 @@ MARKDOWN/_editors-note.md
 _pdf/*.maf
 _pdf/*.mtc
 _pdf/*.mtc*
+_pdf/dist/*.*
