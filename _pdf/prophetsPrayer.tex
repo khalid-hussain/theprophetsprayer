@@ -127,6 +127,7 @@
 \usepackage[protrusion]{microtype}
 \usepackage[reset=true, backref=true]{enotez}
 
+
     % ******************************
     %       ENOTEZ SETTINGS
     %       http://tex.stackexchange.com/questions/272142/change-color-of-endnotes-markers
@@ -154,6 +155,7 @@
   pdfsubject={Religion},
   pdfkeywords={Islam, Religion, Worship, Fiqh, Jurisprudence},
   bookmarksnumbered=true,
+  pdfpagelabels=true,
   bookmarksopen=false,
   pdfstartview=FitH
 ]{hyperref}
@@ -241,8 +243,11 @@ Raḥ-mān
 
 \begin{document}
 \cleardoublepage
+
+\pagenumbering{Alph}
+
 \pdfbookmark{Cover}{Cover}
-\includepdf[fitpaper]{cover/cover}
+\includepdf[fitpaper]{cover/cover2}
 
 \includepdf[fitpaper]{bismillah-page}
 
@@ -254,20 +259,15 @@ Raḥ-mān
 % ******************************
 \frontmatter
 % ********************
-\pdfbookmark{\contentsname}{Contents}
-\dominitoc
-\tableofcontents*
-
-\include{permission}
-
-%\input{preface}
-%\cleardoublepage
+\input{permission}
+\cleardoublepage
 
 \input{editors-note}
 \cleardoublepage
 
-%\input{acknowledgements}
-%\cleardoublepage
+\pdfbookmark{\contentsname}{Contents}
+\dominitoc
+\tableofcontents*
 
 \input{author-biography}
 \cleardoublepage
